@@ -1,0 +1,170 @@
+# GET https://kalopetrideslaw.com/csr.html
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:34:40.824980Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:34:40 GMT
+content-type: text/html
+content-length: 10114
+last-modified: Sat, 13 Jun 2026 17:28:11 GMT
+vary: Accept-Encoding
+etag: "6a2d932b-2782"
+expires: Sat, 03 Apr 2027 22:34:40 GMT
+cache-control: max-age=15552000
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+accept-ranges: bytes
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
+<title>Corporate Social Responsibility — Kalopetrides Law LLC</title>
+<meta name="description" content="At Kalopetrides LLC we are dedicated to making meaningful, enduring contributions to the communities we serve through community projects, corporate giving and volunteering.">
+<link rel="canonical" href="https://kalopetrideslaw.com/csr">
+<meta property="og:title" content="Corporate Social Responsibility — Kalopetrides Law LLC">
+<meta property="og:description" content="At Kalopetrides LLC we are dedicated to making meaningful, enduring contributions to the communities we serve through community projects, corporate giving and volunteering.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kalopetrideslaw.com/csr">
+<meta property="og:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:site_name" content="Kalopetrides Law LLC">
+<meta property="og:locale" content="en">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-600-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="common.skip">Skip to content</a>
+
+<header class="site-header header--solid">
+  <div class="container site-header__inner">
+    <a class="brand" href="index.html#welcome" aria-label="Kalopetrides Law LLC — home">
+      <img width="1000" height="300" class="logo-silver" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+      <img width="1000" height="300" class="logo-dark" src="assets/img/logo-dark.png" alt="Kalopetrides Law LLC">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+      <a href="about-us.html" data-i18n="nav.about">About Us</a>
+      <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+      <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+      <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+      <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--primary header-cta" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+      <div class="lang-toggle" role="group" aria-label="Language"><button type="button" class="lang-btn is-active" data-lang="en" aria-label="English" aria-pressed="true"><img src="assets/img/flag-uk.svg" alt="EN"></button><button type="button" class="lang-btn" data-lang="el" aria-label="Greek" aria-pressed="false"><img src="assets/img/flag-gr.svg" alt="EL"></button></div>
+      <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+  <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+  <a href="about-us.html" data-i18n="nav.about">About Us</a>
+  <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+  <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+  <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+  <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+  <a class="btn btn--primary" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<section class="page-hero">
+  <img width="1100" height="1100" class="page-hero__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html" data-i18n="breadcrumb.home">Home</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 6 6 6-6 6"/></svg>
+      <span data-i18n="footer.csr">CSR</span>
+    </nav>
+    <span class="eyebrow eyebrow--light" data-i18n="csr.heroEyebrow">Corporate Social Responsibility</span>
+    <h1 data-i18n="csr.heroTitle">Giving back to<br>our community</h1>
+    <p class="lead" data-i18n="csr.heroLead">Meaningful and enduring contributions to the communities we serve — integral to our company culture.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="prose" data-reveal style="margin-inline:auto">
+      <p data-i18n="csr.p1">At Savvas Kalopetrides LLC, we are dedicated to making meaningful and enduring contributions to the communities we serve. Our commitment to social responsibility is reflected through our active participation with local charitable foundations, community projects, and corporate giving. These efforts are integral to our company culture and social responsibility programs.</p>
+      <p data-i18n="csr.p2">Our team of attorneys, staff, and associates works passionately to support our local communities through legal services, grassroots fundraising, donations, and volunteering. We believe that giving back creates more opportunities for success and that corporate responsibility is key to making this vision a reality.</p>
+      <p data-i18n="csr.p3">We are committed to conducting our business ethically and sustainably, respecting both people and the planet. To this end, we have implemented several initiatives that enhance our community impact and foster positive social change.</p>
+      <p data-i18n="csr.p4">Our responsibility extends to upholding our company's core values and mission, with a strong focus on promoting equality and inclusion for all.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section cta-band">
+  <img width="1100" height="1100" class="cta-band__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true" loading="lazy">
+  <div class="container" data-reveal>
+    <span class="eyebrow eyebrow--center eyebrow--light" data-i18n="cta.discuss">Let's discuss your vision</span>
+    <h2 data-i18n="cta.contactUs">Get in touch with us</h2>
+    <p data-i18n="cta.helpP">We would be delighted to hear from you and explore how we can help.</p>
+    <a class="btn btn--primary btn--lg" href="index.html#contact"><span data-i18n="cta.contactUs">Contact us</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img width="1000" height="300" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+        <p data-i18n="footer.brand">A distinguished Larnaca law firm delivering strategic, results-driven legal solutions across Cyprus and the EU.</p>
+      </div>
+      <div class="footer-col"><h4 data-i18n="footer.navigate">Navigate</h4><ul>
+        <li><a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a></li>
+        <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+        <li><a href="services-overview.html" data-i18n="nav.services">Our Services</a></li>
+        <li><a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a></li>
+        <li><a href="index.html#team" data-i18n="nav.team">Our Team</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.company">Company</h4><ul>
+        <li><a href="csr.html" data-i18n="footer.csr">CSR</a></li>
+        <li><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a></li>
+        <li><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></li>
+        <li><a href="index.html#contact" data-i18n="footer.contact">Contact</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.getintouch">Get in touch</h4><address data-i18n="footer.address">
+        Gladstonos 1, Office 205<br>6023, Larnaca, Cyprus<br>
+        <a href="tel:+35724668667">+357 24668667</a><br>
+        <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>
+      </address></div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year>2026</span> Kalopetrides LLC. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="legal"><a href="csr.html" data-i18n="footer.csr">CSR</a><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></div>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" data-cookie-banner role="region" aria-label="Cookie consent">
+  <p class="cookie-banner__text" data-i18n="cookie.text">We use cookies to enhance your experience and to load embedded content such as Google Maps. See our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--on-dark" data-cookie-decline data-i18n="cookie.decline">Decline</button>
+    <button type="button" class="btn btn--primary" data-cookie-accept data-i18n="cookie.accept">Accept</button>
+  </div>
+</div>
+<script src="assets/js/i18n.js" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
+
+<<<CURL status=200 bytes=10114 final=https://kalopetrideslaw.com/csr.html redirects=0>>>

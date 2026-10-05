@@ -1,0 +1,254 @@
+# GET https://kalopetrideslaw.com/privacy-policy.html
+# UA googlebot: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+# fetched 2026-10-05T22:31:31.053714Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:31:30 GMT
+content-type: text/html
+content-length: 16500
+last-modified: Sat, 13 Jun 2026 17:28:12 GMT
+vary: Accept-Encoding
+etag: "6a2d932c-4074"
+expires: Sat, 03 Apr 2027 22:31:30 GMT
+cache-control: max-age=15552000
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+accept-ranges: bytes
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
+<title>Privacy Policy — Kalopetrides Law LLC</title>
+<meta name="description" content="Data protection and privacy policy for Savvas Kalopetrides LLC: how we collect, use and protect your personal data, your rights, cookies and terms of use.">
+<link rel="canonical" href="https://kalopetrideslaw.com/privacy-policy">
+<meta property="og:title" content="Privacy Policy — Kalopetrides Law LLC">
+<meta property="og:description" content="Data protection and privacy policy for Savvas Kalopetrides LLC: how we collect, use and protect your personal data, your rights, cookies and terms of use.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kalopetrideslaw.com/privacy-policy">
+<meta property="og:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:site_name" content="Kalopetrides Law LLC">
+<meta property="og:locale" content="en">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-600-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="common.skip">Skip to content</a>
+
+<header class="site-header header--solid">
+  <div class="container site-header__inner">
+    <a class="brand" href="index.html#welcome" aria-label="Kalopetrides Law LLC — home">
+      <img width="1000" height="300" class="logo-silver" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+      <img width="1000" height="300" class="logo-dark" src="assets/img/logo-dark.png" alt="Kalopetrides Law LLC">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+      <a href="about-us.html" data-i18n="nav.about">About Us</a>
+      <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+      <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+      <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+      <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--primary header-cta" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+      <div class="lang-toggle" role="group" aria-label="Language"><button type="button" class="lang-btn is-active" data-lang="en" aria-label="English" aria-pressed="true"><img src="assets/img/flag-uk.svg" alt="EN"></button><button type="button" class="lang-btn" data-lang="el" aria-label="Greek" aria-pressed="false"><img src="assets/img/flag-gr.svg" alt="EL"></button></div>
+      <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+  <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+  <a href="about-us.html" data-i18n="nav.about">About Us</a>
+  <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+  <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+  <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+  <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+  <a class="btn btn--primary" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<section class="page-hero">
+  <img width="1100" height="1100" class="page-hero__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html" data-i18n="breadcrumb.home">Home</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 6 6 6-6 6"/></svg>
+      <span data-i18n="footer.privacy">Privacy Policy</span>
+    </nav>
+    <span class="eyebrow eyebrow--light" data-i18n="priv.heroEyebrow">Data Protection &amp; Privacy</span>
+    <h1 data-i18n="footer.privacy">Privacy Policy</h1>
+    <p class="lead" data-i18n="priv.heroLead">How we collect your personal data, how we use it, and the rights and choices you have.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="prose" data-reveal style="margin-inline:auto">
+      <p data-i18n="priv.intro1">We are committed to protecting your privacy. In this Privacy Policy, we set out how we collect your personal data, how we use it, and what rights and choices you have in relation to the personal data we hold and process.</p>
+      <p data-i18n="priv.intro2">This Privacy Policy is separate and in addition to client confidentiality obligations we may owe you. Please refer to the terms and conditions applicable to your engagement for further details.</p>
+
+      <h2 data-i18n="priv.h1">Who decides why and how we process your personal data?</h2>
+      <p data-i18n="priv.h1p">Savvas Kalopetrides LLC determines why and how we process your personal data.</p>
+
+      <h2 data-i18n="priv.h2">What personal data might we collect?</h2>
+      <p data-i18n="priv.h2p">We collect different types of personal data for different reasons. This may include:</p>
+      <ul>
+        <li data-i18n="priv.li1"><strong>Contact information:</strong> such as your name, job title, postal address, home address, business address, telephone number, mobile number, fax number, and email address.</li>
+        <li data-i18n="priv.li2"><strong>Payment data:</strong> data necessary for us to process payments and implement fraud prevention measures, including card numbers, security codes, and billing details.</li>
+        <li data-i18n="priv.li3"><strong>Business details:</strong> business information we process as part of our instructions or projects, or otherwise provided by you voluntarily.</li>
+        <li data-i18n="priv.li4"><strong>Compliance details:</strong> information we are legally required to collect, such as "know your client" information, sanctions and restrictive measures details, and information about relevant litigation.</li>
+        <li data-i18n="priv.li5"><strong>Preferences:</strong> information about your preferences, where relevant to the services we provide.</li>
+        <li data-i18n="priv.li6"><strong>Platform information:</strong> your password and related log-in details for platforms maintained by us, where you have access.</li>
+        <li data-i18n="priv.li7"><strong>Publicly available information:</strong> information from publicly available resources, including databases used for compliance checks or credit rating agencies.</li>
+        <li data-i18n="priv.li8"><strong>Statutory register information:</strong> information about you on account of an interest or office you may hold in, or relationships with, a corporate entity, partnership, trust, or other vehicle to which we provide services (a "Third-Party Entity").</li>
+        <li data-i18n="priv.li9"><strong>Details for services:</strong> in some cases we may collect sensitive information (e.g., health-related data) to tailor our services, based on your consent.</li>
+      </ul>
+
+      <h2 data-i18n="priv.h3">When do we collect your personal data?</h2>
+      <ul>
+        <li data-i18n="priv.when1">When you or your organization seek our services.</li>
+        <li data-i18n="priv.when2">When you make inquiries via our website, email, phone, or in person.</li>
+        <li data-i18n="priv.when3">When a Third-Party Entity engages us, and you hold an office/interest in that entity.</li>
+        <li data-i18n="priv.when4">When you or your organization provide services to us.</li>
+      </ul>
+      <p data-i18n="priv.h3p">We may also collect data from third parties (e.g., government agencies, credit reporting agencies, or public records).</p>
+
+      <h2 data-i18n="priv.h4">How will we use your personal data?</h2>
+      <p data-i18n="priv.h4p">We use your personal data for the following purposes (Permitted Purposes):</p>
+      <ul>
+        <li data-i18n="priv.use1">Managing business relationships (payments, accounting, audits).</li>
+        <li data-i18n="priv.use2">Legal compliance (anti-money laundering, fraud prevention, sanctions checks).</li>
+        <li data-i18n="priv.use3">Providing updates relevant to your role in a Third-Party Entity.</li>
+        <li data-i18n="priv.use4">Improving services, communications, and security.</li>
+        <li data-i18n="priv.use5">Defending legal rights or complying with court orders.</li>
+        <li data-i18n="priv.use6">Marketing (e.g., newsletters, events) with your consent.</li>
+      </ul>
+      <p data-i18n="priv.h4p2">Legal bases for processing: contractual necessity, legal obligations, legitimate interests, or your consent.</p>
+
+      <h2 data-i18n="priv.h5">How will we share your personal data?</h2>
+      <ul>
+        <li data-i18n="priv.share1">With Third-Party Entities for administrative or billing purposes.</li>
+        <li data-i18n="priv.share2">With third-party service providers (e.g., compliance screening, IT support) under strict confidentiality.</li>
+        <li data-i18n="priv.share3">With courts, regulators, or law enforcement authorities as required.</li>
+        <li data-i18n="priv.share4">As aggregated data for website analytics (no individual identification).</li>
+      </ul>
+
+      <h2 data-i18n="priv.h6">Can you refuse to share your personal data with us?</h2>
+      <p data-i18n="priv.h6p">You may withhold data, but this may limit our ability to provide services (e.g., compliance checks).</p>
+
+      <h2 data-i18n="priv.h7">How do we keep your personal data safe?</h2>
+      <p data-i18n="priv.h7p">We implement technical and organizational measures (e.g., secure systems, restricted access) to protect your data.</p>
+
+      <h2 data-i18n="priv.h8">Personal data we receive from you about other people</h2>
+      <p data-i18n="priv.h8p">You must ensure individuals whose data you share with us are aware of this Privacy Policy.</p>
+
+      <h2 data-i18n="priv.h9">How long do we keep your data?</h2>
+      <p data-i18n="priv.h9p">We retain data only as long as necessary (e.g., legal obligations, claims defense).</p>
+
+      <h2 data-i18n="priv.h10">What rights do you have?</h2>
+      <ul>
+        <li data-i18n="priv.right1">Access, correct, or delete your data.</li>
+        <li data-i18n="priv.right2">Object to processing or restrict use.</li>
+        <li data-i18n="priv.right3">Withdraw consent or opt out of marketing.</li>
+        <li data-i18n="priv.right4">Lodge complaints via <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a> (proof of ID required).</li>
+      </ul>
+
+      <h3 data-i18n="priv.h11">Correcting and updating your data</h3>
+      <p data-i18n="priv.h11p">Notify us at <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a> of any changes.</p>
+
+      <h3 data-i18n="priv.h12">Cookies</h3>
+      <p data-i18n="priv.h12p">We use cookies (e.g., Google Analytics) to enhance user experience. See our Cookies Policy below.</p>
+
+      <h3 data-i18n="priv.h13">Contact Us</h3>
+      <p data-i18n="priv.h13p">For questions or requests: <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>.</p>
+
+      <h3 data-i18n="priv.h14">Changes to this Policy</h3>
+      <p data-i18n="priv.h14p">Updates will be posted on our website. Continued use constitutes acceptance.</p>
+
+      <h2 data-i18n="priv.h15">Cookies Policy</h2>
+      <ul>
+        <li data-i18n="priv.cookie1"><strong>Owner and Data Controller:</strong> Savvas Kalopetrides LLC</li>
+        <li data-i18n="priv.cookie2"><strong>Contact:</strong> <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a></li>
+        <li data-i18n="priv.cookie3"><strong>Data Collected:</strong> cookies, usage data.</li>
+        <li data-i18n="priv.cookie4"><strong>Purposes:</strong> analytics (Google Analytics), service optimization.</li>
+        <li data-i18n="priv.cookie5"><strong>User Rights:</strong> access, correction, deletion. Contact us for details.</li>
+      </ul>
+
+      <h2 data-i18n="priv.h16">Terms of Use</h2>
+      <h3 data-i18n="priv.h17">Copyright</h3>
+      <p data-i18n="priv.copyP">All content on this website is the property of Savvas Kalopetrides LLC. Unauthorized use is prohibited.</p>
+      <h3 data-i18n="priv.h18">Linking</h3>
+      <p data-i18n="priv.linkP">Requires prior consent (contact <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>).</p>
+      <h3 data-i18n="priv.h19">Disclaimer</h3>
+      <p data-i18n="priv.discP">Content is for informational purposes only and does not constitute legal advice.</p>
+
+      <p class="meta" data-i18n="priv.updated">Latest update: March 2025</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img width="1000" height="300" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+        <p data-i18n="footer.brand">A distinguished Larnaca law firm delivering strategic, results-driven legal solutions across Cyprus and the EU.</p>
+      </div>
+      <div class="footer-col"><h4 data-i18n="footer.navigate">Navigate</h4><ul>
+        <li><a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a></li>
+        <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+        <li><a href="services-overview.html" data-i18n="nav.services">Our Services</a></li>
+        <li><a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a></li>
+        <li><a href="index.html#team" data-i18n="nav.team">Our Team</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.company">Company</h4><ul>
+        <li><a href="csr.html" data-i18n="footer.csr">CSR</a></li>
+        <li><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a></li>
+        <li><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></li>
+        <li><a href="index.html#contact" data-i18n="footer.contact">Contact</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.getintouch">Get in touch</h4><address data-i18n="footer.address">
+        Gladstonos 1, Office 205<br>6023, Larnaca, Cyprus<br>
+        <a href="tel:+35724668667">+357 24668667</a><br>
+        <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>
+      </address></div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year>2026</span> Kalopetrides LLC. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="legal"><a href="csr.html" data-i18n="footer.csr">CSR</a><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></div>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" data-cookie-banner role="region" aria-label="Cookie consent">
+  <p class="cookie-banner__text" data-i18n="cookie.text">We use cookies to enhance your experience and to load embedded content such as Google Maps. See our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--on-dark" data-cookie-decline data-i18n="cookie.decline">Decline</button>
+    <button type="button" class="btn btn--primary" data-cookie-accept data-i18n="cookie.accept">Accept</button>
+  </div>
+</div>
+<script src="assets/js/i18n.js" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
+
+<<<CURL status=200 bytes=16500 final=https://kalopetrideslaw.com/privacy-policy.html redirects=0>>>

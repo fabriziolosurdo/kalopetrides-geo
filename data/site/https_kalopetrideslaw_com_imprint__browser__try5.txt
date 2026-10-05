@@ -1,0 +1,20 @@
+# GET https://kalopetrideslaw.com/imprint
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:36:38.301880Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 202 
+server: nginx
+date: Mon, 05 Oct 2026 22:36:38 GMT
+content-type: text/html
+content-length: 176
+sg-captcha: challenge
+x-robots-tag: noindex
+set-cookie: nevercache-b39818=Y;Max-Age=-1
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+cache-control: no-store,no-cache,max-age=0
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fimprint&y=ipc:160.79.106.135:1791239798.287"></meta></head></html>
+<<<CURL status=202 bytes=176 final=https://kalopetrideslaw.com/imprint redirects=0>>>
