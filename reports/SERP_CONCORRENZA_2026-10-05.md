@@ -1,6 +1,6 @@
 # Concorrenza su Google (Serper) — Kalopetrides Law
 
-Data: 2026-10-05
+Data: 2026-10-05 · aggiornato 2026-10-06 (riesecuzione + debug)
 
 ## Esito: Parte B NON eseguita
 
@@ -15,11 +15,30 @@ File: `data/serp/_first_call_403.json` (risposta) e `data/serp/_first_call_reque
 
 Come previsto dal brief ("se la prima chiamata risponde 401 o 403, la credenziale non è attiva: salta tutta la Parte B"), non sono state fatte altre chiamate.
 
-- **Chiamate Serper usate: 1 su 60.**
+- **Chiamate Serper usate: 3 su 60** (1 il 05/10, 2 il 06/10: vedi sotto).
 - Nessun dato SERP raccolto: nessuna tabella query × top 10, nessun dominio ricorrente, nessuna posizione per kalopetrideslaw.com o legalhelpcy.com.
 - Nessun giudizio sulla difficoltà: senza SERP osservate non è formulabile senza inventare.
 
 Probabile causa (non verificata): la credenziale Serper dell'ambiente cloud non è attiva o non viene iniettata dal proxy per questa sessione; Serper riceve la richiesta senza chiave valida. Da controllare nelle impostazioni dell'ambiente (credenziale API per `google.serper.dev`).
+
+## Riesecuzione del 2026-10-06
+
+1. `python3 scripts/serp_run.py`: la prima delle 15 chiamate (q1, `gl=cy`, `hl=en`) ha di nuovo risposto `403 {"message":"Unauthorized.","statusCode":403}` e lo script si è fermato. File: `data/serp/_rerun_2026-10-06_403.json`.
+2. Una sola chiamata di diagnosi con `curl -v`, stessa query. Output completo in `data/serp/_debug.txt`; eventuali righe con chiavi sarebbero oscurate, ma nessuna era presente.
+
+Cosa mostra `_debug.txt`:
+
+| Fase | Header |
+|---|---|
+| Tunnel verso il proxy locale | `CONNECT google.serper.dev:443` → `HTTP/1.1 200 Connection Established` |
+| Richiesta inviata dal client | `POST /search`, `Host: google.serper.dev`, `User-Agent: curl/8.5.0`, `Accept: */*`, `Content-Type: application/json`, `Content-Length: 102`. **Nessun `X-API-KEY`**, come da brief |
+| Risposta di Serper | `HTTP/1.1 403 Forbidden`, `Server: Google Frontend`, `Via: 1.1 google`, `Content-Type: application/json`, corpo `{"message":"Unauthorized.","statusCode":403}` |
+
+Lettura:
+- La risposta arriva davvero da Serper (`Server: Google Frontend`, corpo JSON di Serper). Il proxy non blocca l'host: un blocco del proxy darebbe un errore sul `CONNECT`, che invece riceve 200.
+- **Non verificabile dal container**: se il proxy aggiunga l'header `X-API-KEY`. L'iniezione avverrebbe a valle del tunnel TLS, quindi `curl -v` vede solo gli header inviati dal client. La pagina di stato del proxy non elenca credenziali per `google.serper.dev` e non registra errori per quell'host.
+- In entrambi i casi il risultato è lo stesso: Serper riceve la richiesta senza una chiave valida. O la credenziale non è configurata o iniettata per questo ambiente, o la chiave salvata non è valida o non ha più crediti.
+- Rimedio (Fab): nelle impostazioni dell'ambiente cloud (menu dell'ambiente nella barra del titolo della sessione → Edit), verificare o aggiungere la API credential per `google.serper.dev`, poi aprire una **nuova** sessione. In alternativa si può salvare la chiave come variabile d'ambiente (es. `SERPER_API_KEY`) e adattare `scripts/serp_run.py` per leggerla. La chiave non va mai incollata in chat. Conviene anche controllare dalla dashboard di serper.dev che la chiave sia attiva e abbia crediti.
 
 ## Pronto per la riesecuzione
 

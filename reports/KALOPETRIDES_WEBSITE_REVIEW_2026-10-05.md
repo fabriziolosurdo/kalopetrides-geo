@@ -8,7 +8,7 @@ To be found by people in Russia, Ukraine, Germany, Austria, the Netherlands and 
 
 ## 2. What search engines and AI assistants find today
 
-We were not able to check Google's live results on this occasion, so this section describes only what Google and AI assistants find on the website itself.
+We tried to check Google's live results on 5 and 6 October 2026, but the search tool we use was not available on either day. This section therefore describes only what Google and AI assistants can find on the website itself. Google's live results will be added once the check can be run.
 
 | Service | What the website offers today | Languages |
 |---|---|---|

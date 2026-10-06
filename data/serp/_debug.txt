@@ -1,0 +1,96 @@
+# curl -v POST https://google.serper.dev/search — 2026-10-06T16:45:47Z
+# Nessun header X-API-KEY inviato dal client. Eventuali righe con chiavi sono oscurate.
+
+* Uses proxy env variable no_proxy == 'localhost,127.0.0.1,::1,127.0.0.0/8,0.0.0.0/8,::,169.254.0.0/16,api.anthropic.com,api-staging.anthropic.com,api-pr-preview.anthropic.com,mcp-proxy.anthropic.com,mcp-proxy-staging.anthropic.com,registry.npmjs.org,jsr.io,npm.jsr.io,pypi.org,files.pythonhosted.org,index.crates.io,proxy.golang.org,host.docker.internal,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,100.64.0.0/10,.svc.cluster.local,*.svc.cluster.local'
+* Uses proxy env variable https_proxy == 'http://127.0.0.1:41349'
+*   Trying 127.0.0.1:41349...
+* Connected to 127.0.0.1 (127.0.0.1) port 41349
+* CONNECT tunnel: HTTP/1.1 negotiated
+* allocate connect buffer
+* Establish HTTP proxy tunnel to google.serper.dev:443
+> CONNECT google.serper.dev:443 HTTP/1.1
+> Host: google.serper.dev:443
+> User-Agent: curl/8.5.0
+> Proxy-Connection: Keep-Alive
+> 
+< HTTP/1.1 200 Connection Established
+< 
+* CONNECT phase completed
+* CONNECT tunnel established, response 200
+* ALPN: curl offers h2,http/1.1
+} [5 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+*  CAfile: /root/.ccr/ca-bundle.crt
+*  CApath: /etc/ssl/certs
+{ [5 bytes data]
+* TLSv1.3 (IN), TLS handshake, Server hello (2):
+{ [122 bytes data]
+* TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+{ [10 bytes data]
+* TLSv1.3 (IN), TLS handshake, Certificate (11):
+{ [2577 bytes data]
+* TLSv1.3 (IN), TLS handshake, CERT verify (15):
+{ [264 bytes data]
+* TLSv1.3 (IN), TLS handshake, Finished (20):
+{ [36 bytes data]
+* TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+} [1 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Finished (20):
+} [36 bytes data]
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / X25519 / RSASSA-PSS
+* ALPN: server did not agree on a protocol. Uses default.
+* Server certificate:
+*  subject: CN=google.serper.dev
+*  start date: Oct  6 15:45:39 2026 GMT
+*  expire date: Oct  6 16:45:39 2027 GMT
+*  subjectAltName: host "google.serper.dev" matched cert's "google.serper.dev"
+*  issuer: CN=CCR agent-proxy interception CA (production) 2026-08; O=Anthropic
+*  SSL certificate verify ok.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (4096/152 Bits/secBits), signed using sha256WithRSAEncryption
+* using HTTP/1.x
+} [5 bytes data]
+> POST /search HTTP/1.1
+> Host: google.serper.dev
+> User-Agent: curl/8.5.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 102
+> 
+} [102 bytes data]
+* TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+{ [122 bytes data]
+< HTTP/1.1 403 Forbidden
+{ [5 bytes data]
+< Connection: close
+{ [5 bytes data]
+< Content-Length: 44
+{ [5 bytes data]
+< Access-Control-Allow-Origin: *
+{ [5 bytes data]
+< Alt-Svc: h3=":443"; ma=2592000
+{ [5 bytes data]
+< Content-Type: application/json; charset=utf-8
+{ [5 bytes data]
+< Date: Tue, 06 Oct 2026 16:45:47 GMT
+{ [5 bytes data]
+< Server: Google Frontend
+{ [5 bytes data]
+< Set-Cookie: GAESA=CrYBMDAxMGRkODYwNzZhOGE1YTEwY2Q2ZThiMmM3OTAyNDU0ZjAwYWI0ZjQ1YmY5OTk3OGRhZjdmNzE5NDE1ZDBiMDZmMzFkMDNjYTk4NDk1ZDc2MzQzYjIzOGI0ZDMwNzFjOWJjMDNiMDQwZjY1OGQ3ODdmMjU5OGFhMzY4NjgzYjU4Y2E1NjA0ZTc2ZTc4YjA3YTM1NWU2Mjk4N2VkODUwMzdiYzRmZmE4NjY4ZWNlODQ0ZGFjNTkQysbtkJE0; expires=Thu, 05-Nov-2026 16:45:47 GMT; path=/
+{ [5 bytes data]
+< Via: 1.1 google
+{ [5 bytes data]
+< X-Cloud-Trace-Context: 83e2f7df71a73345514d1464791e7d8b
+{ [5 bytes data]
+< X-Proxy-Error: upstream denied the request: connection "Serper", host "google.serper.dev"
+{ [5 bytes data]
+< 
+{ [5 bytes data]
+* Closing connection
+{ [5 bytes data]
+* TLSv1.3 (IN), TLS alert, close notify (256):
+{ [2 bytes data]
+* TLSv1.3 (OUT), TLS alert, close notify (256):
+} [2 bytes data]
+{"message":"Unauthorized.","statusCode":403}
