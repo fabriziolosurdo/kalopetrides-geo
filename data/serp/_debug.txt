@@ -94,3 +94,8 @@
 * TLSv1.3 (OUT), TLS alert, close notify (256):
 } [2 bytes data]
 {"message":"Unauthorized.","statusCode":403}
+
+# ---- 2026-10-06T18:42:54Z — nuova sessione, credenziale rifatta con header X-API-KEY ----
+# python3 scripts/serp_run.py (nessuna modifica allo script), prima chiamata q1 gl=cy hl=en
+# Risposta di Serper, salvata così com'è (nessun retry, nessun curl -v):
+{"message":"Unauthorized.","statusCode":403}
