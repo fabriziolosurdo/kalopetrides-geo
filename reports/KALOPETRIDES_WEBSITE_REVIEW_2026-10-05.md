@@ -8,18 +8,22 @@ To be found by people in Russia, Ukraine, Germany, Austria, the Netherlands and 
 
 ## 2. What search engines and AI assistants find today
 
-We tried to check Google's live results on 5 and 6 October 2026, but the search tool we use was not available on either day. This section therefore describes only what Google and AI assistants can find on the website itself. Google's live results will be added once the check can be run.
+On 6 October 2026 we checked Google's results for five typical searches, one per service, each in English (as searched from Cyprus), German (from Germany) and Russian (from Russia): 15 searches in total, top 10 results each.
 
-| Service | What the website offers today | Languages |
-|---|---|---|
-| Real estate lawyer | One short section on the shared "Our Services" page. Nothing specific to foreign buyers. | English only |
-| Corporate lawyer | One short section on the shared "Our Services" page, plus the TrustGate page. | English only |
-| Immigration services | One short section on the shared "Our Services" page. Permanent residency through investment is not covered by name. | English only |
-| Banking & financial services | One short section on the shared "Our Services" page. | English only |
-| Tax advising | One short section on the shared "Our Services" page. No mention of the 2026 tax changes. | English only |
-| Google Business Profile | To be reviewed. | — |
+**Kalopetrides Law did not appear in any of the 15 searches.**
 
-When someone searches for one of these services, the website has no page that answers that search on its own.
+| Service | Who appears at the top today | What the website offers today | Languages |
+|---|---|---|---|
+| Real estate lawyer | Andreas Demetriades, GK Law Firm, Connor Legal, plus property agencies and guides | One short section on the shared "Our Services" page. Nothing specific to foreign buyers. | English only |
+| Corporate lawyer | Several Cypriot firms in English; company-formation agencies in German; GK Law Firm and consultancies in Russian | One short section on the shared "Our Services" page, plus the TrustGate page. | English only |
+| Immigration services | Andreas Demetriades, GK Law Firm, Danos, Philippou, plus residency agencies | One short section on the shared "Our Services" page. Permanent residency through investment is not covered by name. | English only |
+| Banking & financial services | Michael Kyprianou, Connor Legal, Andreas Demetriades, Moudouros, plus Legal 500 | One short section on the shared "Our Services" page. | English only |
+| Tax advising | Michael Kyprianou, Connor Legal, GK Law Firm, plus tax advisers | One short section on the shared "Our Services" page. No mention of the 2026 tax changes. | English only |
+| Google Business Profile | — | To be reviewed. | — |
+
+The firms that appear again and again (Andreas Demetriades in 9 of the 15 searches, Michael Kyprianou and Connor Legal in 7, GK Law Firm in 6) all have one page per service in each language, for example a German page on banking law and a Russian page on Cyprus tax. When someone searches for one of these services, the Kalopetrides website has no page that answers that search on its own.
+
+Our assessment: English searches from Cyprus are the hardest to break into, because many established firms and legal directories compete there. German searches are the most open: only a handful of law firms appear, next to agencies and portals. Russian searches sit in between, with several firms that already have well-developed Russian pages. In every language, the minimum requirement is a dedicated page per service in the language of the search.
 
 ## 3. Why the current website cannot deliver these goals
 

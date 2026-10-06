@@ -7,7 +7,7 @@ Audit tecnico onsite e analisi della concorrenza su Google per Kalopetrides Law 
 | File | Contenuto |
 |---|---|
 | `reports/AUDIT_TECNICO_2026-10-05.md` | Audit tecnico (IT): accessibilità, test User-Agent, pagine, form, sitemap; ogni punto rimanda a `data/site/` |
-| `reports/SERP_CONCORRENZA_2026-10-05.md` | Parte B (IT): non eseguita (Serper 403 il 05 e il 06/10), diagnosi header, query EN/DE/RU pronte |
+| `reports/SERP_CONCORRENZA_2026-10-05.md` | Parte B (IT): 15 SERP raccolte il 06/10 (5 query × EN/DE/RU), domini ricorrenti, giudizio sulla difficoltà; storico dei 403 |
 | `reports/KALOPETRIDES_WEBSITE_REVIEW_2026-10-05.md` | Review per il cliente (EN, non tecnica) |
 | `reports/KALOPETRIDES_WEBSITE_REVIEW_2026-10-05.docx` | Stessa review in Word |
 
@@ -24,7 +24,8 @@ Audit tecnico onsite e analisi della concorrenza su Google per Kalopetrides Law 
 | `data/serp/_first_call_request.json` | Prima richiesta Serper inviata (05/10) |
 | `data/serp/_first_call_403.json` | Risposta 403 "Unauthorized" di Serper (05/10) |
 | `data/serp/_rerun_2026-10-06_403.json` | Risposta 403 alla riesecuzione di `serp_run.py` (06/10) |
-| `data/serp/_debug.txt` | `curl -v` di diagnosi: header inviati e ricevuti, nessun valore di chiave |
+| `data/serp/_debug.txt` | Ultima risposta 403 di Serper (06/10, prima della riuscita), nessun valore di chiave |
+| `data/serp/q{n}_{gl}_{hl}.json` | 15 risposte Serper (top 10 organici) del 06/10 |
 
 ## Script
 
@@ -36,5 +37,5 @@ Audit tecnico onsite e analisi della concorrenza su Google per Kalopetrides Law 
 | `scripts/fetch_assets.py` | GET di `i18n.js` e `main.js` (lingua, form, contatori, bio) |
 | `scripts/analyze_pages.py` | Genera `data/site/_analysis.json` |
 | `scripts/ua_tally.py` | Genera `data/site/_ua_tally.csv` |
-| `scripts/serp_run.py` | Le 15 chiamate Serper della Parte B (si ferma al primo 401/403) |
+| `scripts/serp_run.py` | Le 15 chiamate Serper della Parte B (`--prova` = una sola; salta quelle già fatte; si ferma al primo 4xx) |
 | `scripts/md_to_docx.py` | Conversione Markdown → DOCX (python-docx) |
