@@ -1,0 +1,1171 @@
+{
+ "/ (home)": {
+  "file": "data/site/https_kalopetrideslaw_com__browser__try5.txt",
+  "html_lang": "en",
+  "title": "Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus",
+  "title_len": 59,
+  "meta_description": "Kalopetrides Law LLC is a Larnaca-based law firm specializing in real estate, corporate, banking, tax, immigration and litigation across Cyprus and the EU.",
+  "meta_description_len": 155,
+  "canonical": "https://kalopetrideslaw.com/",
+  "hreflang": [],
+  "meta_robots": [],
+  "og": {
+   "og:title": "Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus",
+   "og:description": "Strategic, results-driven legal solutions across a wide range of practice areas in Cyprus.",
+   "og:type": "website",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:url": "https://kalopetrideslaw.com/",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [
+   {
+    "valid_json": true,
+    "type": "LegalService",
+    "keys": [
+     "@context",
+     "@id",
+     "@type",
+     "address",
+     "alternateName",
+     "areaServed",
+     "description",
+     "email",
+     "founder",
+     "geo",
+     "hasMap",
+     "image",
+     "knowsAbout",
+     "knowsLanguage",
+     "logo",
+     "name",
+     "openingHoursSpecification",
+     "priceRange",
+     "telephone",
+     "url"
+    ],
+    "data": {
+     "@context": "https://schema.org",
+     "@type": "LegalService",
+     "@id": "https://kalopetrideslaw.com/#organization",
+     "name": "Kalopetrides Law LLC",
+     "alternateName": "Savvas Kalopetrides LLC",
+     "description": "Kalopetrides Law LLC is a Larnaca-based Cyprus law firm providing expert legal services in real estate, corporate and commercial law, banking and finance, immigration, tax, wills and probate, intellectual property and litigation.",
+     "url": "https://kalopetrideslaw.com/",
+     "image": "https://kalopetrideslaw.com/assets/img/logo-silver.png",
+     "logo": "https://kalopetrideslaw.com/assets/img/logo-silver.png",
+     "telephone": "+357 24668667",
+     "email": "info@kalopetrideslaw.com",
+     "priceRange": "$$",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gladstonos 1, Office 205",
+      "addressLocality": "Larnaca",
+      "postalCode": "6023",
+      "addressCountry": "CY"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.9174,
+      "longitude": 33.6337
+     },
+     "hasMap": "https://maps.google.com/maps?q=Gladstonos%201%2C%20Larnaca%2C%20Cyprus",
+     "areaServed": [
+      {
+       "@type": "Country",
+       "name": "Cyprus"
+      },
+      {
+       "@type": "Place",
+       "name": "European Union"
+      }
+     ],
+     "knowsLanguage": [
+      "en",
+      "el"
+     ],
+     "founder": {
+      "@type": "Person",
+      "name": "Savvas Kalopetrides",
+      "jobTitle": "Lawyer"
+     },
+     "knowsAbout": [
+      "Real Estate Law",
+      "Corporate & Commercial Law",
+      "Banking & Finance Law",
+      "Immigration Law",
+      "Tax Law",
+      "Wills & Probate",
+      "Intellectual Property Law",
+      "Litigation",
+      "Company Formation"
+     ],
+     "openingHoursSpecification": [
+      {
+       "@type": "OpeningHoursSpecification",
+       "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+       ],
+       "opens": "08:00",
+       "closes": "13:00"
+      },
+      {
+       "@type": "OpeningHoursSpecification",
+       "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+       ],
+       "opens": "14:00",
+       "closes": "17:00"
+      }
+     ]
+    }
+   }
+  ],
+  "headings": [
+   [
+    "h1",
+    "Your Trusted Legal Partner in Cyprus."
+   ],
+   [
+    "h2",
+    "Comprehensive legal expertise, tailored to your goals"
+   ],
+   [
+    "h3",
+    "Real Estate & Investment"
+   ],
+   [
+    "h3",
+    "Banking & Finance"
+   ],
+   [
+    "h3",
+    "Corporate & Commercial"
+   ],
+   [
+    "h3",
+    "Immigration Services"
+   ],
+   [
+    "h3",
+    "Tax Advising"
+   ],
+   [
+    "h3",
+    "Wills & Probate"
+   ],
+   [
+    "h3",
+    "Intellectual Property"
+   ],
+   [
+    "h3",
+    "Professional Litigation"
+   ],
+   [
+    "h3",
+    "Civil Marriages & Partnerships"
+   ],
+   [
+    "h2",
+    "Where every legal challenge is met with a tailored solution"
+   ],
+   [
+    "h2",
+    "A client-first firm, built on trust"
+   ],
+   [
+    "h3",
+    "Integrity & Excellence"
+   ],
+   [
+    "h3",
+    "Local & Global Reach"
+   ],
+   [
+    "h3",
+    "Personalized Approach"
+   ],
+   [
+    "h2",
+    "Hear what our clients have to say"
+   ],
+   [
+    "h2",
+    "The people behind your success"
+   ],
+   [
+    "h3",
+    "Savvas Kalopetrides"
+   ],
+   [
+    "h3",
+    "Angelos Ioannou"
+   ],
+   [
+    "h3",
+    "Theodosis Kokozides"
+   ],
+   [
+    "h3",
+    "Marianna Giannarou"
+   ],
+   [
+    "h2",
+    "We're eager to hear from you"
+   ],
+   [
+    "h3",
+    "Send us a message"
+   ],
+   [
+    "h3",
+    ""
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 24,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem.png",
+   "assets/img/emblem-lg.png",
+   "assets/img/client-dhl.png",
+   "assets/img/client-rise.png",
+   "assets/img/client-gig.png",
+   "assets/img/client-jimmy.png",
+   "assets/img/client-cotton.png",
+   ""
+  ],
+  "links_internal": [
+   "#contact",
+   "#main",
+   "#team",
+   "#testimonials",
+   "#welcome",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "services-overview.html#banking",
+   "services-overview.html#civil-marriages",
+   "services-overview.html#corporate",
+   "services-overview.html#immigration",
+   "services-overview.html#ip",
+   "services-overview.html#litigation",
+   "services-overview.html#real-estate",
+   "services-overview.html#tax",
+   "services-overview.html#wills",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [
+   {
+    "action": "https://api.web3forms.com/submit",
+    "method": "post",
+    "id": null,
+    "attrs": {
+     "data-contact-form": "",
+     "action": "https://api.web3forms.com/submit",
+     "method": "post",
+     "novalidate": ""
+    },
+    "fields": [
+     [
+      "input",
+      "hidden",
+      "access_key"
+     ],
+     [
+      "input",
+      "hidden",
+      "subject"
+     ],
+     [
+      "input",
+      "hidden",
+      "from_name"
+     ],
+     [
+      "input",
+      "checkbox",
+      "botcheck"
+     ],
+     [
+      "input",
+      "text",
+      "name"
+     ],
+     [
+      "input",
+      "email",
+      "email"
+     ],
+     [
+      "input",
+      "text",
+      "company"
+     ],
+     [
+      "textarea",
+      null,
+      "message"
+     ],
+     [
+      "input",
+      "text",
+      "website"
+     ]
+    ]
+   }
+  ],
+  "scripts": [
+   "assets/js/i18n.js?v=20260912-1455",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ],
+   [
+    "application/ld+json",
+    1744
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 1097,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:36:22 GMT\ncontent-type: text/html\ncontent-length: 53801\nvary: Accept-Encoding\nx-content-type-options: nosniff\nx-frame-options: SAMEORIGIN\nreferrer-policy: strict-origin-when-cross-origin\npermissions-policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()\nstrict-transport-security: max-age=31536000; includeSubDomains\ncontent-security-policy: default-src 'self'; script-src 'self' 'sha256-qOhFsq0QMV2REqNwk5hGH5bZE9SkX6gt6yeyKdYPv+U='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.web3forms.com; frame-src https://maps.google.com https://www.google.com; form-action 'self' https://api.web3forms.com; base-uri 'self'; object-src 'none'; frame-ancestors 'self'\nlast-modified: Sat, 12 Sep 2026 12:53:04 GMT\netag: \"d229-65b48ae852c00\"\naccept-ranges: bytes\nvary: Accept-Encoding\ncache-control: no-cache, must-revalidate\nexpires: Mon, 05 Oct 2026 22:36:22 GMT\nx-httpd-modphp: 1\nhost-header: 6b7412fb82ca5edfd0917e3957f05d89\nx-proxy-cache: MISS\nx-proxy-cache-info: 0 NC:000000 UP:"
+ },
+ "/about-us.html": {
+  "file": "data/site/https_kalopetrideslaw_com_about_us_html__browser__try5.txt",
+  "html_lang": "en",
+  "title": "About Us — Kalopetrides Law LLC",
+  "title_len": 31,
+  "meta_description": "Kalopetrides LLC is a distinguished Larnaca law firm offering expert, personalized legal solutions locally and internationally.",
+  "meta_description_len": 127,
+  "canonical": "https://kalopetrideslaw.com/about-us",
+  "hreflang": [],
+  "meta_robots": [],
+  "og": {
+   "og:title": "About Us — Kalopetrides Law LLC",
+   "og:description": "Kalopetrides LLC is a distinguished Larnaca law firm offering expert, personalized legal solutions locally and internationally.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/about-us",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "A distinguished firm, built on excellence"
+   ],
+   [
+    "h2",
+    "Excellence, integrity and a global perspective"
+   ],
+   [
+    "h2",
+    "The pillars of our practice"
+   ],
+   [
+    "h3",
+    "Seasoned Legal Expertise"
+   ],
+   [
+    "h3",
+    "Local Presence, Global Reach"
+   ],
+   [
+    "h3",
+    "A Client-First Philosophy"
+   ],
+   [
+    "h2",
+    "Helping you achieve your goals and secure your future"
+   ],
+   [
+    "h2",
+    "Ready to work with us?"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 9,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#main",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 455,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:36:25 GMT\ncontent-type: text/html\ncontent-length: 13008\nlast-modified: Sat, 13 Jun 2026 17:28:11 GMT\nvary: Accept-Encoding\netag: \"6a2d932b-32d0\"\nexpires: Sat, 03 Apr 2027 22:36:25 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "/services-overview.html": {
+  "file": "data/site/https_kalopetrideslaw_com_services_overview_html__browser__try5.txt",
+  "html_lang": "en",
+  "title": "Our Services — Kalopetrides Law LLC",
+  "title_len": 35,
+  "meta_description": "Real estate, banking & finance, corporate & commercial, immigration, tax, wills & probate, intellectual property, litigation and civil marriages — full-service legal expertise in Cyprus.",
+  "meta_description_len": 186,
+  "canonical": "https://kalopetrideslaw.com/services-overview",
+  "hreflang": [],
+  "meta_robots": [],
+  "og": {
+   "og:title": "Our Services — Kalopetrides Law LLC",
+   "og:description": "Real estate, banking & finance, corporate & commercial, immigration, tax, wills & probate, intellectual property, litigation and civil marriages — full-service legal expertise in Cyprus.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/services-overview",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Full-service legal expertise in Cyprus"
+   ],
+   [
+    "h3",
+    "Real Estate & Investment"
+   ],
+   [
+    "h3",
+    "Banking & Finance"
+   ],
+   [
+    "h3",
+    "Corporate & Commercial"
+   ],
+   [
+    "h3",
+    "Immigration Services"
+   ],
+   [
+    "h3",
+    "Tax Advising"
+   ],
+   [
+    "h3",
+    "Wills & Probate"
+   ],
+   [
+    "h3",
+    "Intellectual Property"
+   ],
+   [
+    "h3",
+    "Professional Litigation"
+   ],
+   [
+    "h3",
+    "Civil Marriages & Partnerships"
+   ],
+   [
+    "h2",
+    "Real Estate & Investment"
+   ],
+   [
+    "h2",
+    "Banking & Finance"
+   ],
+   [
+    "h2",
+    "Corporate & Commercial"
+   ],
+   [
+    "h2",
+    "Immigration Services"
+   ],
+   [
+    "h2",
+    "Tax Advising"
+   ],
+   [
+    "h2",
+    "Wills & Probate"
+   ],
+   [
+    "h2",
+    "Intellectual Property"
+   ],
+   [
+    "h2",
+    "Professional Litigation"
+   ],
+   [
+    "h2",
+    "Civil Marriages & Partnerships"
+   ],
+   [
+    "h2",
+    "Ready to work with us?"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 7,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#banking",
+   "#civil-marriages",
+   "#corporate",
+   "#immigration",
+   "#ip",
+   "#litigation",
+   "#main",
+   "#real-estate",
+   "#tax",
+   "#wills",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 1481,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:36:27 GMT\ncontent-type: text/html\ncontent-length: 30324\nlast-modified: Sat, 13 Jun 2026 17:28:12 GMT\nvary: Accept-Encoding\netag: \"6a2d932c-7674\"\nexpires: Sat, 03 Apr 2027 22:36:27 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "/trustgate.html": {
+  "file": "data/site/https_kalopetrideslaw_com_trustgate_html__browser__try5.txt",
+  "html_lang": "en",
+  "title": "TrustGate Corporate Services — Kalopetrides Law LLC",
+  "title_len": 51,
+  "meta_description": "TrustGate Corporate Services Ltd offers company formation, nominee services, corporate administration and compliance support for businesses operating in Cyprus.",
+  "meta_description_len": 160,
+  "canonical": "https://kalopetrideslaw.com/trustgate",
+  "hreflang": [],
+  "meta_robots": [],
+  "og": {
+   "og:title": "TrustGate Corporate Services — Kalopetrides Law LLC",
+   "og:description": "TrustGate Corporate Services Ltd offers company formation, nominee services, corporate administration and compliance support for businesses operating in Cyprus.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/trustgate",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "TrustGate Corporate Services Ltd"
+   ],
+   [
+    "h2",
+    "Corporate support, end to end"
+   ],
+   [
+    "h3",
+    "Company Formation & Structuring"
+   ],
+   [
+    "h3",
+    "Nominee Services"
+   ],
+   [
+    "h3",
+    "Corporate Administration"
+   ],
+   [
+    "h3",
+    "Governance & Compliance Support"
+   ],
+   [
+    "h2",
+    "Compliance, confidentiality and efficiency"
+   ],
+   [
+    "h2",
+    "A strategic jurisdiction for international business"
+   ],
+   [
+    "h2",
+    "Establish your Cyprus structure with confidence"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 9,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/flag-gr.svg",
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#main",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 423,
+  "lang_markers": [
+   "Language",
+   "flag",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:36:09 GMT\ncontent-type: text/html\ncontent-length: 16316\nlast-modified: Sat, 13 Jun 2026 17:28:12 GMT\nvary: Accept-Encoding\netag: \"6a2d932c-3fbc\"\nexpires: Sat, 03 Apr 2027 22:36:09 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "/csr.html": {
+  "file": "data/site/https_kalopetrideslaw_com_csr_html__browser__try2.txt",
+  "html_lang": "en",
+  "title": "Corporate Social Responsibility — Kalopetrides Law LLC",
+  "title_len": 54,
+  "meta_description": "At Kalopetrides LLC we are dedicated to making meaningful, enduring contributions to the communities we serve through community projects, corporate giving and volunteering.",
+  "meta_description_len": 172,
+  "canonical": "https://kalopetrideslaw.com/csr",
+  "hreflang": [],
+  "meta_robots": [],
+  "og": {
+   "og:title": "Corporate Social Responsibility — Kalopetrides Law LLC",
+   "og:description": "At Kalopetrides LLC we are dedicated to making meaningful, enduring contributions to the communities we serve through community projects, corporate giving and volunteering.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/csr",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Giving back to our community"
+   ],
+   [
+    "h2",
+    "Get in touch with us"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 7,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#main",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 303,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:34:40 GMT\ncontent-type: text/html\ncontent-length: 10114\nlast-modified: Sat, 13 Jun 2026 17:28:11 GMT\nvary: Accept-Encoding\netag: \"6a2d932b-2782\"\nexpires: Sat, 03 Apr 2027 22:34:40 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "/imprint.html": {
+  "file": "data/site/https_kalopetrideslaw_com_imprint_html__browser__try1.txt",
+  "html_lang": "en",
+  "title": "Imprint — Kalopetrides Law LLC",
+  "title_len": 30,
+  "meta_description": "Legal imprint and disclosure information for Savvas Kalopetrides LLC, Larnaca, Cyprus.",
+  "meta_description_len": 86,
+  "canonical": "https://kalopetrideslaw.com/imprint",
+  "hreflang": [],
+  "meta_robots": [
+   "noindex"
+  ],
+  "og": {
+   "og:title": "Imprint — Kalopetrides Law LLC",
+   "og:description": "Legal imprint and disclosure information for Savvas Kalopetrides LLC, Larnaca, Cyprus.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/imprint",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Imprint"
+   ],
+   [
+    "h2",
+    "Savvas Kalopetrides LLC"
+   ],
+   [
+    "h3",
+    "Business Purpose"
+   ],
+   [
+    "h3",
+    "Contact and Responsible Party"
+   ],
+   [
+    "h2",
+    "Get in touch with us"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 7,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png",
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#main",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2026"
+  ],
+  "word_count_visible": 197,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:34:42 GMT\ncontent-type: text/html\ncontent-length: 9542\nlast-modified: Sat, 13 Jun 2026 17:28:11 GMT\nvary: Accept-Encoding\netag: \"6a2d932b-2546\"\nexpires: Sat, 03 Apr 2027 22:34:42 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "/privacy-policy.html": {
+  "file": "data/site/https_kalopetrideslaw_com_privacy_policy_html__browser__try4.txt",
+  "html_lang": "en",
+  "title": "Privacy Policy — Kalopetrides Law LLC",
+  "title_len": 37,
+  "meta_description": "Data protection and privacy policy for Savvas Kalopetrides LLC: how we collect, use and protect your personal data, your rights, cookies and terms of use.",
+  "meta_description_len": 154,
+  "canonical": "https://kalopetrideslaw.com/privacy-policy",
+  "hreflang": [],
+  "meta_robots": [
+   "noindex"
+  ],
+  "og": {
+   "og:title": "Privacy Policy — Kalopetrides Law LLC",
+   "og:description": "Data protection and privacy policy for Savvas Kalopetrides LLC: how we collect, use and protect your personal data, your rights, cookies and terms of use.",
+   "og:type": "website",
+   "og:url": "https://kalopetrideslaw.com/privacy-policy",
+   "og:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "Kalopetrides Law LLC",
+   "og:locale": "en"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://kalopetrideslaw.com/assets/img/og-card.jpg"
+  },
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Privacy Policy"
+   ],
+   [
+    "h2",
+    "Who decides why and how we process your personal data?"
+   ],
+   [
+    "h2",
+    "What personal data might we collect?"
+   ],
+   [
+    "h2",
+    "When do we collect your personal data?"
+   ],
+   [
+    "h2",
+    "How will we use your personal data?"
+   ],
+   [
+    "h2",
+    "How will we share your personal data?"
+   ],
+   [
+    "h2",
+    "Can you refuse to share your personal data with us?"
+   ],
+   [
+    "h2",
+    "How do we keep your personal data safe?"
+   ],
+   [
+    "h2",
+    "Personal data we receive from you about other people"
+   ],
+   [
+    "h2",
+    "How long do we keep your data?"
+   ],
+   [
+    "h2",
+    "What rights do you have?"
+   ],
+   [
+    "h3",
+    "Correcting and updating your data"
+   ],
+   [
+    "h3",
+    "Cookies"
+   ],
+   [
+    "h3",
+    "Contact Us"
+   ],
+   [
+    "h3",
+    "Changes to this Policy"
+   ],
+   [
+    "h2",
+    "Cookies Policy"
+   ],
+   [
+    "h2",
+    "Terms of Use"
+   ],
+   [
+    "h3",
+    "Copyright"
+   ],
+   [
+    "h3",
+    "Linking"
+   ],
+   [
+    "h3",
+    "Disclaimer"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 6,
+  "img_alt_missing_or_empty": [
+   "assets/img/emblem-lg.png"
+  ],
+  "links_internal": [
+   "#main",
+   "about-us.html",
+   "csr.html",
+   "imprint.html",
+   "index.html",
+   "index.html#contact",
+   "index.html#team",
+   "index.html#testimonials",
+   "index.html#welcome",
+   "mailto:info@kalopetrideslaw.com",
+   "privacy-policy.html",
+   "services-overview.html",
+   "trustgate.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [
+   "mailto:info@kalopetrideslaw.com",
+   "tel:+35724668667"
+  ],
+  "forms": [],
+  "scripts": [
+   "assets/js/i18n.js",
+   "assets/js/main.js"
+  ],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [
+   "2025",
+   "2026"
+  ],
+  "word_count_visible": 891,
+  "lang_markers": [
+   "Language",
+   "flag-gr",
+   "flag-uk",
+   "lang",
+   "lang-btn",
+   "lang-toggle"
+  ],
+  "headers": "HTTP/2 200 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:34:50 GMT\ncontent-type: text/html\ncontent-length: 16500\nlast-modified: Sat, 13 Jun 2026 17:28:12 GMT\nvary: Accept-Encoding\netag: \"6a2d932c-4074\"\nexpires: Sat, 03 Apr 2027 22:34:50 GMT\ncache-control: max-age=15552000\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\nx-proxy-cache-info: DT:1\naccept-ranges: bytes"
+ },
+ "404 page (/llms.txt)": {
+  "file": "data/site/https_kalopetrideslaw_com_llms_txt__browser__try5.txt",
+  "html_lang": "en",
+  "title": "Page not found — Kalopetrides Law LLC",
+  "title_len": 37,
+  "meta_description": "",
+  "meta_description_len": 0,
+  "canonical": null,
+  "hreflang": [],
+  "meta_robots": [
+   "noindex"
+  ],
+  "og": {},
+  "twitter": {},
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "This page could not be found"
+   ]
+  ],
+  "h1_count": 1,
+  "img_total": 1,
+  "img_alt_missing_or_empty": [],
+  "links_internal": [
+   "#main",
+   "/index.html"
+  ],
+  "links_external": [],
+  "links_mailto_tel": [],
+  "forms": [],
+  "scripts": [],
+  "inline_scripts": [
+   [
+    null,
+    44
+   ]
+  ],
+  "data_count_attrs": [],
+  "dates_visible": [],
+  "word_count_visible": 32,
+  "lang_markers": [
+   "lang"
+  ],
+  "headers": "HTTP/2 404 \nserver: nginx\ndate: Mon, 05 Oct 2026 22:36:20 GMT\ncontent-type: text/html\ncontent-length: 1747\nvary: Accept-Encoding\nx-content-type-options: nosniff\nx-frame-options: SAMEORIGIN\nreferrer-policy: strict-origin-when-cross-origin\npermissions-policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()\nstrict-transport-security: max-age=31536000; includeSubDomains\ncontent-security-policy: default-src 'self'; script-src 'self' 'sha256-qOhFsq0QMV2REqNwk5hGH5bZE9SkX6gt6yeyKdYPv+U='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.web3forms.com; frame-src https://maps.google.com https://www.google.com; form-action 'self' https://api.web3forms.com; base-uri 'self'; object-src 'none'; frame-ancestors 'self'\nlast-modified: Thu, 04 Jun 2026 11:46:52 GMT\netag: \"6d3-6536c19a3c300\"\naccept-ranges: bytes\nx-httpd-modphp: 1\ncache-control: no-cache, must-revalidate\nhost-header: 6b7412fb82ca5edfd0917e3957f05d89\nx-proxy-cache: MISS\nx-proxy-cache-info: 0 NC:000000 UP:"
+ }
+}

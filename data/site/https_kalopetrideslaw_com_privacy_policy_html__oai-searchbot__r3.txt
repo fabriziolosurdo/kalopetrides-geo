@@ -1,0 +1,20 @@
+# GET https://kalopetrideslaw.com/privacy-policy.html
+# UA oai-searchbot: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot)
+# fetched 2026-10-05T22:33:40.867612Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 202 
+server: nginx
+date: Mon, 05 Oct 2026 22:33:40 GMT
+content-type: text/html
+content-length: 187
+sg-captcha: challenge
+x-robots-tag: noindex
+set-cookie: nevercache-b39818=Y;Max-Age=-1
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+cache-control: no-store,no-cache,max-age=0
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fprivacy-policy.html&y=ipc:160.79.106.27:1791239620.851"></meta></head></html>
+<<<CURL status=202 bytes=187 final=https://kalopetrideslaw.com/privacy-policy.html redirects=0>>>

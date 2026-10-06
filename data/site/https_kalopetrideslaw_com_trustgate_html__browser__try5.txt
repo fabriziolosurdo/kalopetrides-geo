@@ -1,0 +1,260 @@
+# GET https://kalopetrideslaw.com/trustgate.html
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:36:09.878378Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:36:09 GMT
+content-type: text/html
+content-length: 16316
+last-modified: Sat, 13 Jun 2026 17:28:12 GMT
+vary: Accept-Encoding
+etag: "6a2d932c-3fbc"
+expires: Sat, 03 Apr 2027 22:36:09 GMT
+cache-control: max-age=15552000
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+accept-ranges: bytes
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
+<title>TrustGate Corporate Services — Kalopetrides Law LLC</title>
+<meta name="description" content="TrustGate Corporate Services Ltd offers company formation, nominee services, corporate administration and compliance support for businesses operating in Cyprus.">
+<link rel="canonical" href="https://kalopetrideslaw.com/trustgate">
+<meta property="og:title" content="TrustGate Corporate Services — Kalopetrides Law LLC">
+<meta property="og:description" content="TrustGate Corporate Services Ltd offers company formation, nominee services, corporate administration and compliance support for businesses operating in Cyprus.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kalopetrideslaw.com/trustgate">
+<meta property="og:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:site_name" content="Kalopetrides Law LLC">
+<meta property="og:locale" content="en">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-600-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="common.skip">Skip to content</a>
+
+<header class="site-header header--solid">
+  <div class="container site-header__inner">
+    <a class="brand" href="index.html#welcome" aria-label="Kalopetrides Law LLC — home">
+      <img width="1000" height="300" class="logo-silver" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+      <img width="1000" height="300" class="logo-dark" src="assets/img/logo-dark.png" alt="Kalopetrides Law LLC">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+      <a href="about-us.html" data-i18n="nav.about">About Us</a>
+      <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+      <a href="trustgate.html" class="is-active" data-i18n="nav.trustgate">TrustGate</a>
+      <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+      <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--primary header-cta" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+      <div class="lang-toggle" role="group" aria-label="Language"><button type="button" class="lang-btn is-active" data-lang="en" aria-label="English" aria-pressed="true"><img src="assets/img/flag-uk.svg" alt="EN"></button><button type="button" class="lang-btn" data-lang="el" aria-label="Greek" aria-pressed="false"><img src="assets/img/flag-gr.svg" alt="EL"></button></div>
+      <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+  <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+  <a href="about-us.html" data-i18n="nav.about">About Us</a>
+  <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+  <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+  <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+  <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+  <a class="btn btn--primary" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<section class="page-hero">
+  <img width="1100" height="1100" class="page-hero__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html" data-i18n="breadcrumb.home">Home</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 6 6 6-6 6"/></svg>
+      <span data-i18n="nav.trustgate">TrustGate</span>
+    </nav>
+    <span class="eyebrow eyebrow--light" data-i18n="tg.heroEyebrow">Affiliated Corporate Services</span>
+    <h1>TrustGate Corporate<br>Services Ltd</h1>
+    <p class="lead" data-i18n="tg.heroLead">An affiliated corporate services provider offering comprehensive company administration and nominee solutions to businesses and international clients operating in Cyprus.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="prose" data-reveal style="max-width:820px">
+      <p style="font-size:clamp(1.15rem,1.8vw,1.4rem);color:var(--text-dark);font-family:var(--ff-display);line-height:1.5" data-i18n="tg.intro">Working in close coordination with Kalopetrides LLC, TrustGate delivers structured, compliant, and confidential corporate support services — tailored to the needs of entrepreneurs, corporate groups, holding structures, and investment vehicles.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section--tight" style="padding-top:0">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow" data-i18n="nav.services">Our Services</span>
+      <h2 class="h-display" data-i18n="tg.servTitle">Corporate support, end to end</h2>
+    </div>
+    <div class="feature-grid" data-stagger>
+
+      <article class="feature">
+        <div class="feature__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 7h8M8 11h8M8 15h5"/></svg></div>
+        <h3 data-i18n="tgf1.title">Company Formation &amp; Structuring</h3>
+        <ul>
+          <li data-i18n="tgf1.i1">Incorporation of Cyprus companies</li>
+          <li data-i18n="tgf1.i2">Establishment of branches and representative offices</li>
+          <li data-i18n="tgf1.i3">Corporate structuring and reorganization support</li>
+          <li data-i18n="tgf1.i4">Preparation and filing of statutory documentation</li>
+        </ul>
+      </article>
+
+      <article class="feature">
+        <div class="feature__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></div>
+        <h3 data-i18n="tgf2.title">Nominee Services</h3>
+        <ul>
+          <li data-i18n="tgf2.i1">Provision of nominee directors</li>
+          <li data-i18n="tgf2.i2">Provision of nominee shareholders</li>
+          <li data-i18n="tgf2.i3">Corporate representation services</li>
+          <li data-i18n="tgf2.i4">Safekeeping of corporate documentation</li>
+        </ul>
+        <p class="note" data-i18n="tgf2.note">All nominee arrangements are structured in accordance with applicable laws and regulatory requirements, ensuring transparency, proper documentation, and full compliance with anti-money laundering (AML) obligations.</p>
+      </article>
+
+      <article class="feature">
+        <div class="feature__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"/></svg></div>
+        <h3 data-i18n="tgf3.title">Corporate Administration</h3>
+        <ul>
+          <li data-i18n="tgf3.i1">Registered office facilities</li>
+          <li data-i18n="tgf3.i2">Company secretarial services</li>
+          <li data-i18n="tgf3.i3">Maintenance of statutory registers</li>
+          <li data-i18n="tgf3.i4">Filing with the Cyprus Registrar of Companies</li>
+          <li data-i18n="tgf3.i5">Ongoing corporate compliance monitoring</li>
+        </ul>
+      </article>
+
+      <article class="feature">
+        <div class="feature__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="m9 12 2 2 4-4"/></svg></div>
+        <h3 data-i18n="tgf4.title">Governance &amp; Compliance Support</h3>
+        <ul>
+          <li data-i18n="tgf4.i1">Board administration support</li>
+          <li data-i18n="tgf4.i2">Preparation of corporate resolutions</li>
+          <li data-i18n="tgf4.i3">UBO reporting and regulatory filings</li>
+          <li data-i18n="tgf4.i4">Assistance with substance and governance requirements</li>
+        </ul>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="split">
+      <div data-reveal="left">
+        <span class="eyebrow" data-i18n="tg.approachEyebrow">Our Approach</span>
+        <h2 class="h-display" data-i18n="tg.approachTitle">Compliance, confidentiality and efficiency</h2>
+        <p data-i18n="tg.approachP1">TrustGate Corporate Services Ltd operates with a strong emphasis on regulatory compliance, confidentiality, and operational efficiency. All services are delivered under strict due diligence procedures and in accordance with applicable Cyprus and EU regulatory frameworks.</p>
+        <p data-i18n="tg.approachP2">Our integrated structure with Kalopetrides LLC ensures that clients benefit from coordinated legal and corporate advisory support, allowing for seamless implementation of transactions and corporate structures.</p>
+      </div>
+      <div class="split__media" data-reveal="right">
+        <span class="frame" aria-hidden="true"></span>
+        <img width="803" height="1100" src="assets/img/office-savvas.jpg" alt="Corporate advisory at Kalopetrides Law" loading="lazy">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section why-cyprus">
+  <img class="why-cyprus__flag" src="assets/img/flag-gr.svg" alt="" aria-hidden="true" onerror="this.style.display='none'" loading="lazy">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow eyebrow--light" data-i18n="tg.whyEyebrow">Why Cyprus</span>
+      <h2 class="h-display" data-i18n="tg.whyTitle">A strategic jurisdiction for international business</h2>
+      <p class="lead" style="color:var(--muted-light)" data-i18n="tg.whyLead">Cyprus remains a leading choice for entrepreneurs and corporate groups establishing structures that are commercially sound, legally compliant, and operationally efficient.</p>
+    </div>
+    <ul class="why-list" data-stagger>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><b data-i18n="why1">EU Membership</b></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M5 6h9a3 3 0 0 1 0 6H7a3 3 0 0 0 0 6h10"/></svg></span><b data-i18n="why2">Competitive, transparent tax regime</b></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M7 21h10M5 7h14M7 7l-3 6a3 3 0 0 0 6 0L7 7zM17 7l-3 6a3 3 0 0 0 6 0l-3-6z"/></svg></span><b data-i18n="why3">Robust common law legal system</b></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M8 7h13M8 12h13M8 17h13M3 7h.01M3 12h.01M3 17h.01"/></svg></span><b data-i18n="why4">Extensive double tax treaty network</b></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg></span><b data-i18n="why5">Efficient corporate administration</b></li>
+    </ul>
+  </div>
+</section>
+
+<section class="section cta-band">
+  <img width="1100" height="1100" class="cta-band__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true" loading="lazy">
+  <div class="container" data-reveal>
+    <span class="eyebrow eyebrow--center eyebrow--light" data-i18n="cta.discuss">Let's discuss your vision</span>
+    <h2 data-i18n="tg.ctaTitle">Establish your Cyprus structure with confidence</h2>
+    <p data-i18n="tg.ctaP">TrustGate assists clients in establishing and maintaining corporate structures that are commercially sound and fully compliant.</p>
+    <a class="btn btn--primary btn--lg" href="index.html#contact"><span data-i18n="cta.getInTouch">Get in touch</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img width="1000" height="300" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+        <p data-i18n="footer.brand">A distinguished Larnaca law firm delivering strategic, results-driven legal solutions across Cyprus and the EU.</p>
+      </div>
+      <div class="footer-col"><h4 data-i18n="footer.navigate">Navigate</h4><ul>
+        <li><a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a></li>
+        <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+        <li><a href="services-overview.html" data-i18n="nav.services">Our Services</a></li>
+        <li><a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a></li>
+        <li><a href="index.html#team" data-i18n="nav.team">Our Team</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.company">Company</h4><ul>
+        <li><a href="csr.html" data-i18n="footer.csr">CSR</a></li>
+        <li><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a></li>
+        <li><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></li>
+        <li><a href="index.html#contact" data-i18n="footer.contact">Contact</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.getintouch">Get in touch</h4><address data-i18n="footer.address">
+        Gladstonos 1, Office 205<br>6023, Larnaca, Cyprus<br>
+        <a href="tel:+35724668667">+357 24668667</a><br>
+        <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>
+      </address></div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year>2026</span> Kalopetrides LLC. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="legal"><a href="csr.html" data-i18n="footer.csr">CSR</a><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></div>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" data-cookie-banner role="region" aria-label="Cookie consent">
+  <p class="cookie-banner__text" data-i18n="cookie.text">We use cookies to enhance your experience and to load embedded content such as Google Maps. See our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--on-dark" data-cookie-decline data-i18n="cookie.decline">Decline</button>
+    <button type="button" class="btn btn--primary" data-cookie-accept data-i18n="cookie.accept">Accept</button>
+  </div>
+</div>
+<script src="assets/js/i18n.js" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
+
+<<<CURL status=200 bytes=16316 final=https://kalopetrideslaw.com/trustgate.html redirects=0>>>
