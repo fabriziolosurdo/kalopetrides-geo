@@ -1,0 +1,25 @@
+# GET https://kalopetrideslaw.com/robots.txt
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:36:07.297220Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:36:07 GMT
+content-type: text/plain
+content-length: 73
+last-modified: Thu, 04 Jun 2026 11:51:45 GMT
+vary: Accept-Encoding
+etag: "6a2166d1-49"
+expires: Sat, 03 Apr 2027 22:36:07 GMT
+cache-control: max-age=15552000
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+accept-ranges: bytes
+
+User-agent: *
+Allow: /
+
+Sitemap: https://kalopetrideslaw.com/sitemap.xml
+
+<<<CURL status=200 bytes=73 final=https://kalopetrideslaw.com/robots.txt redirects=0>>>
