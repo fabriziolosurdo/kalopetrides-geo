@@ -1,0 +1,6 @@
+utc,url,ua,status,bytes,final,file
+2026-10-08T14:51:46.248368Z,https://lawzana.com/robots.txt,browser,200,107,https://lawzana.com/robots.txt,robots_txt.html
+2026-10-08T14:51:48.795372Z,https://lawzana.com/,browser,403,5658,https://lawzana.com/,home.html
+2026-10-08T14:51:51.523343Z,https://lawzana.com/lawyer/savvas-kalopetrides-llc,browser,403,5769,https://lawzana.com/lawyer/savvas-kalopetrides-llc,lawyer_savvas_kalopetrides_llc.html
+2026-10-08T14:51:54.222569Z,https://lawzana.com/lawyer/philippou-law-firm,browser,403,5754,https://lawzana.com/lawyer/philippou-law-firm,lawyer_philippou_law_firm.html
+2026-10-08T14:51:56.971101Z,https://lawzana.com/immigration-lawyers/cyprus,browser,403,5757,https://lawzana.com/immigration-lawyers/cyprus,immigration_lawyers_cyprus.html

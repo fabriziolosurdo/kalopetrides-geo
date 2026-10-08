@@ -1,0 +1,7 @@
+utc,url,ua,status,bytes,final,file
+2026-10-08T14:42:23.336288Z,https://www.chrysostomides.com/robots.txt,browser,403,5742,https://www.chrysostomides.com/robots.txt,robots_txt.html
+2026-10-08T14:42:26.253276Z,https://www.chrysostomides.com/,browser,403,5690,https://www.chrysostomides.com/,home.html
+2026-10-08T14:42:29.066838Z,https://www.chrysostomides.com/,gptbot,403,5711,https://www.chrysostomides.com/,home__gptbot.html
+2026-10-08T14:42:31.881110Z,https://www.chrysostomides.com/sitemap.xml,browser,403,5745,https://www.chrysostomides.com/sitemap.xml,sitemap_xml.html
+2026-10-08T14:42:34.660098Z,https://www.chrysostomides.com/sitemap_index.xml,browser,403,5763,https://www.chrysostomides.com/sitemap_index.xml,sitemap_index_xml.html
+2026-10-08T14:49:31.226053Z,https://www.chrysostomides.com/,browser,403,5690,https://www.chrysostomides.com/,home.html

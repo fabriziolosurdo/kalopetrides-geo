@@ -1,0 +1,5 @@
+utc,url,ua,status,bytes,final,file
+2026-10-08T14:51:46.228017Z,https://chambers.com/robots.txt,browser,200,5417,https://chambers.com/robots.txt,robots_txt.html
+2026-10-08T14:51:49.656435Z,https://chambers.com/law-firm/patrikios-legal-europe-7:138582,browser,200,454105,https://chambers.com/law-firm/patrikios-legal-europe-7:138582,law_firm_patrikios_legal_europe_7_138582.html
+2026-10-08T14:51:52.468797Z,https://chambers.com/research-schedule,browser,404,121963,https://chambers.com/research-schedule,research_schedule.html
+2026-10-08T14:52:21.663116Z,https://chambers.com/info/submissions,browser,200,185966,https://chambers.com/info/submissions,info_submissions.html
