@@ -1,0 +1,17 @@
+<form class="form" data-contact-form action="https://api.web3forms.com/submit" method="post" novalidate>
+  <input type="hidden" name="access_key" value="{{ cfg.web3forms_key }}">
+  <input type="hidden" name="subject" value="New enquiry — kalopetrideslaw.com ({{ lang|upper }})">
+  <input type="hidden" name="from_name" value="Kalopetrides Law Website">
+  <input type="hidden" name="page" value="{{ page.abs_url }}">
+  <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <div class="form__row">
+    <div class="field"><label for="f-name">{{ t.form_name }}</label><input id="f-name" name="name" type="text" required autocomplete="name" placeholder="{{ t.form_name_ph }}"></div>
+    <div class="field"><label for="f-email">{{ t.form_email }}</label><input id="f-email" name="email" type="email" required autocomplete="email" placeholder="{{ t.form_email_ph }}"></div>
+  </div>
+  <div class="field"><label for="f-company">{{ t.form_company }}</label><input id="f-company" name="company" type="text" autocomplete="organization" placeholder="{{ t.form_company_ph }}"></div>
+  <div class="field"><label for="f-message">{{ t.form_message }}</label><textarea id="f-message" name="message" rows="5" required placeholder="{{ t.form_message_ph }}"></textarea></div>
+  <div class="field hp" aria-hidden="true"><label for="f-website">Leave this field empty</label><input id="f-website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+  <button type="submit" class="btn btn--primary btn--block">{{ t.form_submit }}</button>
+  <p class="form__status" role="status" aria-live="polite" data-sending="{{ t.form_sending }}" data-success="{{ t.form_success }}" data-error="{{ t.form_error }}" data-email="{{ cfg.email }}"></p>
+  <p class="form__note">{{ t.form_note }} {% if pages.privacy %}<a href="{{ pages.privacy.url }}">{{ t.privacy_policy }}</a>{% else %}{{ t.privacy_policy }}{% endif %}.</p>
+</form>

@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="phead">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">{{ t.breadcrumb_home }}</a> › {% if pages['services-index'] %}<a href="{{ pages['services-index'].url }}">{{ pages['services-index'].nav_label }}</a> › {% endif %}<span>{{ page.nav_label }}</span></nav>
+    <h1 class="h1">{{ page.h1 }}</h1>
+    <p class="lead">{{ page.summary }}</p>
+    <p class="meta"><span>{{ t.updated }} <time datetime="{{ page.updated }}">{{ page.updated }}</time></span>{% if alternates|length > 1 %} · <span>{{ t.page_in_other_languages }}: {% for a in alternates if a.lang != lang %}<a href="{{ a.url }}" hreflang="{{ a.hreflang }}" lang="{{ a.hreflang }}">{{ a.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span>{% endif %}</p>
+  </div>
+</section>
+
+<div class="wrap layout">
+  <article class="prose">
+    {{ page.body_html|safe }}
+
+    {% if faq_html %}
+    <section class="faq" id="faq">
+      <h2>{{ t.faq }}</h2>
+      {% for q, a in faq_html %}
+      <details class="faq__item"{% if loop.first %} open{% endif %}>
+        <summary><h3>{{ q }}</h3></summary>
+        <div class="faq__a">{{ a|safe }}</div>
+      </details>
+      {% endfor %}
+    </section>
+    {% endif %}
+
+    {% if page.sources %}
+    <section class="sources" id="sources">
+      <h2>{{ t.sources }}</h2>
+      <p class="small">{{ t.sources_intro }}</p>
+      <ol>
+        {% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener nofollow" target="_blank">{{ s.title }}</a></li>{% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+  </article>
+
+  <aside class="side">
+    <div class="side__box">
+      <h2 class="h4">{{ t.book_consultation }}</h2>
+      <p>{{ t.cta_text }}</p>
+      <a class="btn btn--primary btn--block" href="{{ pages.contact.url if pages.contact else home_url }}">{{ t.book_consultation }}</a>
+      {% if cfg.whatsapp_number %}<a class="btn btn--ghost btn--block" href="https://wa.me/{{ cfg.whatsapp_number }}" rel="noopener">{{ t.whatsapp }}</a>{% endif %}
+      <p class="small"><a href="tel:{{ cfg.phone_e164 }}">{{ cfg.phone_display }}</a> · <a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></p>
+    </div>
+    {% if pages['person-savvas'] %}
+    <a class="side__person" href="{{ pages['person-savvas'].url }}">
+      <img src="{{ pages['person-savvas'].person.image }}" alt="{{ pages['person-savvas'].person.name }}" width="96" height="120" loading="lazy">
+      <span><strong>{{ pages['person-savvas'].person.name }}</strong><br>{{ pages['person-savvas'].person.jobTitle }}</span>
+    </a>
+    {% endif %}
+    <div class="side__box side__box--list">
+      <h2 class="h4">{{ t.related_services }}</h2>
+      <ul>
+        {% for s in services_primary + services_secondary if s.key != page.key %}<li><a href="{{ s.url }}">{{ s.nav_label }}</a></li>{% endfor %}
+      </ul>
+    </div>
+  </aside>
+</div>
+{% endblock %}

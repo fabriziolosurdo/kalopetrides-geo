@@ -1,0 +1,55 @@
+# kalopetrideslaw.com — Apache rules for the generated site (2026-10)
+# Goals: one host (non-www, https), one URL per page (directory URLs with trailing slash),
+# redirects from the old site's URLs, security headers, caching.
+
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset utf-8
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# 1. https and non-www in a single 301
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://kalopetrideslaw.com%{REQUEST_URI} [L,R=301]
+
+# 2. Old URLs → new pages (with and without .html)
+RewriteRule ^(index\.html|index)$ / [L,R=301]
+RewriteRule ^about-us(\.html)?$ /about-us/ [L,R=301]
+RewriteRule ^services-overview(\.html)?$ /services/ [L,R=301]
+RewriteRule ^trustgate(\.html)?$ /trustgate-corporate-services/ [L,R=301]
+RewriteRule ^csr(\.html)?$ /corporate-social-responsibility/ [L,R=301]
+RewriteRule ^imprint(\.html)?$ /imprint/ [L,R=301]
+RewriteRule ^privacy-policy(\.html)?$ /privacy-policy/ [L,R=301]
+
+# 3. Add the trailing slash to directory URLs requested without it
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.*)$ /$1/ [L,R=301]
+
+# 4. Strip /index.html from the URL
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /$1 [L,R=301]
+</IfModule>
+
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()"
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+# Note: no Content-Security-Policy header on purpose until the webmaster confirms the server adds none of its own;
+# the previous site's CSP would block nothing we use, but two CSPs combine restrictively.
+<FilesMatch "\.(css|js|woff2|png|jpg|jpeg|svg|webp|ico)$">
+Header set Cache-Control "public, max-age=2592000"
+</FilesMatch>
+<FilesMatch "\.(html|xml|txt)$">
+Header set Cache-Control "no-cache, must-revalidate"
+</FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json image/svg+xml
+</IfModule>

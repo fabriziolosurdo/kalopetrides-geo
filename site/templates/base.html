@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="{{ lang }}" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description }}">
+{% if page.noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">{% endif %}
+<link rel="canonical" href="{{ page.abs_url }}">
+{% for a in alternates %}<link rel="alternate" hreflang="{{ a.hreflang }}" href="{{ a.url }}">
+{% endfor %}{% if x_default %}<link rel="alternate" hreflang="x-default" href="{{ x_default }}">{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ cfg.firm_name }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ page.abs_url }}">
+<meta property="og:image" content="{{ site_url }}{{ page.person.image if page.person and page.person.image else cfg.og_image }}">
+<meta property="og:locale" content="{{ lang_cfg.locale }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="/site/css/site.css?v={{ today }}">
+{% if jsonld %}<script type="application/ld+json">{{ jsonld|safe }}</script>{% endif %}
+</head>
+<body class="t-{{ page.type }}">
+<a class="skip" href="#main">{{ t.skip_to_content }}</a>
+<header class="hdr">
+  <div class="wrap hdr__in">
+    <a class="brand" href="{{ home_url }}" aria-label="{{ cfg.firm_name }}">
+      <img src="{{ cfg.logo }}" alt="{{ cfg.firm_name }}" width="180" height="48">
+    </a>
+    <nav class="nav" aria-label="Main">
+      <ul>
+        {% for n in nav %}<li><a href="{{ n.url }}"{% if n.key == page.key %} aria-current="page"{% endif %}>{{ n.nav_label }}</a></li>{% endfor %}
+      </ul>
+    </nav>
+    <div class="hdr__tools">
+      {% if alternates|length > 1 %}
+      <nav class="langs" aria-label="{{ t.lang_switch }}">
+        {% for a in alternates %}<a href="{{ a.url }}" hreflang="{{ a.hreflang }}" lang="{{ a.hreflang }}"{% if a.lang == lang %} aria-current="true"{% endif %}>{{ a.hreflang|upper }}</a>{% endfor %}
+      </nav>
+      {% endif %}
+      <a class="btn btn--sm" href="{{ pages.contact.url if pages.contact else home_url }}">{{ t.book_consultation }}</a>
+      <button class="burger" type="button" aria-expanded="false" aria-controls="mnav" aria-label="{{ t.menu }}"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <nav class="mnav" id="mnav" hidden aria-label="Menu">
+    <ul>
+      {% for n in nav %}<li><a href="{{ n.url }}">{{ n.nav_label }}</a></li>{% endfor %}
+      {% for s in services_primary %}<li class="mnav__sub"><a href="{{ s.url }}">{{ s.nav_label }}</a></li>{% endfor %}
+      {% if alternates|length > 1 %}<li class="mnav__langs">{% for a in alternates %}<a href="{{ a.url }}" hreflang="{{ a.hreflang }}">{{ a.name }}</a>{% endfor %}</li>{% endif %}
+    </ul>
+  </nav>
+</header>
+
+<main id="main">
+{% block content %}{% endblock %}
+</main>
+
+{% block cta %}
+<section class="cta">
+  <div class="wrap cta__in">
+    <div>
+      <h2 class="h2">{{ t.cta_title }}</h2>
+      <p>{{ t.cta_text }}</p>
+    </div>
+    <div class="cta__actions">
+      <a class="btn btn--primary" href="{{ pages.contact.url if pages.contact else home_url }}">{{ t.book_consultation }}</a>
+      {% if cfg.whatsapp_number %}<a class="btn btn--ghost" href="https://wa.me/{{ cfg.whatsapp_number }}" rel="noopener">{{ t.whatsapp }}</a>{% endif %}
+      <a class="btn btn--ghost" href="tel:{{ cfg.phone_e164 }}">{{ cfg.phone_display }}</a>
+    </div>
+  </div>
+</section>
+{% endblock %}
+
+<footer class="ftr">
+  <div class="wrap ftr__grid">
+    <div class="ftr__col ftr__brand">
+      <img src="{{ cfg.logo }}" alt="{{ cfg.firm_name }}" width="160" height="43" loading="lazy">
+      <p>{{ t.footer_tagline }}</p>
+      <p class="ftr__reg">{{ t.regulated_by }}</p>
+    </div>
+    <div class="ftr__col">
+      <h3>{{ t.office }}</h3>
+      <address>
+        {{ cfg.firm_name }}<br>
+        {{ cfg.address.building }}<br>
+        {{ cfg.address.street }}<br>
+        {{ cfg.address.postal_code }} {{ cfg.address.city }}, {{ cfg.address.country }}
+      </address>
+      <p><a href="tel:{{ cfg.phone_e164 }}">{{ cfg.phone_display }}</a><br><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></p>
+      <p class="ftr__hours">{{ t.office_hours }}: {{ t.weekdays }} {% for r in cfg.hours.ranges %}{{ r[0] }}–{{ r[1] }}{% if not loop.last %}, {% endif %}{% endfor %}</p>
+    </div>
+    <div class="ftr__col">
+      <h3>{{ t.our_services }}</h3>
+      <ul>
+        {% for s in services_primary %}<li><a href="{{ s.url }}">{{ s.nav_label }}</a></li>{% endfor %}
+        {% for s in services_secondary %}<li><a href="{{ s.url }}">{{ s.nav_label }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <div class="ftr__col">
+      <h3>{{ cfg.firm_name }}</h3>
+      <ul>
+        {% for n in nav %}<li><a href="{{ n.url }}">{{ n.nav_label }}</a></li>{% endfor %}
+        {% if pages.larnaca %}<li><a href="{{ pages.larnaca.url }}">{{ pages.larnaca.nav_label }}</a></li>{% endif %}
+        {% if pages.trustgate %}<li><a href="{{ pages.trustgate.url }}">{{ pages.trustgate.nav_label }}</a></li>{% endif %}
+        {% if pages.csr %}<li><a href="{{ pages.csr.url }}">{{ pages.csr.nav_label }}</a></li>{% endif %}
+      </ul>
+      {% if alternates|length > 1 %}<p class="ftr__langs">{% for a in alternates %}<a href="{{ a.url }}" hreflang="{{ a.hreflang }}" lang="{{ a.hreflang }}">{{ a.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+    </div>
+  </div>
+  <div class="wrap ftr__bar">
+    <p>© {{ today[:4] }} {{ cfg.firm_name }}. {{ t.footer_rights }}</p>
+    <p>{% if pages.imprint %}<a href="{{ pages.imprint.url }}">{{ t.imprint }}</a>{% endif %}{% if pages.privacy %} · <a href="{{ pages.privacy.url }}">{{ t.privacy_policy }}</a>{% endif %}{% if page.updated and page.type != 'home' %} · {{ t.updated }} {{ page.updated }}{% endif %}</p>
+  </div>
+</footer>
+<script src="/site/js/site.js?v={{ today }}" defer></script>
+</body>
+</html>

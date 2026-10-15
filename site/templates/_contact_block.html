@@ -1,0 +1,27 @@
+<div class="contact">
+  <div class="contact__info">
+    <h3>{{ t.office }}</h3>
+    <address>
+      {{ cfg.firm_name }}<br>
+      {{ cfg.address.building }}<br>
+      {{ cfg.address.street }}<br>
+      {{ cfg.address.postal_code }} {{ cfg.address.city }}, {{ cfg.address.country }}
+    </address>
+    <dl class="contact__dl">
+      <dt>{{ t.phone }}</dt><dd><a href="tel:{{ cfg.phone_e164 }}">{{ cfg.phone_display }}</a></dd>
+      <dt>{{ t.email }}</dt><dd><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></dd>
+      {% if cfg.whatsapp_number %}<dt>{{ t.whatsapp }}</dt><dd><a href="https://wa.me/{{ cfg.whatsapp_number }}" rel="noopener">+{{ cfg.whatsapp_number }}</a></dd>{% endif %}
+      {% if cfg.telegram_handle %}<dt>{{ t.telegram }}</dt><dd><a href="https://t.me/{{ cfg.telegram_handle }}" rel="noopener">@{{ cfg.telegram_handle }}</a></dd>{% endif %}
+      <dt>{{ t.office_hours }}</dt><dd>{{ t.weekdays }}<br>{% for r in cfg.hours.ranges %}{{ r[0] }}–{{ r[1] }}{% if not loop.last %}<br>{% endif %}{% endfor %}</dd>
+      <dt>{{ t.languages_label }}</dt><dd>{{ t.languages_spoken }}</dd>
+    </dl>
+    <p><a class="link" href="{{ cfg.map_embed.split('&z=')[0] }}" rel="noopener" target="_blank">{{ t.directions }}</a></p>
+  </div>
+  <div class="contact__form">
+    <h3>{{ t.send_message }}</h3>
+    {% include "_contact_form.html" %}
+  </div>
+</div>
+<div class="map">
+  <iframe title="{{ t.map_title }}" src="{{ cfg.map_embed }}" width="100%" height="320" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+</div>

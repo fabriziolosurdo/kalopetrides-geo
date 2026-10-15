@@ -1,0 +1,50 @@
+site_url: https://kalopetrideslaw.com
+firm_name: Kalopetrides Law LLC
+alternate_name: Savvas Kalopetrides LLC
+email: info@kalopetrideslaw.com
+phone_display: +357 24 668667
+phone_e164: "+35724668667"
+# Mobile for WhatsApp/Telegram buttons, digits only with country code (e.g. "35795998888").
+# Leave empty until Fab confirms it can go on the site: with an empty value the buttons are not rendered.
+whatsapp_number: ""
+telegram_handle: ""
+address:
+  building: Panayioteio Megaro
+  street: Gladstonos 1, 2nd floor, Office 205
+  postal_code: "6023"
+  city: Larnaca
+  country: Cyprus
+  country_code: CY
+geo:
+  lat: 34.9174
+  lng: 33.6337
+map_embed: https://maps.google.com/maps?q=Gladstonos%201%2C%20Larnaca%2C%20Cyprus&z=15&output=embed
+hours:
+  days: [Monday, Tuesday, Wednesday, Thursday, Friday]
+  ranges: [["08:00", "13:00"], ["14:00", "17:00"]]
+languages_spoken: [en, el, de, ru]
+web3forms_key: ffeecfb8-97a1-42a8-9a01-f1b220b3e8d7
+logo: /assets/img/logo-silver.png
+logo_dark: /assets/img/logo-dark.png
+emblem: /assets/img/emblem.png
+og_image: /assets/img/office-savvas.jpg
+client_logos:
+  - {file: /assets/img/client-dhl.png, alt: DHL Express}
+  - {file: /assets/img/client-rise.png, alt: Rise Hotel Larnaca}
+  - {file: /assets/img/client-gig.png, alt: Gulf Insurance Group}
+  - {file: /assets/img/client-jimmy.png, alt: Jimmy's Suites Larnaca}
+  - {file: /assets/img/client-cotton.png, alt: Cotton}
+same_as: []   # Google Business Profile / LinkedIn / Facebook / Instagram URLs: to be added once confirmed
+
+# Languages: EN at the root, the others under a prefix. `name` is the native label in the switcher.
+languages:
+  en: {prefix: "", name: English, locale: en_GB, hreflang: en}
+  de: {prefix: "de", name: Deutsch, locale: de_DE, hreflang: de}
+  ru: {prefix: "ru", name: Русский, locale: ru_RU, hreflang: ru}
+  el: {prefix: "el", name: Ελληνικά, locale: el_GR, hreflang: el}
+
+# Main navigation: page keys in order; the labels come from each page's nav_label.
+nav_keys: [about, services-index, team-index, contact]
+service_keys_primary: [service-real-estate, service-corporate, service-immigration, service-banking, service-tax]
+service_keys_secondary: [service-wills, service-ip, service-litigation, service-civil-marriages]
+person_keys: [person-savvas, person-angelos, person-theodosis, person-marianna]
