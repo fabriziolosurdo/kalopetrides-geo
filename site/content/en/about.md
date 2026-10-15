@@ -2,12 +2,12 @@
 key: about
 type: page
 slug: about-us
-title: About Us — Kalopetrides Law LLC, Larnaca
-description: Kalopetrides Law LLC is a law firm in Larnaca, Cyprus, led by lawyer Savvas Kalopetrides, advising international and local clients on property, corporate, immigration, banking and tax law.
+title: "About Us — Kalopetrides Law LLC, Larnaca"
+description: "Law firm in Larnaca, Cyprus, led by lawyer Savvas Kalopetrides. Kalopetrides Law LLC advises international and local clients on property and business law."
 h1: About Kalopetrides Law LLC
-summary: Kalopetrides Law LLC is a law firm in Larnaca, Cyprus, led by lawyer Savvas Kalopetrides. We advise individuals, companies and organisations from Cyprus and abroad, with corporate administration provided through our affiliated company TrustGate Corporate Services Ltd.
+summary: "Kalopetrides Law LLC is a law firm in Larnaca, Cyprus, led by lawyer Savvas Kalopetrides. We advise individuals, companies and organisations from Cyprus and abroad, with corporate administration provided through our affiliated company TrustGate Corporate Services Ltd."
 updated: 2026-10-15
-nav_label: About Us
+nav_label: "About Us"
 ---
 Kalopetrides Law LLC is a law firm based in Larnaca, Cyprus. We advise private individuals, companies and organisations, from Cyprus and from abroad, on real estate, corporate and commercial, immigration, banking and finance, tax, wills and probate, intellectual property, litigation and civil marriage matters. The firm is led by its founder and Managing Director, lawyer Savvas Kalopetrides.
 

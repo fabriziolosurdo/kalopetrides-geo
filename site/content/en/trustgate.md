@@ -2,12 +2,12 @@
 key: trustgate
 type: page
 slug: trustgate-corporate-services
-title: TrustGate Corporate Services Ltd — Cyprus
-description: TrustGate Corporate Services Ltd, affiliated with Kalopetrides Law LLC: company formation, registered office, secretarial, nominee and compliance services.
+title: "TrustGate Corporate Services Ltd — Cyprus"
+description: "TrustGate Corporate Services Ltd, affiliated with Kalopetrides Law LLC: company formation, registered office, secretarial, nominee and compliance services."
 h1: TrustGate Corporate Services Ltd
-summary: TrustGate Corporate Services Ltd is the corporate services company affiliated with Kalopetrides Law LLC. It provides company formation, registered office, company secretarial, nominee director and shareholder, statutory register and compliance services for Cyprus companies and their owners, in coordination with the law firm.
+summary: "TrustGate Corporate Services Ltd is the corporate services company affiliated with Kalopetrides Law LLC. It provides company formation, registered office, company secretarial, nominee director and shareholder, statutory register and compliance services for Cyprus companies and their owners, in coordination with the law firm."
 updated: 2026-10-15
-nav_label: TrustGate
+nav_label: "TrustGate"
 ---
 TrustGate Corporate Services Ltd is the corporate services company affiliated with Kalopetrides Law LLC. It provides company administration and nominee services to businesses and international clients operating through Cyprus companies. Working in close coordination with the law firm, TrustGate delivers structured, compliant and confidential corporate support for entrepreneurs, corporate groups, holding structures and investment vehicles.
 

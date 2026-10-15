@@ -2,18 +2,18 @@
 key: person-savvas
 type: person
 slug: team/savvas-kalopetrides
-title: Savvas Kalopetrides — Lawyer, Larnaca, Cyprus
-description: Savvas Kalopetrides, founder, Managing Director and lawyer of Kalopetrides Law LLC, Larnaca, Cyprus. LLB (Hons), University of Reading; Cyprus Bar member.
+title: "Savvas Kalopetrides — Lawyer, Larnaca, Cyprus"
+description: "Savvas Kalopetrides, founder, Managing Director and lawyer of Kalopetrides Law LLC, Larnaca, Cyprus. LLB (Hons), University of Reading; Cyprus Bar member."
 h1: Savvas Kalopetrides
-summary: Savvas Kalopetrides is the founder, Managing Director and lawyer of Kalopetrides Law LLC in Larnaca, Cyprus. He holds an LLB (Hons) from the University of Reading, is a member of the Cyprus Bar Association, and advises local and international clients on real estate, corporate, immigration, banking and finance, commercial and tax matters as well as civil and criminal litigation.
+summary: "Savvas Kalopetrides is the founder, Managing Director and lawyer of Kalopetrides Law LLC in Larnaca, Cyprus. He holds an LLB (Hons) from the University of Reading, is a member of the Cyprus Bar Association, and advises local and international clients on real estate, corporate, immigration, banking and finance, commercial and tax matters as well as civil and criminal litigation."
 updated: 2026-10-15
-nav_label: Savvas Kalopetrides
+nav_label: "Savvas Kalopetrides"
 person:
-  name: Savvas Kalopetrides
-  jobTitle: Founder & Managing Director, Lawyer
+  name: "Savvas Kalopetrides"
+  jobTitle: "Founder & Managing Director, Lawyer"
   image: /assets/img/team-savvas.jpg
-  alumniOf: University of Reading
-  memberOf: Cyprus Bar Association
+  alumniOf: "University of Reading"
+  memberOf: "Cyprus Bar Association"
 ---
 Savvas Kalopetrides is the founder and Managing Director of Kalopetrides Law LLC, a law firm in Larnaca, Cyprus. He holds an LLB (Hons) in Law from the University of Reading and is an active member of the Cyprus Bar Association.
 

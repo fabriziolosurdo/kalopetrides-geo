@@ -2,17 +2,17 @@
 key: person-marianna
 type: person
 slug: team/marianna-giannarou
-title: Marianna Giannarou — Corporate Administration
-description: Marianna Giannarou handles corporate administration and compliance at Kalopetrides Law LLC in Larnaca. UCLan Cyprus graduate with international experience.
+title: "Marianna Giannarou — Corporate Administration"
+description: "Marianna Giannarou handles corporate administration and compliance at Kalopetrides Law LLC in Larnaca. UCLan Cyprus graduate with international experience."
 h1: Marianna Giannarou
-summary: Marianna Giannarou is responsible for corporate administration and compliance at Kalopetrides Law LLC. She holds qualifications in Human Resource Management and Business Administration from the University of Central Lancashire Cyprus and has experience in corporate administration, operational management, compliance and client relations in Cyprus and abroad.
+summary: "Marianna Giannarou is responsible for corporate administration and compliance at Kalopetrides Law LLC. She holds qualifications in Human Resource Management and Business Administration from the University of Central Lancashire Cyprus and has experience in corporate administration, operational management, compliance and client relations in Cyprus and abroad."
 updated: 2026-10-15
-nav_label: Marianna Giannarou
+nav_label: "Marianna Giannarou"
 person:
-  name: Marianna Giannarou
-  jobTitle: Corporate Administration & Compliance
+  name: "Marianna Giannarou"
+  jobTitle: "Corporate Administration & Compliance"
   image: /assets/img/team-marianna.jpg
-  alumniOf: University of Central Lancashire Cyprus
+  alumniOf: "University of Central Lancashire Cyprus"
 ---
 Marianna Giannarou is responsible for corporate administration and compliance at Kalopetrides Law LLC. She is not a lawyer; she coordinates the administrative and regulatory procedures behind the firm's work for companies and private clients.
 

@@ -2,18 +2,18 @@
 key: person-angelos
 type: person
 slug: team/angelos-ioannou
-title: Angelos Ioannou — External Associate Lawyer
-description: Angelos Ioannou, external associate lawyer of Kalopetrides Law LLC, Larnaca: civil and criminal litigation. LLB, University of Reading; Cyprus Bar member.
+title: "Angelos Ioannou — External Associate Lawyer"
+description: "Angelos Ioannou, external associate lawyer of Kalopetrides Law LLC, Larnaca: civil and criminal litigation. LLB, University of Reading; Cyprus Bar member."
 h1: Angelos Ioannou
-summary: Angelos Ioannou is an external associate lawyer of Kalopetrides Law LLC. He specialises in civil and criminal litigation, with particular experience in real estate disputes, insurance claims, debt recovery and general civil matters. He holds an LLB from the University of Reading and is a member of the Cyprus Bar Association.
+summary: "Angelos Ioannou is an external associate lawyer of Kalopetrides Law LLC. He specialises in civil and criminal litigation, with particular experience in real estate disputes, insurance claims, debt recovery and general civil matters. He holds an LLB from the University of Reading and is a member of the Cyprus Bar Association."
 updated: 2026-10-15
-nav_label: Angelos Ioannou
+nav_label: "Angelos Ioannou"
 person:
-  name: Angelos Ioannou
-  jobTitle: External Associate Lawyer
+  name: "Angelos Ioannou"
+  jobTitle: "External Associate Lawyer"
   image: /assets/img/team-angelos.jpg
-  alumniOf: University of Reading
-  memberOf: Cyprus Bar Association
+  alumniOf: "University of Reading"
+  memberOf: "Cyprus Bar Association"
 ---
 Angelos Ioannou is an external associate of Kalopetrides Law LLC. He is a lawyer specialising in civil and criminal litigation, with particular experience in real estate disputes, insurance claims, debt recovery and general civil matters. He holds an LLB in Law from the University of Reading and is a member of the Cyprus Bar Association.
 

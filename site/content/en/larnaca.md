@@ -2,12 +2,12 @@
 key: larnaca
 type: page
 slug: lawyer-in-larnaca
-title: Lawyer in Larnaca, Cyprus — Kalopetrides Law LLC
-description: A lawyer in Larnaca for foreign clients. Kalopetrides Law LLC advises on property purchases, company formation, residence permits, banking and tax in the Larnaca district, in person or by video.
+title: "Lawyer in Larnaca, Cyprus — Kalopetrides Law LLC"
+description: "A lawyer in Larnaca for foreign clients: property purchases, company formation, residence permits, banking and tax in the district, in person or by video."
 h1: A lawyer in Larnaca for foreign clients
-summary: Kalopetrides Law LLC is a law firm in the centre of Larnaca, Cyprus. We act for foreign buyers, investors, companies and families in the Larnaca district on real estate, corporate, immigration, banking and finance and tax matters, in English, Greek, German and Russian, at the office or by video call.
+summary: "Kalopetrides Law LLC is a law firm in the centre of Larnaca, Cyprus. We act for foreign buyers, investors, companies and families in the Larnaca district on real estate, corporate, immigration, banking and finance and tax matters, in English, Greek, German and Russian, at the office or by video call."
 updated: 2026-10-15
-nav_label: Lawyer in Larnaca
+nav_label: "Lawyer in Larnaca"
 ---
 If you are buying property, setting up a company, applying for residence or dealing with a bank or the tax office in the Larnaca area and you do not live in Cyprus, you need a lawyer who is physically here, knows the local offices and can explain the procedure in your language. Kalopetrides Law LLC is in the centre of Larnaca, acts for clients from Germany, Israel, Lebanon and other countries, and works in English, Greek, German and Russian.
 

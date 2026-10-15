@@ -2,35 +2,35 @@
 key: service-litigation
 type: service
 slug: services/litigation-lawyer-cyprus
-title: Litigation Lawyer in Cyprus — Kalopetrides Law LLC
-description: Civil and commercial litigation in Cyprus for foreign and local clients: contract, property, shareholder and debt disputes before the District Courts under the Civil Procedure Rules in force since September 2023.
+title: "Litigation Lawyer in Cyprus — Kalopetrides Law LLC"
+description: "Civil and commercial litigation in Cyprus for foreign and local clients: contract, property, shareholder and debt disputes, Civil Procedure Rules of 2023."
 h1: Litigation Lawyer in Cyprus
-summary: Kalopetrides Law LLC represents clients in civil and commercial disputes before the Cyprus courts, including contract, property, shareholder, employment and debt-recovery cases, and in arbitration and mediation. Litigation is handled by Savvas Kalopetrides together with external associate lawyer Angelos Ioannou.
+summary: "Kalopetrides Law LLC represents clients in civil and commercial disputes before the Cyprus courts, including contract, property, shareholder, employment and debt-recovery cases, and in arbitration and mediation. Litigation is handled by Savvas Kalopetrides together with external associate lawyer Angelos Ioannou."
 updated: 2026-10-15
-nav_label: Litigation
+nav_label: "Litigation"
 faq:
-  - q: Which court hears a civil claim in Cyprus?
-    a: Civil and commercial claims are started in the District Court of the district with jurisdiction, in our case usually the District Court of Larnaca. Appeals go to the Court of Appeal, which has heard appeals since July 2023, and in limited cases on to the Supreme Court. A Commercial Court for high-value commercial disputes has been established by a law of 2022; its operational status should be checked at the time of filing.
-  - q: What changed with the new Civil Procedure Rules?
-    a: The new Civil Procedure Rules entered into force on 1 September 2023 and apply to civil cases filed after that date; cases filed earlier continue under the old rules. The new rules are built around an overriding objective of dealing with cases justly and at proportionate cost, give the court active case-management powers, introduce pre-action protocols, and allow settlement offers that carry costs consequences if refused. In practice, parties are expected to set out their case early and to try to settle before trial.
-  - q: How long do I have to bring a claim in Cyprus?
-    a: Under the Limitation of Actions Law of 2012, Law 66(I)/2012, the general period for a claim in contract is six years and for a civil wrong (tort) six years, with three years for certain claims such as negligence, nuisance or breach of statutory duty, all subject to a general ten-year bar and to the specific provisions of the Law. The periods run from when the cause of action is complete. Because the rules are detailed and exceptions exist, we check the applicable period for your claim at the first meeting.
-  - q: Can I sue in Cyprus if I live abroad?
-    a: Yes. A claimant does not need to be resident in Cyprus. You instruct us by email and video call, sign the necessary documents, and attend in person only where your evidence is required at trial. Clients abroad should be aware that a defendant may apply for security for costs in some circumstances.
-  - q: Can a foreign judgment be enforced in Cyprus?
-    a: Judgments from other EU Member States in civil and commercial matters are enforced under the EU rules on recognition and enforcement; judgments from certain other countries are enforced under bilateral treaties or under Cyprus legislation on reciprocal enforcement; and other judgments may be enforced through an action on the judgment. The route depends on the country of origin, and we advise on it before any step is taken.
-  - q: Do I have to go to trial, or can the dispute be settled?
-    a: Most disputes settle before trial. The new Civil Procedure Rules encourage this through pre-action steps and costs-protected settlement offers, and mediation and arbitration are available. We assess the strength of your position at the start, advise whether an early settlement is in your interest, and litigate when it is not.
+  - q: "Which court hears a civil claim in Cyprus?"
+    a: "Civil and commercial claims are started in the District Court of the district with jurisdiction, in our case usually the District Court of Larnaca. Appeals go to the Court of Appeal, which has heard appeals since July 2023, and in limited cases on to the Supreme Court. A Commercial Court for high-value commercial disputes has been established by a law of 2022; its operational status should be checked at the time of filing."
+  - q: "What changed with the new Civil Procedure Rules?"
+    a: "The new Civil Procedure Rules entered into force on 1 September 2023 and apply to civil cases filed after that date; cases filed earlier continue under the old rules. The new rules are built around an overriding objective of dealing with cases justly and at proportionate cost, give the court active case-management powers, introduce pre-action protocols, and allow settlement offers that carry costs consequences if refused. In practice, parties are expected to set out their case early and to try to settle before trial."
+  - q: "How long do I have to bring a claim in Cyprus?"
+    a: "Under the Limitation of Actions Law of 2012, Law 66(I)/2012, the general period for a claim in contract is six years and for a civil wrong (tort) six years, with three years for certain claims such as negligence, nuisance or breach of statutory duty, all subject to a general ten-year bar and to the specific provisions of the Law. The periods run from when the cause of action is complete. Because the rules are detailed and exceptions exist, we check the applicable period for your claim at the first meeting."
+  - q: "Can I sue in Cyprus if I live abroad?"
+    a: "Yes. A claimant does not need to be resident in Cyprus. You instruct us by email and video call, sign the necessary documents, and attend in person only where your evidence is required at trial. Clients abroad should be aware that a defendant may apply for security for costs in some circumstances."
+  - q: "Can a foreign judgment be enforced in Cyprus?"
+    a: "Judgments from other EU Member States in civil and commercial matters are enforced under the EU rules on recognition and enforcement; judgments from certain other countries are enforced under bilateral treaties or under Cyprus legislation on reciprocal enforcement; and other judgments may be enforced through an action on the judgment. The route depends on the country of origin, and we advise on it before any step is taken."
+  - q: "Do I have to go to trial, or can the dispute be settled?"
+    a: "Most disputes settle before trial. The new Civil Procedure Rules encourage this through pre-action steps and costs-protected settlement offers, and mediation and arbitration are available. We assess the strength of your position at the start, advise whether an early settlement is in your interest, and litigate when it is not."
 sources:
-  - title: The Legal 500 — Litigation Country Comparative Guide, Cyprus (court structure, Civil Procedure Rules in force since 1 September 2023, limitation periods)
+  - title: "The Legal 500 — Litigation Country Comparative Guide, Cyprus (court structure, Civil Procedure Rules in force since 1 September 2023, limitation periods)"
     url: https://www.legal500.com/guides/chapter/cyprus-litigation/
-  - title: The Legal 500 — Focus on dispute resolution in Cyprus (new Civil Procedure Rules, Court of Appeal, Commercial Court)
+  - title: "The Legal 500 — Focus on dispute resolution in Cyprus (new Civil Procedure Rules, Court of Appeal, Commercial Court)"
     url: https://www.legal500.com/c/cyprus/dispute-resolution/focus-on
-  - title: Cyprus Mail, 24 September 2023 — "Access to justice in Cyprus at last" (new Civil Procedure Rules in force 1 September 2023)
+  - title: "Cyprus Mail, 24 September 2023 — \"Access to justice in Cyprus at last\" (new Civil Procedure Rules in force 1 September 2023)"
     url: https://cyprus-mail.com/2023/09/24/access-to-justice-in-cyprus-at-last
-  - title: Michael Kyprianou & Co — The New Civil Procedure Rules (overriding objective, pre-action protocols, case management, settlement offers)
+  - title: "Michael Kyprianou & Co — The New Civil Procedure Rules (overriding objective, pre-action protocols, case management, settlement offers)"
     url: https://www.kyprianou.com/?p=1845
-  - title: Limitation of Actions Law of 2012, Law 66(I)/2012 (Ο περί Παραγραφής Αγώγιμων Δικαιωμάτων Νόμος) — CyLaw
+  - title: "Limitation of Actions Law of 2012, Law 66(I)/2012 (Ο περί Παραγραφής Αγώγιμων Δικαιωμάτων Νόμος) — CyLaw"
     url: http://www.cylaw.org/nomoi/enop/non-ind/2012_1_66/full.html
 ---
 When a contract is not performed, a property deal goes wrong, a debtor does not pay or a business partner breaches the shareholders' agreement, you need a lawyer who can tell you honestly whether to settle or to sue, and who can run the case in the Cyprus courts if it comes to that. Kalopetrides Law LLC represents clients from Cyprus and abroad in civil and commercial disputes before the District Courts, in appeals, and in arbitration and mediation. Litigation is handled by Savvas Kalopetrides together with external associate lawyer Angelos Ioannou, whose practice is civil and criminal litigation.

@@ -2,18 +2,18 @@
 key: imprint
 type: legal
 slug: imprint
-title: Imprint — Kalopetrides Law LLC
-description: Legal notice of Kalopetrides Law LLC, a law firm in Larnaca, Cyprus, regulated by the Cyprus Bar Association. Provider information under Law 156(I)/2004.
+title: "Imprint — Kalopetrides Law LLC"
+description: "Legal notice of Kalopetrides Law LLC, a law firm in Larnaca, Cyprus, regulated by the Cyprus Bar Association. Provider information under Law 156(I)/2004."
 h1: Imprint
-summary: Legal notice and provider information for the website of Kalopetrides Law LLC, Larnaca, Cyprus, given in accordance with Cyprus Law 156(I)/2004 implementing Directive 2000/31/EC on electronic commerce.
+summary: "Legal notice and provider information for the website of Kalopetrides Law LLC, Larnaca, Cyprus, given in accordance with Cyprus Law 156(I)/2004 implementing Directive 2000/31/EC on electronic commerce."
 updated: 2026-10-15
-nav_label: Imprint
+nav_label: "Imprint"
 sources:
-  - title: The Certain Legal Aspects of Information Society Services, in particular Electronic Commerce, and Associated Matters Law of 2004, Law 156(I)/2004 — CyLaw (Greek)
+  - title: "The Certain Legal Aspects of Information Society Services, in particular Electronic Commerce, and Associated Matters Law of 2004, Law 156(I)/2004 — CyLaw (Greek)"
     url: http://www.cylaw.org/nomoi/enop/non-ind/2004_1_156/full.html
-  - title: Cyprus Bar Association — official website
+  - title: "Cyprus Bar Association — official website"
     url: https://www.cyprusbarassociation.org/
-  - title: Business in Cyprus (Point of Single Contact) — Advocate / Lawyer: Advocates Law, Cap. 2, Register of Practising Advocates and annual licence
+  - title: "Business in Cyprus (Point of Single Contact) — Advocate / Lawyer (Advocates Law, Cap. 2; Register of Practising Advocates; annual licence)"
     url: https://www.businessincyprus.gov.cy/business-sectors/advocate-lawyer/
 ---
 This page contains the information that Kalopetrides Law LLC, as the provider of this website, makes available in accordance with Article 8 of the Certain Legal Aspects of Information Society Services, in particular Electronic Commerce, and Associated Matters Law of 2004 (Law 156(I)/2004), the Cyprus law implementing Directive 2000/31/EC on electronic commerce.

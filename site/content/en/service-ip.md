@@ -2,39 +2,39 @@
 key: service-ip
 type: service
 slug: services/intellectual-property-cyprus
-title: Intellectual Property Lawyer in Cyprus — Kalopetrides Law
-description: Trademark, design, patent and copyright advice in Cyprus. National registration with the Registrar of Companies and Intellectual Property, EU trade marks via EUIPO, licensing and enforcement.
+title: "Intellectual Property Lawyer in Cyprus — Kalopetrides Law"
+description: "Trademark, design and copyright advice in Cyprus: national registration with the Registrar of Companies and Intellectual Property, EU marks via EUIPO."
 h1: Intellectual Property in Cyprus
-summary: Kalopetrides Law LLC registers and protects trademarks, designs and other intellectual property for businesses in Cyprus and abroad: national marks with the Department of Registrar of Companies and Intellectual Property, EU trade marks through EUIPO, licensing agreements and enforcement against infringement.
+summary: "Kalopetrides Law LLC registers and protects trademarks, designs and other intellectual property for businesses in Cyprus and abroad: national marks with the Department of Registrar of Companies and Intellectual Property, EU trade marks through EUIPO, licensing agreements and enforcement against infringement."
 updated: 2026-10-15
-nav_label: Intellectual Property
+nav_label: "Intellectual Property"
 faq:
-  - q: Where is a trademark registered in Cyprus?
-    a: National trademarks are registered with the Intellectual Property Section of the Department of Registrar of Companies and Intellectual Property, which keeps the register of trademarks. Applications can be filed electronically. A national registration protects the mark in the Republic of Cyprus only.
-  - q: Should I register a Cyprus trademark or an EU trade mark?
-    a: It depends on where you trade. A national Cyprus mark protects you in Cyprus. An EU trade mark, filed with the European Union Intellectual Property Office (EUIPO), gives protection in all EU Member States with a single application. A business that sells only in Cyprus may be content with a national mark; a business that sells across the EU usually prefers an EU trade mark, sometimes alongside the national one. We help you decide and file either route.
-  - q: How long does an EU trade mark last?
-    a: According to EUIPO, an EU trade mark registration lasts for 10 years and can be renewed indefinitely. For a Cyprus national mark the Registrar sends a renewal notice before expiry; if the renewal fee is not paid the mark is published as unpaid and, after a further period, struck off the register, with a possibility of restoration on payment and an affidavit.
-  - q: What does the Registrar examine before registering a Cyprus trademark?
-    a: The Intellectual Property Section first checks the formal requirements and the classification of goods and services, then examines absolute grounds (whether the sign is registrable and distinctive) and relative grounds (whether it conflicts with earlier identical or similar marks). If objections are raised, the applicant has two months to withdraw, limit the goods or services or file observations. Accepted applications are published in the Official Gazette, and third parties may oppose within three months of publication.
-  - q: Can a foreign company register a trademark in Cyprus?
-    a: Yes. The applicant does not need to be resident or established in Cyprus. Foreign applicants usually act through a local representative, which is what we do for clients abroad: we run the search, file the application, respond to any objection from the Registrar and follow the matter to the registration certificate.
-  - q: What can I do if someone uses my trademark in Cyprus without permission?
-    a: The owner of a registered mark can act against infringement before the Cyprus courts, seeking an injunction, delivery up and damages, and can oppose or seek to invalidate conflicting later applications before the Registrar. The first step is usually a formal letter; where that does not work, we bring proceedings. Unregistered signs can be protected only in narrower circumstances, which is one reason to register early.
+  - q: "Where is a trademark registered in Cyprus?"
+    a: "National trademarks are registered with the Intellectual Property Section of the Department of Registrar of Companies and Intellectual Property, which keeps the register of trademarks. Applications can be filed electronically. A national registration protects the mark in the Republic of Cyprus only."
+  - q: "Should I register a Cyprus trademark or an EU trade mark?"
+    a: "It depends on where you trade. A national Cyprus mark protects you in Cyprus. An EU trade mark, filed with the European Union Intellectual Property Office (EUIPO), gives protection in all EU Member States with a single application. A business that sells only in Cyprus may be content with a national mark; a business that sells across the EU usually prefers an EU trade mark, sometimes alongside the national one. We help you decide and file either route."
+  - q: "How long does an EU trade mark last?"
+    a: "According to EUIPO, an EU trade mark registration lasts for 10 years and can be renewed indefinitely. For a Cyprus national mark the Registrar sends a renewal notice before expiry; if the renewal fee is not paid the mark is published as unpaid and, after a further period, struck off the register, with a possibility of restoration on payment and an affidavit."
+  - q: "What does the Registrar examine before registering a Cyprus trademark?"
+    a: "The Intellectual Property Section first checks the formal requirements and the classification of goods and services, then examines absolute grounds (whether the sign is registrable and distinctive) and relative grounds (whether it conflicts with earlier identical or similar marks). If objections are raised, the applicant has two months to withdraw, limit the goods or services or file observations. Accepted applications are published in the Official Gazette, and third parties may oppose within three months of publication."
+  - q: "Can a foreign company register a trademark in Cyprus?"
+    a: "Yes. The applicant does not need to be resident or established in Cyprus. Foreign applicants usually act through a local representative, which is what we do for clients abroad: we run the search, file the application, respond to any objection from the Registrar and follow the matter to the registration certificate."
+  - q: "What can I do if someone uses my trademark in Cyprus without permission?"
+    a: "The owner of a registered mark can act against infringement before the Cyprus courts, seeking an injunction, delivery up and damages, and can oppose or seek to invalidate conflicting later applications before the Registrar. The first step is usually a formal letter; where that does not work, we bring proceedings. Unregistered signs can be protected only in narrower circumstances, which is one reason to register early."
 sources:
-  - title: Intellectual Property Section, Department of Registrar of Companies and Intellectual Property — Trademark
+  - title: "Intellectual Property Section, Department of Registrar of Companies and Intellectual Property — Trademark"
     url: https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark
-  - title: Intellectual Property Section — Examination of a national trademark application
+  - title: "Intellectual Property Section — Examination of a national trademark application"
     url: https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark/1-lifecycle/1-registering-a-trademark/1-guidance/registering-a-national-trademark/examination-of-application
-  - title: Intellectual Property Section — Issuance of registration certificate (three-month opposition period)
+  - title: "Intellectual Property Section — Issuance of registration certificate (three-month opposition period)"
     url: https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark/1-lifecycle/1-registering-a-trademark/1-guidance/registering-a-national-trademark/issuance-of-registration-certificate
-  - title: Intellectual Property Section — Trademark FAQs (register, renewal)
+  - title: "Intellectual Property Section — Trademark FAQs (register, renewal)"
     url: https://intellectualproperty.gov.cy/en/knowledgebase/faqs/trademark-faqs
-  - title: Intellectual Property Section — The Trademarks Law, Cap. 268, and amending laws of 2020 and 2021
+  - title: "Intellectual Property Section — The Trademarks Law, Cap. 268, and amending laws of 2020 and 2021"
     url: https://www.intellectualproperty.gov.cy/en/knowledgebase/legislation/the-trademarks-law
-  - title: EUIPO — Where to register a trade mark (national, EU, international routes)
+  - title: "EUIPO — Where to register a trade mark (national, EU, international routes)"
     url: https://www.euipo.europa.eu/en/trade-marks/before-applying/where-to-register
-  - title: EUIPO — EU trade mark basic questions (scope and duration)
+  - title: "EUIPO — EU trade mark basic questions (scope and duration)"
     url: https://www.euipo.europa.eu/en/help-centre/tm/faq-basic-questions
 ---
 A brand, a design or a piece of software is worth protecting only if the protection is actually registered and enforced where you trade. Kalopetrides Law LLC registers trademarks and designs for businesses in Cyprus and abroad, advises on EU-wide protection through EUIPO, drafts licensing and distribution agreements, and acts against infringement before the Registrar and the Cyprus courts.

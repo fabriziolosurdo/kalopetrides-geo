@@ -2,12 +2,12 @@
 key: csr
 type: page
 slug: corporate-social-responsibility
-title: Corporate Social Responsibility — Kalopetrides Law LLC
-description: How Kalopetrides Law LLC contributes to the Larnaca community through local charitable foundations, community projects, pro bono work and volunteering.
+title: "Corporate Social Responsibility — Kalopetrides Law LLC"
+description: "How Kalopetrides Law LLC contributes to the Larnaca community through local charitable foundations, community projects, pro bono work and volunteering."
 h1: Corporate Social Responsibility
-summary: Kalopetrides Law LLC supports the communities it serves through participation in local charitable foundations and community projects, corporate giving, pro bono legal work and volunteering, and is committed to conducting its business ethically and with respect for people and the environment.
+summary: "Kalopetrides Law LLC supports the communities it serves through participation in local charitable foundations and community projects, corporate giving, pro bono legal work and volunteering, and is committed to conducting its business ethically and with respect for people and the environment."
 updated: 2026-10-15
-nav_label: CSR
+nav_label: "CSR"
 ---
 At Kalopetrides Law LLC we are dedicated to making meaningful and lasting contributions to the communities we serve. Our commitment to social responsibility takes the form of active participation in local charitable foundations, community projects and corporate giving. These efforts are part of the firm's culture.
 

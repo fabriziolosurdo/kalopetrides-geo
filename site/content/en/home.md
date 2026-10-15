@@ -2,24 +2,24 @@
 key: home
 type: home
 slug: ""
-title: Law Firm in Larnaca, Cyprus — Kalopetrides Law LLC
-description: Kalopetrides Law LLC, law firm in Larnaca, Cyprus: real estate, corporate, immigration, banking and tax advice for foreign buyers, investors and companies.
+title: "Law Firm in Larnaca, Cyprus — Kalopetrides Law LLC"
+description: "Kalopetrides Law LLC, law firm in Larnaca, Cyprus: real estate, corporate, immigration, banking and tax advice for foreign buyers, investors and companies."
 h1: Your legal partner in Cyprus
-summary: Kalopetrides Law LLC is a law firm in Larnaca, Cyprus. We advise foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and finance and tax matters, in English, Greek, German and Russian.
+summary: "Kalopetrides Law LLC is a law firm in Larnaca, Cyprus. We advise foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and finance and tax matters, in English, Greek, German and Russian."
 updated: 2026-10-15
-nav_label: Home
-hero_eyebrow: Larnaca, Cyprus
-hero_title: Your legal partner in Cyprus
-hero_text: Kalopetrides Law LLC advises foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and tax matters in Cyprus. Clear advice, a personal approach, and an office in the centre of Larnaca.
-cta_primary: Book a consultation
-cta_secondary: Our services
+nav_label: "Home"
+hero_eyebrow: "Larnaca, Cyprus"
+hero_title: "Your legal partner in Cyprus"
+hero_text: "Kalopetrides Law LLC advises foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and tax matters in Cyprus. Clear advice, a personal approach, and an office in the centre of Larnaca."
+cta_primary: "Book a consultation"
+cta_secondary: "Our services"
 stats:
   - value: "9"
-    label: Practice areas
+    label: "Practice areas"
   - value: "4"
-    label: Languages spoken in the office
+    label: "Languages spoken in the office"
   - value: "500+"
-    label: Clients advised
+    label: "Clients advised"
 ---
 ## Why clients choose us
 

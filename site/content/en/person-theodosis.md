@@ -2,17 +2,17 @@
 key: person-theodosis
 type: person
 slug: team/theodosis-kokozides
-title: Theodosis Kokozides — Operations, Kalopetrides Law LLC
-description: Theodosis Kokozides handles operations and corporate administration at Kalopetrides Law LLC in Larnaca, with professional experience in Cyprus and Germany.
+title: "Theodosis Kokozides — Operations, Kalopetrides Law LLC"
+description: "Theodosis Kokozides handles operations and corporate administration at Kalopetrides Law LLC in Larnaca, with professional experience in Cyprus and Germany."
 h1: Theodosis Kokozides
-summary: Theodosis Kokozides is responsible for operations and corporate administration at Kalopetrides Law LLC. He holds qualifications in Hospitality and Human Resources from Canterbury University and has worked as an operations manager and administrator for companies in Cyprus and Germany.
+summary: "Theodosis Kokozides is responsible for operations and corporate administration at Kalopetrides Law LLC. He holds qualifications in Hospitality and Human Resources from Canterbury University and has worked as an operations manager and administrator for companies in Cyprus and Germany."
 updated: 2026-10-15
-nav_label: Theodosis Kokozides
+nav_label: "Theodosis Kokozides"
 person:
-  name: Theodosis Kokozides
-  jobTitle: Operations & Corporate Administration
+  name: "Theodosis Kokozides"
+  jobTitle: "Operations & Corporate Administration"
   image: /assets/img/team-theodosis.jpg
-  alumniOf: Canterbury University
+  alumniOf: "Canterbury University"
 ---
 Theodosis Kokozides is responsible for operations and corporate administration at Kalopetrides Law LLC. He is not a lawyer; his role is to keep the firm's processes and corporate administration running smoothly for clients.
 

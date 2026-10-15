@@ -2,20 +2,20 @@
 key: privacy
 type: legal
 slug: privacy-policy
-title: Privacy Policy — Kalopetrides Law LLC
-description: How Kalopetrides Law LLC, Larnaca, Cyprus, collects and uses personal data under the GDPR and Cyprus Law 125(I)/2018, including the website contact form (Web3Forms) and the Google Maps embed.
+title: "Privacy Policy — Kalopetrides Law LLC"
+description: "How Kalopetrides Law LLC, Larnaca, processes personal data under the GDPR and Cyprus Law 125(I)/2018, including the Web3Forms contact form and Google Maps."
 h1: Privacy Policy
-summary: This policy explains how Kalopetrides Law LLC, as data controller, collects and processes personal data of clients, contacts and website visitors under Regulation (EU) 2016/679 (GDPR) and Cyprus Law 125(I)/2018, what rights you have, and how to contact us or the Commissioner for Personal Data Protection.
+summary: "This policy explains how Kalopetrides Law LLC, as data controller, collects and processes personal data of clients, contacts and website visitors under Regulation (EU) 2016/679 (GDPR) and Cyprus Law 125(I)/2018, what rights you have, and how to contact us or the Commissioner for Personal Data Protection."
 updated: 2026-10-15
-nav_label: Privacy Policy
+nav_label: "Privacy Policy"
 sources:
-  - title: Regulation (EU) 2016/679 (General Data Protection Regulation) — EUR-Lex
+  - title: "Regulation (EU) 2016/679 (General Data Protection Regulation) — EUR-Lex"
     url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
-  - title: Law 125(I)/2018 providing for the protection of natural persons with regard to the processing of personal data and for the free movement of such data — Office of the Commissioner for Personal Data Protection (unofficial English translation)
+  - title: "Law 125(I)/2018 providing for the protection of natural persons with regard to the processing of personal data and for the free movement of such data — Office of the Commissioner for Personal Data Protection (unofficial English translation)"
     url: https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/2B53605103DCE4A4C225826300362211/$file/Law%20125(I)%20of%202018%20ENG%20final.pdf
-  - title: Office of the Commissioner for Personal Data Protection, Republic of Cyprus — official website
+  - title: "Office of the Commissioner for Personal Data Protection, Republic of Cyprus — official website"
     url: https://www.dataprotection.gov.cy/
-  - title: Web3Forms — Privacy policy
+  - title: "Web3Forms — Privacy policy"
     url: https://web3forms.com/privacy
 ---
 Kalopetrides Law LLC is committed to protecting your privacy. This policy explains what personal data we collect, why and on what legal basis we process it, with whom we share it, how long we keep it and what rights you have. It applies to clients and prospective clients, to persons connected with the companies and entities we act for, to suppliers and to visitors of this website.
