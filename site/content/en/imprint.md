@@ -34,7 +34,6 @@ Cyprus
 
 **Director and person responsible for the content of this website:** Savvas Kalopetrides, Lawyer
 
-**Company registration number (Registrar of Companies, Cyprus):** [Registration number — to be provided by the firm]
 
 **Tax identification number:** 60080237P
 
