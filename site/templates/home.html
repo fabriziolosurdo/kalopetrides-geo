@@ -26,7 +26,7 @@
   <div class="wrap">
     <p class="eyebrow">{{ t.our_services }}</p>
     <h2 class="h2">{{ page.services_title or t.services_index_h1 }}</h2>
-    <div class="cards cards--3">
+    <div class="cards cards--5">
       {% for s in services_primary %}
       <a class="card" href="{{ s.url }}">
         <h3>{{ s.nav_label }}</h3>

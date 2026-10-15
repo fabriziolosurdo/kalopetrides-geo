@@ -9,19 +9,19 @@ summary: Kalopetrides Law LLC is a law firm in the centre of Larnaca, Cyprus. We
 updated: 2026-10-15
 nav_label: Lawyer in Larnaca
 ---
-If you are buying property, setting up a company, applying for residence or dealing with a bank or the tax office in the Larnaca area and you do not live in Cyprus, you need a lawyer who is physically here, knows the local offices and can explain the procedure in your language. Kalopetrides Law LLC is in the centre of Larnaca and acts for clients from Germany, Austria, the Netherlands, Poland, Russia, Ukraine, Israel, Lebanon and other countries.
+If you are buying property, setting up a company, applying for residence or dealing with a bank or the tax office in the Larnaca area and you do not live in Cyprus, you need a lawyer who is physically here, knows the local offices and can explain the procedure in your language. Kalopetrides Law LLC is in the centre of Larnaca, acts for clients from Germany, Israel, Lebanon and other countries, and works in English, Greek, German and Russian.
 
 ## Where we are
 
 The office is at Gladstonos 1, in the Panayioteio Megaro building, second floor, Office 205, a short walk from the centre of Larnaca and the seafront. Larnaca is the main entry point to Cyprus for most foreign visitors, with the island's principal international airport a few kilometres from the town, so clients arriving from abroad can be at the office quickly after landing.
 
-The Larnaca District Court, the District Land Registry office and the district offices of the Civil Registry and Migration Department and the Tax Department are all in Larnaca. For a property transfer, a residence application or a tax registration, being on the spot matters: documents are lodged in person, appointments are made locally and questions from an officer are answered the same day.
+Larnaca has its own District Court, District Lands Office and district offices of the main public authorities. For a property transfer, a residence application or a tax registration, being on the spot matters: documents are lodged in person, appointments are made locally and questions from an officer are answered the same day.
 
 ## Who comes to the office
 
-**Buyers of property in the Larnaca district.** The area around Larnaca has grown into one of the most active property markets in Cyprus for foreign buyers: apartments and houses in Larnaca town and along the Finikoudes and Mackenzie seafront, villas and new developments in Oroklini, Pyla and Livadia, and homes in the villages of the district. Buyers from outside the European Union have an extra step, the permission of the Council of Ministers to acquire immovable property, and all buyers need the contract checked, the title and encumbrances searched and the contract deposited at the Land Registry. See our [real estate lawyer in Cyprus](/services/real-estate-lawyer-cyprus/) page.
+**Buyers of property in the Larnaca district.** The area around Larnaca has grown into one of the most active property markets in Cyprus for foreign buyers: apartments and houses in Larnaca town and along the Finikoudes and Mackenzie seafront, villas and new developments in Oroklini, Pyla and Livadia, and homes in the villages of the district. Buyers from outside the European Union have additional requirements to meet, and all buyers need the contract checked, the title and encumbrances searched and the contract deposited at the Land Registry. See our [real estate lawyer in Cyprus](/services/real-estate-lawyer-cyprus/) page.
 
-**Companies in the port and airport area.** Larnaca has a commercial port, a marina under redevelopment and the island's main airport, and many logistics, trading, hospitality and service businesses operate in the district. We assist with incorporating a Cyprus company, shareholder and director arrangements, commercial contracts and ongoing compliance; corporate administration is provided through our affiliated company, TrustGate Corporate Services Ltd. See [corporate lawyer in Cyprus](/services/corporate-lawyer-cyprus/).
+**Companies in the port and airport area.** Larnaca has a commercial port and the island's main airport, and many logistics, trading, hospitality and service businesses operate in the district. We assist with incorporating a Cyprus company, shareholder and director arrangements, commercial contracts and ongoing compliance; corporate administration is provided through our affiliated company, TrustGate Corporate Services Ltd. See [corporate lawyer in Cyprus](/services/corporate-lawyer-cyprus/).
 
 **Families relocating.** People moving to Cyprus to live, work or retire apply for a residence permit through the Civil Registry and Migration Department. We advise on which category fits your situation, prepare the application and deal with the authority. See [immigration lawyer in Cyprus](/services/immigration-lawyer-cyprus/).
 
@@ -29,7 +29,7 @@ The Larnaca District Court, the District Land Registry office and the district o
 
 **Clients with tax questions.** Tax residence, the taxation of a Cyprus company, VAT on a property purchase and the interaction with the tax rules of your home country are questions we deal with regularly. See [tax advisor and lawyer in Cyprus](/services/tax-advisor-lawyer-cyprus/).
 
-**The Dhekelia area.** The British Sovereign Base Area of Dhekelia lies east of Larnaca, and the villages near it, including Pyla and Xylotymbou, have their own particularities for property and planning. We advise buyers in that area on what applies to the specific plot.
+**The Dhekelia area.** The British Sovereign Base Area of Dhekelia lies east of Larnaca. Buyers looking at property in the villages near it, such as Pyla, should have the status of the specific plot checked before they commit; we do that as part of the title search.
 
 ## How a matter typically runs
 

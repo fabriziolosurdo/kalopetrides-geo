@@ -101,12 +101,13 @@ a:hover{color:var(--brass-2)}
 .cards{display:grid;gap:20px}
 .cards--3{grid-template-columns:repeat(3,1fr)}
 .cards--4{grid-template-columns:repeat(4,1fr)}
+.cards--5{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
 @media (max-width:900px){.cards--3,.cards--4{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.cards--3,.cards--4{grid-template-columns:1fr}}
 .card{display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);border-top:3px solid var(--brass);border-radius:var(--r);padding:26px;text-decoration:none;color:var(--ink);transition:transform .15s,box-shadow .15s}
 .card:hover{transform:translateY(-2px);box-shadow:0 14px 30px rgba(15,26,43,.08);color:var(--ink)}
 .card h3,.card .h3{font-family:var(--serif);font-size:1.45rem;margin:0 0 .4em}
-.card p{margin:0 0 1em;color:var(--muted);font-size:.98rem;flex:1}
+.card p{margin:0 0 1em;color:var(--muted);font-size:.98rem;flex:1;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
 .card__more{font-weight:600;font-size:.9rem;color:var(--brass-2)}
 .card--sm{padding:20px}
 .card--sm h3{font-size:1.2rem}
