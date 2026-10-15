@@ -3,7 +3,7 @@ key: home
 type: home
 slug: ""
 title: Law Firm in Larnaca, Cyprus — Kalopetrides Law LLC
-description: Kalopetrides Law LLC is a law firm in Larnaca, Cyprus, advising foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and tax matters.
+description: Kalopetrides Law LLC, law firm in Larnaca, Cyprus: real estate, corporate, immigration, banking and tax advice for foreign buyers, investors and companies.
 h1: Your legal partner in Cyprus
 summary: Kalopetrides Law LLC is a law firm in Larnaca, Cyprus. We advise foreign buyers, investors, companies and families on real estate, corporate, immigration, banking and finance and tax matters, in English, Greek, German and Russian.
 updated: 2026-10-15

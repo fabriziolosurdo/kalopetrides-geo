@@ -3,7 +3,7 @@ key: service-wills
 type: service
 slug: services/wills-probate-cyprus
 title: Wills & Probate in Cyprus — Kalopetrides Law LLC
-description: Wills and probate in Cyprus for foreign residents and owners of Cyprus property. Drafting a Cyprus will, choice of law under EU Regulation 650/2012, forced heirship, and administration of estates.
+description: Wills and probate in Cyprus for foreign residents and property owners: Cyprus wills, choice of law under EU Regulation 650/2012, forced heirship, estates.
 h1: Wills and Probate in Cyprus
 summary: Kalopetrides Law LLC drafts wills for people who live in Cyprus or own assets here, advises on which law governs your estate under EU Regulation 650/2012, and handles probate and the administration of estates before the Cyprus courts, including cross-border estates.
 updated: 2026-10-15

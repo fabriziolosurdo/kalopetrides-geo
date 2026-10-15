@@ -3,7 +3,7 @@ key: contact
 type: page
 slug: contact
 title: Contact — Kalopetrides Law LLC, Larnaca, Cyprus
-description: Contact Kalopetrides Law LLC in Larnaca, Cyprus. Gladstonos 1, Office 205. Phone +357 24 668667, info@kalopetrideslaw.com. Mon–Fri 08:00–13:00, 14:00–17:00. Video consultations available.
+description: Contact Kalopetrides Law LLC in Larnaca, Cyprus: Gladstonos 1, Office 205. Phone +357 24 668667. Mon–Fri 08:00–13:00, 14:00–17:00. Video calls available.
 h1: Contact Kalopetrides Law LLC
 summary: Reach Kalopetrides Law LLC in Larnaca by phone, email, WhatsApp or Telegram, or book a consultation at our office at Gladstonos 1 or by video call. Office hours Monday to Friday, 08:00–13:00 and 14:00–17:00.
 updated: 2026-10-15
