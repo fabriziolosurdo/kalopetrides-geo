@@ -29,6 +29,35 @@ def load_i18n(lang):
     return base
 
 
+_SCALAR_KEYS = r"(?:q|a|title|summary|description|h1|nav_label|hero_eyebrow|hero_title|hero_text|cta_primary|cta_secondary|services_title|label|value|jobTitle|alumniOf|memberOf|name|service_type)"
+_LINE_RE = re.compile(r"^(\s*(?:- )?" + _SCALAR_KEYS + r":\s+)(.+?)\s*$")
+
+
+def _quote_scalars(text):
+    """Writers put colons, quotes and apostrophes in prose values; quote such values so YAML parses them as strings."""
+    out = []
+    for line in text.split("\n"):
+        m = _LINE_RE.match(line)
+        if m:
+            v = m.group(2)
+            already = (v.startswith('"') and v.endswith('"')) or (v.startswith("'") and v.endswith("'")) or v in (">", "|", ">-", "|-")
+            if not already and (": " in v or v.endswith(":") or v[0] in "\"'[{&*!|>%@`#" or " #" in v):
+                v = '"' + v.replace("\\", "\\\\").replace('"', '\\"') + '"'
+                line = m.group(1) + v
+        out.append(line)
+    return "\n".join(out)
+
+
+def load_front_matter(text, f):
+    try:
+        return yaml.safe_load(text) or {}
+    except yaml.YAMLError:
+        try:
+            return yaml.safe_load(_quote_scalars(text)) or {}
+        except yaml.YAMLError as e:
+            raise SystemExit(f"{f}: front matter is not valid YAML even after quoting: {e}")
+
+
 def md_to_html(text):
     return markdown.markdown(
         text,
@@ -54,7 +83,7 @@ def read_pages():
             m = FM_RE.match(raw)
             if not m:
                 raise SystemExit(f"{f}: missing front matter")
-            fm = yaml.safe_load(m.group(1)) or {}
+            fm = load_front_matter(m.group(1), f)
             body = m.group(2)
             if "key" not in fm or "type" not in fm:
                 raise SystemExit(f"{f}: front matter needs key and type")
@@ -321,7 +350,7 @@ def check(pages):
         if p["type"] == "service" and p["lang"] == "en" and p["key"] in CONFIG["service_keys_primary"] and p["word_count"] < 1400:
             warnings.append(f"{p['source_file']}: only {p['word_count']} words")
         for href in re.findall(r'href="(/[^"#?]*)', p["body_html"]):
-            if href.startswith("/assets/"):
+            if href.startswith(("/assets/", "/site/")):
                 continue
             h = href if href.endswith("/") else href + "/"
             if h not in urls:
@@ -334,7 +363,7 @@ def check(pages):
             except Exception as e:
                 errors.append(f"{f}: invalid JSON-LD: {e}")
         for href in re.findall(r'href="(/[^"#?]*)', s):
-            if href.startswith("/assets/") or href in ("/sitemap.xml", "/robots.txt", "/llms.txt"):
+            if href.startswith(("/assets/", "/site/")) or href in ("/sitemap.xml", "/robots.txt", "/llms.txt", "/404.html"):
                 continue
             h = href if href.endswith("/") else href + "/"
             if h not in urls:
@@ -349,8 +378,36 @@ def check(pages):
     return not errors
 
 
+def make_preview(assets_base):
+    """Copy dist/ to dist-preview/ with relative links, for hosting under any sub-path (artifact, GitHub Pages).
+    Image/font/asset references go to `assets_base` (the live site), since /assets/ is not in this repo."""
+    out = REPO / "dist-preview"
+    if out.exists():
+        shutil.rmtree(out)
+    shutil.copytree(DIST, out)
+    for f in out.rglob("*"):
+        if f.suffix not in (".html", ".css"):
+            continue
+        depth = len(f.relative_to(out).parts) - 1
+        rel = "../" * depth if depth else "./"
+        s = f.read_text(encoding="utf-8")
+        s = s.replace('"/assets/', f'"{assets_base}/assets/').replace("(/assets/", f"({assets_base}/assets/")
+        s = re.sub(r'(href|src|action)="/(?!/)', lambda m: f'{m.group(1)}="{rel}', s)
+        s = s.replace("url(/", f"url({rel}")
+        # directory URLs → explicit index.html so the preview works without a server that resolves directories
+        s = re.sub(r'(href)="(\./|(?:\.\./)+)([^"#?]*?)/(?=["#?])', lambda m: f'{m.group(1)}="{m.group(2)}{m.group(3)}/index.html', s)
+        s = re.sub(r'href="(\./|(?:\.\./)+)"', lambda m: f'href="{m.group(1)}index.html"', s)
+        f.write_text(s, encoding="utf-8")
+    return out
+
+
 if __name__ == "__main__":
     pages = build()
     print(f"built {len(pages)} pages into {DIST}")
+    ok = True
     if "--check" in sys.argv:
-        sys.exit(0 if check(pages) else 1)
+        ok = check(pages)
+    if "--preview" in sys.argv:
+        p = make_preview("https://kalopetrideslaw.com")
+        print(f"preview with relative links in {p}")
+    sys.exit(0 if ok else 1)
