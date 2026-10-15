@@ -45,7 +45,7 @@ Depending on our relationship with you, we may collect:
 ## When we collect your personal data
 
 - When you or your organisation seek or receive our services.
-- When you make an enquiry through this website, by email, by phone, by WhatsApp or Telegram, or in person.
+- When you make an enquiry through this website, by email, by phone, by WhatsApp, or in person.
 - When a Third-Party Entity engages us and you hold an office or interest in it.
 - When you or your organisation provide services to us.
 - From third parties, such as public authorities, public registers, courts, other lawyers, banks or credit-reference and compliance-screening providers, where this is necessary for our work or required by law.
@@ -79,7 +79,7 @@ Where data is transferred outside the European Economic Area, we rely on an adeq
 
 **Cookies and technical data.** This website is a static site and does not use analytics or advertising cookies. It stores only what is necessary to remember your choice regarding embedded content such as the map. The hosting provider's servers record technical data about each visit (IP address, date and time, pages requested, browser type) in server logs for security and operational purposes, on the basis of our legitimate interest in running the site securely.
 
-**Messaging apps.** If you contact us through WhatsApp or Telegram, the provider of that service processes your data under its own terms and privacy policy.
+**Messaging apps.** If you contact us through WhatsApp, the provider of that service processes your data under its own terms and privacy policy.
 
 ## How long we keep your data
 

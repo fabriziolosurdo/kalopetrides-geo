@@ -12,11 +12,11 @@ faq:
   - q: "How long does it take to register a company in Cyprus?"
     a: "There is no statutory processing time published by the Registrar. In practice the sequence is name approval, then the incorporation filing, then the certificate of incorporation. The Registrar offers an accelerated procedure for an extra fee at both the name and incorporation stages, and name approval reserves the name for six months. Preparing the documents, and in particular collecting the due diligence on each shareholder and director, usually takes longer than the Registrar's own handling. Kalopetrides Law LLC gives you a realistic estimate after seeing your structure."
   - q: "Do I need a Cyprus-resident director?"
-    a: "The Companies Law requires every private company to have at least one director and a secretary; it does not impose a residence requirement on the director. The question matters for tax. Since the 2026 reform a company incorporated in Cyprus is tax resident by incorporation unless a double tax treaty provides otherwise, and a company managed and controlled in Cyprus is resident on that ground too. Where directors live still shapes how foreign tax authorities and banks view the company, so the board composition is a decision to take with advice, not a formality."
+    a: "The Companies Law requires every private company to have at least one director and a secretary; it does not impose a residence requirement on the director. The question matters for tax. Under section 2 of the Income Tax Law a company incorporated in Cyprus is tax resident by incorporation unless a double tax treaty provides otherwise, and a company managed and controlled in Cyprus is resident on that ground too. Where directors live still shapes how foreign tax authorities and banks view the company, so the board composition is a decision to take with advice, not a formality."
   - q: "Can a single person own and run a Cyprus company?"
     a: "Yes. The Companies Law Cap. 113 allows the shares of a private company to be held by one person, and in a single-member private company limited by shares the sole director may also act as secretary. Contracts between the single member and the company must be minuted or made in writing unless they are ordinary-course transactions. Many of the foreign founders the firm works with start this way and add partners or investors later through a share issue or transfer."
   - q: "What is the corporate tax rate in Cyprus in 2026?"
-    a: "Fifteen percent. The Second Schedule of the Income Tax Law, as amended by the tax reform laws published in the Official Gazette on 31 December 2025, provides that companies are subject to corporate tax at 15% on every euro of taxable income. The reform applies from the 2026 tax year. The same package repealed the Stamp Duty Laws with effect from 1 January 2026 and abolished the deemed dividend distribution rules for profits generated after 31 December 2025."
+    a: "Fifteen percent. The Second Schedule of the Income Tax Law, as amended by the tax reform laws published in the Official Gazette on 31 December 2025, provides that companies are subject to corporate tax at 15% on every euro of taxable income. The same package repealed the Stamp Duty Laws with effect from 1 January 2026 and abolished the deemed dividend distribution rules for profits generated after 31 December 2025."
   - q: "What is the UBO register and when must I file?"
     a: "The Register of Beneficial Owners is kept by the Registrar of Companies under the anti-money-laundering framework. A newly incorporated company must enter its beneficial owners within 90 days of incorporation, changes must be filed within 45 days of the company becoming aware of them, and every company must confirm its data each year between 1 October and 31 December. The Registrar publishes the penalties for non-compliance. Nominee arrangements do not remove the obligation: the register records the natural persons who ultimately own or control the company."
   - q: "How difficult is it to open a corporate bank account in Cyprus?"
@@ -64,12 +64,12 @@ sources:
     url: https://www.cylaw.org/nomoi/arith/2025_1_245.pdf
   - title: "Central Bank of Cyprus — The Prevention of Money Laundering and Terrorist Financing Directive of 2025 (announcement of 2 May 2025)"
     url: https://www.centralbank.cy/en/announcements/02-05-2025
-  - title: "EY Global Tax News — Cyprus enacts major tax reform legislation (7 January 2026)"
-    url: https://globaltaxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation
+  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Law 244(I)/2025, Official Gazette Part I(I) No. 5070, 31 December 2025"
+    url: https://www.cylaw.org/nomoi/arith/2025_1_244.pdf
 ---
 Kalopetrides Law LLC sets up and runs Cyprus companies for foreign founders and investors. The firm handles the legal side from name approval to the certificate of incorporation, registers the company for tax and in the beneficial owners register, prepares the bank onboarding file, and drafts the shareholders' agreements, share transfers and commercial contracts the company needs once it is trading. Registered office, company secretary and nominee services come through the firm's affiliated company, TrustGate Corporate Services Ltd, so one team covers both the legal work and the day-to-day administration.
 
-Cyprus company law is English-style common law, written in the Companies Law, Cap. 113, and the Registrar of Companies files in Greek. Since 1 January 2026 the corporate tax rate is 15%, stamp duty has been repealed and a company incorporated in Cyprus is tax resident here by the fact of incorporation. This page explains how the process works and what a German, Dutch, Polish, Israeli or Russian-speaking entrepreneur should expect.
+Cyprus company law is English-style common law, written in the Companies Law, Cap. 113, and the Registrar of Companies files in Greek. After the December 2025 tax reform the corporate tax rate is 15%, stamp duty has been repealed from 1 January 2026, and a company incorporated in Cyprus is tax resident here by the fact of incorporation. This page explains how the process works and what a German, Dutch, Polish, Israeli or Russian-speaking entrepreneur should expect.
 
 ## How it works in Cyprus
 
@@ -81,7 +81,7 @@ The proposed name is submitted to the Registrar of Companies, which checks it ag
 
 ### Step 2 — Incorporation filing
 
-The application is filed through the Registrar's e-filing system or by hand. It consists of:
+The application is filed through the Registrar's e-filing system or by hand. It consists of three short forms plus the memorandum and articles of association:
 
 - Form HE1, a statutory declaration sworn before the court by the lawyer entrusted with the incorporation. Only a lawyer can make this declaration.
 - The memorandum and articles of association, signed in Greek. A certified translation can be filed alongside for an official file of translations.
@@ -109,7 +109,7 @@ The Registrar's guidance lists what follows the certificate:
 - Entry of the beneficial owners in the Register of Beneficial Owners within ninety days of incorporation.
 - An annual return filed with the Registrar each calendar year with a copy of the financial statements, and audited financial statements with the tax return to the Tax Department.
 
-The annual company levy of €350 that older guides still mention was abolished from 2024 by the Companies (Amendment) Law 25(I)/2024, as announced by the Registrar.
+The annual company levy that older guides still mention was abolished from 2024 by the Companies (Amendment) Law 25(I)/2024, as announced by the Registrar.
 
 ## The beneficial owners register
 
@@ -128,11 +128,11 @@ Incorporation is a filing exercise; opening the bank account is a risk assessmen
 
 The 2025 Directive moved the banks to a risk-based approach and allows certified copies in place of originals, which has made the process more predictable for well-documented clients. It has not made it faster for shell structures, complex ownership chains or high-risk jurisdictions, which attract enhanced due diligence. Clients from Russian-speaking countries should expect additional questions on the ownership chain and sanctions exposure, and should raise these with Savvas Kalopetrides before incorporation.
 
-## Tax position of a Cyprus company from 2026
+## Tax position of a Cyprus company after the 2025 reform
 
 The tax reform laws published in the Official Gazette on 31 December 2025 changed the picture for anyone setting up in 2026:
 
-- **Corporate tax at 15%.** The Second Schedule of the Income Tax Law now provides that companies are subject to corporate tax at 15% on every euro of taxable income, replacing the previous 12.5% from the 2026 tax year.
+- **Corporate tax at 15%.** The Second Schedule of the Income Tax Law now provides that companies are subject to corporate tax at 15% on every euro of taxable income, replacing the previous 12.5%.
 - **Tax residency by incorporation.** Section 2 of the Income Tax Law treats a company as resident in Cyprus if its control and management are exercised here, or if it is incorporated in Cyprus under the Companies Law, unless a double tax treaty provides otherwise. A company that moves its registered office to Cyprus is treated as incorporated here. For a founder living in Germany or the Netherlands, the home country may still claim residency under its own rules, and the treaty tie-breaker decides.
 - **Stamp duty repealed.** Law 239(I)/2025 repealed the Stamp Duty Laws with effect from 1 January 2026, so share transfer instruments, loan agreements and commercial contracts no longer need to be stamped.
 - **Deemed distribution abolished.** Under the Special Contribution for the Defence amendments, the deemed dividend distribution rules no longer apply to profits generated after 31 December 2025.
@@ -205,14 +205,6 @@ The firm quotes its own fees after an initial call, once the structure and the n
 | Stamp duty on contracts and transfers | Repealed from 1 January 2026 |
 
 Name approval reserves the name for six months; tax registration must be done within sixty days of incorporation and the UBO filing within ninety. The Registrar does not publish a standard processing time, and the bank account is on the bank's timetable.
-
-## Frequently asked questions
-
-The questions foreign founders ask most often are answered below.
-
-## Sources
-
-Figures and deadlines are those published by the Registrar of Companies, CyLaw and the Central Bank of Cyprus on the date shown as "Updated"; they change, and the firm checks them again for each engagement. The primary sources are listed below.
 
 ## Talk to the firm
 

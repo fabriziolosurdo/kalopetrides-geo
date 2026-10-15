@@ -10,7 +10,7 @@ updated: 2026-10-15
 nav_label: "Civil Marriages"
 faq:
   - q: "Can two foreigners marry in Cyprus if neither of them lives here?"
-    a: "Yes. The Marriage Law of 2003 does not require either party to be resident in Cyprus. The couple gives notice of marriage in person to the Marriage Officer of the municipality of their choice, presents the required documents, and the marriage is solemnised on the date fixed in the certificate of notice. Many of the couples we assist come to Cyprus specifically to marry."
+    a: "Yes. The Marriage Law of 2003 does not require either party to be resident in Cyprus. The couple gives notice of marriage in person to the Marriage Officer of the municipality of their choice, presents the required documents, and the marriage is solemnised on the date fixed in the certificate of notice. Couples often come to Cyprus specifically to marry."
   - q: "How soon after giving notice can we marry?"
     a: "Under section 6 of the Marriage Law, the date of the marriage may not be earlier than fifteen days and not later than three months from the day the notice was delivered to the Marriage Officer. Under section 7, the Marriage Officer may fix an earlier date, within the fifteen days, where considered appropriate, on payment of an increased fee. Municipalities refer to this as a notice of special procedure."
   - q: "Which documents do we need?"
@@ -56,11 +56,6 @@ Foreign couples ask us the same practical questions: which document from home pr
 - Advise on the recognition in Cyprus of a marriage celebrated abroad, for residence, property or inheritance purposes.
 - Advise on the consequences of marriage under Cyprus law: property rights between spouses, purchases in joint names and succession, including the drafting of wills.
 - Advise on civil partnerships and on the legal position of unmarried couples in Cyprus.
-
-## Sources
-
-- [The Marriage Law of 2003, Law 104(I)/2003 — English text (visitcyprus.com)](https://Visitcyprus.com/files/weddings/2003_1_104_EN_FINAL.pdf)
-- [Limassol Municipality — Civil weddings](https://www.limassol.org.cy/en/civil-weddings)
 
 ## Talk to us
 

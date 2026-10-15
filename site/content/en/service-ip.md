@@ -66,16 +66,6 @@ Companies that set up in Cyprus to serve EU or regional markets usually need to 
 - Portfolio management: renewals, recordal of changes of ownership and address, and monitoring of conflicting applications.
 - Enforcement: cease-and-desist letters, injunctions and infringement actions before the Cyprus courts, and defence of infringement claims brought against you.
 
-## Sources
-
-- [Intellectual Property Section — Trademark](https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark)
-- [Intellectual Property Section — Examination of application](https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark/1-lifecycle/1-registering-a-trademark/1-guidance/registering-a-national-trademark/examination-of-application)
-- [Intellectual Property Section — Issuance of registration certificate](https://www.intellectualproperty.gov.cy/en/intellectual-property-rights/trademark/1-lifecycle/1-registering-a-trademark/1-guidance/registering-a-national-trademark/issuance-of-registration-certificate)
-- [Intellectual Property Section — Trademark FAQs](https://intellectualproperty.gov.cy/en/knowledgebase/faqs/trademark-faqs)
-- [Intellectual Property Section — The Trademarks Law](https://www.intellectualproperty.gov.cy/en/knowledgebase/legislation/the-trademarks-law)
-- [EUIPO — Where to register](https://www.euipo.europa.eu/en/trade-marks/before-applying/where-to-register)
-- [EUIPO — EU trade mark basic questions](https://www.euipo.europa.eu/en/help-centre/tm/faq-basic-questions)
-
 ## Talk to us
 
 Send us the sign you want to protect and the countries where you trade, and we will tell you which route fits and what it involves. [Book a consultation](/contact/).

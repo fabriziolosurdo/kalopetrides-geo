@@ -10,7 +10,7 @@ updated: 2026-10-15
 nav_label: Tax
 faq:
   - q: "What is the corporate tax rate in Cyprus in 2026?"
-    a: "Fifteen percent. The Second Schedule of the Income Tax Law, as consolidated on CyLaw with the amendments published in the Official Gazette on 31 December 2025, provides that a company pays tax at 15% on every euro of taxable income. Professional summaries of the reform state that the rate applies from the 2026 tax year, replacing the previous 12.5%. Any page or audit still quoting 12.5% is describing the rules in force up to the 2025 tax year, not the current ones. Checked October 2026."
+    a: "Fifteen percent. The Second Schedule of the Income Tax Law, as consolidated on CyLaw with the amendments published in the Official Gazette on 31 December 2025, provides that a company pays tax at 15% on every euro of taxable income. The amendment was made by the tax reform laws of December 2025 (including Law 244(I)/2025), replacing the previous 12.5%. Any page or audit still quoting 12.5% is describing the rules in force before the reform, not the current ones. Checked October 2026."
   - q: "How much income is tax-free for an individual in Cyprus?"
     a: "For the 2026 tax year onward the first €22,000 of an individual's taxable income is taxed at 0%. Above that the Second Schedule of the Income Tax Law applies 20% up to €32,000, 25% up to €42,000, 30% up to €72,000 and 35% on every euro above €72,000. The reform also introduced new personal deductions for families below certain income thresholds. Whether the threshold applies to your situation depends on tax residency and on how your income is classified, which is where legal advice comes in."
   - q: "What is the 60-day rule for Cyprus tax residency?"
@@ -42,7 +42,7 @@ sources:
     url: https://www.cylaw.org/nomoi/enop/ind/2002_1_118/section-scd3f0cde8-23fe-23ca-a6b3-9cc295389930.html
   - title: "CyLaw — Income Tax Law 118(I)/2002, consolidated: index with amendment history (37(I)/2025, 47(I)/2025, 219(I)/2025, 244(I)/2025, 17(I)/2026, 66(I)/2026, 67(I)/2026)"
     url: https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/index.html
-  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Law 244(I)/2025, Official Gazette Part I(I) No. 5070, 31 December 2025"
+  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Law 244(I)/2025, Official Gazette Part I(I) No. 5070, 31 December 2025 (new section 20E: 8% on crypto-asset gains)"
     url: https://www.cylaw.org/nomoi/arith/2025_1_244.pdf
   - title: "CyLaw — Special Contribution for the Defence (Amending) Law 245(I)/2025, Official Gazette Part I(I) No. 5070, 31 December 2025"
     url: https://www.cylaw.org/nomoi/arith/2025_1_245.pdf
@@ -72,12 +72,8 @@ sources:
     url: https://www.cylaw.org/nomoi/enop/non-ind/1963_1_19/index.html
   - title: "Ministry of Finance of the Republic of Cyprus — Double Taxation Agreements (official list and treaty texts)"
     url: https://mof.gov.cy/en/en/legislation/1-double-taxation-agreements
-  - title: "EY Global Tax News — Cyprus enacts major tax reform legislation (7 January 2026): House vote 22 December 2025, Gazette 31 December 2025, 15% from tax year 2026"
-    url: https://globaltaxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation
-  - title: "PwC Cyprus — The Cyprus Tax Reform (summary of the laws published 31 December 2025)"
-    url: https://www.pwc.com.cy/en/services/tax-legal-services/tax-advisory-services/the-cyprus-tax-reform.html
 ---
-Kalopetrides Law LLC advises foreign individuals and companies on how Cyprus tax law applies to them and defends them when the Tax Department disagrees. The firm covers tax residency under the 183-day and 60-day rules, non-domiciled status, the 15% corporate income tax in force from the 2026 tax year, dividends and the Special Contribution for the Defence (SDC), VAT, capital gains tax on Cyprus property, double tax treaties and the legal design of holding structures. When an assessment or a dispute arrives, Savvas Kalopetrides and the team draft the objection, handle the hierarchical recourse and take the case to court if needed.
+Kalopetrides Law LLC advises foreign individuals and companies on how Cyprus tax law applies to them and defends them when the Tax Department disagrees. The firm covers tax residency under the 183-day and 60-day rules, non-domiciled status, the 15% corporate income tax introduced by the December 2025 reform, dividends and the Special Contribution for the Defence (SDC), VAT, capital gains tax on Cyprus property, double tax treaties and the legal design of holding structures. When an assessment or a dispute arrives, Savvas Kalopetrides and the team draft the objection, handle the hierarchical recourse and take the case to court if needed.
 
 Kalopetrides Law LLC is a law firm, not an accounting firm. It does not keep your books or file your returns; it works alongside your accountant or auditor, in Cyprus or abroad, and takes responsibility for the legal questions: which rules apply, how the law should be read, what the risks are and how to deal with the authorities.
 
@@ -97,13 +93,13 @@ The consolidated text in October 2026 no longer contains the earlier condition t
 
 A company is Cyprus tax resident if its control and management are exercised in Cyprus or if it is incorporated in Cyprus under the Companies Law, unless a double tax treaty provides otherwise. A Cyprus company run entirely from abroad is therefore still Cyprus resident under Cyprus law, while the other country may claim residence as well.
 
-### Corporate income tax: 15% from the 2026 tax year
+### Corporate income tax: 15%
 
-The Second Schedule of the Income Tax Law provides that a company is taxed at 15% on every euro of taxable income. The 12.5% rate belongs to tax years up to 2025. The reform also kept an additional 20% deduction for qualifying research and development expenditure incurred in 2025 to 2030. Section 33 applies the arm's length principle to related-party transactions and section 33Γ allows advance pricing agreements, which is the legal framework behind transfer pricing.
+The Second Schedule of the Income Tax Law provides that a company is taxed at 15% on every euro of taxable income. The 12.5% rate is the rate that applied before the reform. The reform also kept an additional 20% deduction for qualifying research and development expenditure incurred in 2025 to 2030. Section 33 applies the arm's length principle to related-party transactions and section 33C (33Γ in the Greek text) allows advance pricing agreements, which is the legal framework behind transfer pricing.
 
 ### Personal income tax from the 2026 tax year
 
-The Second Schedule sets the individual bands as follows: 0% on the first €22,000; 20% from €22,000 to €32,000; 25% from €32,000 to €42,000; 30% from €42,000 to €72,000; and 35% on every euro above €72,000. The reform added section 14B with personal deductions for families below stated income thresholds and an 8% rate on gains from crypto-assets under section 20Ε.
+The Second Schedule sets the individual bands as follows: 0% on the first €22,000; 20% from €22,000 to €32,000; 25% from €32,000 to €42,000; 30% from €42,000 to €72,000; and 35% on every euro above €72,000. The reform added section 14B with personal deductions for families below stated income thresholds and an 8% rate on gains from the disposal of crypto-assets under the new section 20E (20Ε in the Greek text), inserted by Law 244(I)/2025.
 
 Two exemptions matter for people who move to Cyprus for work. Section 8(23A) exempts 50% of remuneration from employment in Cyprus for 17 tax years where the person was not resident in Cyprus for at least 15 consecutive years before first employment here, the employment started on or after 1 January 2022 and the remuneration exceeds €55,000 in the year. Section 8(21A) exempts 20% of remuneration, capped at €8,550, for seven years for employment starting up to and including 2027.
 
@@ -111,7 +107,7 @@ Two exemptions matter for people who move to Cyprus for work. Section 8(23A) exe
 
 SDC is a separate charge under the Special Contribution for the Defence Law 117(I)/2002 on dividends and interest. For an individual it applies only if the person is both Cyprus tax resident under the Income Tax Law and domiciled in Cyprus. An individual with a domicile of origin outside Cyprus is therefore outside SDC, the so-called non-dom position. Section 2(3) provides that a person resident for at least 17 of the 20 years before the tax year is deemed to have acquired Cyprus domicile, and keeps it until 20 years of non-residence have passed.
 
-The reform added section 3Δ, which is new. A person without a Cyprus domicile of origin who becomes deemed domiciled under the 17-of-20 rule may elect an alternative method: a flat annual SDC of €50,000 regardless of income, paid as a single instalment of €250,000 covering a five-year period. The election is irrevocable for the five years, must be applied for by 30 June of the first year, requires acceptance by the Commissioner, is non-refundable and cannot be offset or credited against other taxes or foreign tax. It can be used for at most two five-year periods. This is in the consolidated law as at October 2026, not a proposal.
+The reform added section 3D (3Δ in the Greek text), which is new. A person without a Cyprus domicile of origin who becomes deemed domiciled under the 17-of-20 rule may elect an alternative method: a flat annual SDC of €50,000 regardless of income, paid as a single instalment of €250,000 covering a five-year period. The election is irrevocable for the five years, must be applied for by 30 June of the first year, requires acceptance by the Commissioner, is non-refundable and cannot be offset or credited against other taxes or foreign tax. It can be used for at most two five-year periods. This is in the consolidated law as at October 2026, not a proposal.
 
 ### Dividends and interest
 
@@ -121,7 +117,7 @@ Interest received by a resident and domiciled individual is subject to SDC at 17
 
 ### Intellectual property and the deduction on new capital
 
-Section 9(1)(κ) of the Income Tax Law, the IP regime, allows 80% of the qualifying profits from a qualifying intangible asset to be deducted as a deemed expense, with the calculation set by regulations of the Council of Ministers. Section 9B grants a deduction on new equity introduced into a company, calculated at the ten-year government bond yield of the state where the capital is invested plus five percentage points, and capped at 80% of the taxable income the new capital generates. Both are in the consolidated law in October 2026 and both are scrutinised closely by tax authorities, so the firm documents the facts behind any claim.
+Section 9(1)(k) (9(1)(κ) in the Greek text) of the Income Tax Law, the IP regime, allows 80% of the qualifying profits from a qualifying intangible asset to be deducted as a deemed expense, with the calculation set by regulations of the Council of Ministers. Section 9B grants a deduction on new equity introduced into a company, calculated at the ten-year government bond yield of the state where the capital is invested plus five percentage points, and capped at 80% of the taxable income the new capital generates. Both are in the consolidated law in October 2026 and both are scrutinised closely by tax authorities, so the firm documents the facts behind any claim.
 
 ### VAT
 
@@ -174,7 +170,7 @@ Statutory rates and deadlines as published in the laws cited on this page, Octob
 | Corporate income tax | 15% of taxable income | Income Tax Law, Second Schedule |
 | Personal income tax, first band | 0% up to €22,000 | Income Tax Law, Second Schedule |
 | SDC on dividends (resident and domiciled individuals) | 5%; 17% transitional for profits up to 2025 | SDC Law, section 3 |
-| SDC on interest (resident and domiciled individuals) | 17%; 3% for listed government and similar bonds | SDC Law, section 3B |
+| SDC on interest (resident and domiciled individuals) | 17%; 3% for Cyprus or other EU government savings certificates and development bonds and listed bonds of local authorities and state bodies | SDC Law, section 3B |
 | Alternative SDC election after deemed domicile | €50,000 a year, paid as €250,000 per five-year period | SDC Law, section 3Δ |
 | VAT standard rate | 19% | VAT Law, section 17 |
 | Capital gains tax | 20% of the gain | Capital Gains Tax Law, section 4 |
@@ -183,14 +179,6 @@ Statutory rates and deadlines as published in the laws cited on this page, Octob
 | Hierarchical recourse to the Tax Council | Within 45 days of the decision | ACT Law, section 20A |
 
 The firm's fees depend on the scope of the engagement and are agreed in writing before work starts.
-
-## Frequently asked questions
-
-The questions foreign clients ask most often about Cyprus tax are answered below.
-
-## Sources
-
-The rates, thresholds and deadlines on this page were verified on the consolidated laws on CyLaw, the Ministry of Finance treaty list and professional summaries of the December 2025 reform on the date shown as "Updated". They change; the firm checks them again for each engagement.
 
 ## Talk to the firm
 

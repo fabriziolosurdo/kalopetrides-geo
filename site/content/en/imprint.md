@@ -40,7 +40,7 @@ Cyprus
 
 ## Professional regulation
 
-Kalopetrides Law LLC is a law firm practising in the Republic of Cyprus. Savvas Kalopetrides holds the professional title of lawyer (advocate), obtained in the Republic of Cyprus, and is a member of the Cyprus Bar Association, which keeps the Register of Practising Advocates and issues the annual licence to practise.
+Kalopetrides Law LLC is a law firm practising in the Republic of Cyprus. Savvas Kalopetrides is an advocate and a member of the Cyprus Bar Association, which keeps the Register of Practising Advocates and issues the annual licence to practise.
 
 **Professional body:** Cyprus Bar Association (Παγκύπριος Δικηγορικός Σύλλογος), Nicosia, Cyprus — [www.cyprusbarassociation.org](https://www.cyprusbarassociation.org/)
 
@@ -52,7 +52,7 @@ The content of this website has been prepared with care. It is general informati
 
 ## Liability for links
 
-This website contains links to external websites operated by third parties, including public authorities and service providers. Kalopetrides Law LLC has no influence over the content of those websites and accepts no responsibility for it. The operator of each linked website is responsible for its content. The linked pages were checked for apparent legal infringements at the time the link was created; no infringement was apparent. Permanent monitoring of linked pages is not reasonable without specific indications of an infringement. If we become aware of an infringement, we will remove the link.
+This website contains links to external websites operated by third parties, including public authorities and service providers. Kalopetrides Law LLC has no influence over the content of those websites and accepts no responsibility for it. If we become aware that a linked page is unlawful, we will remove the link.
 
 ## Copyright
 

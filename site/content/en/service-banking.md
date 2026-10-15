@@ -155,10 +155,6 @@ Savvas Kalopetrides and the team work in English, Greek, German and Russian and 
 
 Court fees, Lands Office fees for mortgage registration, Registrar of Companies filing fees and regulatory application fees are set by the authorities concerned and change from time to time; the firm confirms the current amounts for each matter before any step is taken. Timing depends on the bank, the regulator or the court involved: a bank account decision is in the bank's hands, a licensing application runs on the regulator's assessment timetable, and litigation follows the court calendar. The firm gives a realistic estimate for the specific matter at the outset and updates it as the matter progresses.
 
-## Sources
-
-The primary sources used for this page are listed below. Laws are cited by their Cyprus Government Gazette number; EU regulations by their EUR-Lex reference. Where a source is in Greek, the English title is an unofficial translation.
-
 ## Talk to Kalopetrides Law LLC
 
 If you need to open a bank account, document a loan, recover a debt or obtain a licence in Cyprus, send a short description of the matter and the countries involved. The firm will tell you which regime applies, what documents are needed and what the next step is. Contact the office in Larnaca by phone, email or the contact form.

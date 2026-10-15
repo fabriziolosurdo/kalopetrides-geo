@@ -58,8 +58,6 @@ sources:
     url: https://moi.gov.cy/moi/CRMD/crmd.nsf/All/10184B857E8C9BB1C22587D50046498D
   - title: Law 149(I)/2023 amending the Civil Registry Law — naturalisation (cylaw.org, Greek)
     url: https://cylaw.org/nomoi/arith/2023_1_149.pdf
-  - title: European Commission — Cyprus, new citizenship legislation (6 March 2024)
-    url: https://home-affairs.ec.europa.eu/news/cyprus-new-citizenship-legislation-2024-03-06_en
   - title: Asylum Service — Temporary protection for persons fleeing the war in Ukraine
     url: https://moi.gov.cy/moi/asylum/asylumservice.nsf/All/71A7D6D56D2B4B49C22588010055092A
   - title: Council of the EU — extension of temporary protection for refugees from Ukraine to 4 March 2027
@@ -157,7 +155,6 @@ Israeli clients usually arrive through a business — a BFU-registered company, 
 - **May 2023** — fourth revision of the investor Immigration Permit policy: €300,000 across four categories, €50,000 income, three-yearly criminal record checks.
 - **June 2023** — revised Strategy for Attracting Businesses and Talent: €2,500 minimum salary for highly skilled staff of foreign-interest companies.
 - **December 2023** — Law 149(I)/2023 reforms naturalisation: 12 months plus seven of ten years, Greek B1, fast track for highly qualified employees.
-- **2024–2025** — Digital Nomad Visa quota reached, scheme suspended and later reopened.
 - **June 2025** — EU temporary protection for Ukrainians extended to 4 March 2027.
 
 ## What we do for you
@@ -189,10 +186,6 @@ Official fees and indicative times published by the authorities (checked October
 | Naturalisation, fast track | set by the Minister | to be decided within 8 months |
 
 Times run from a complete, correctly certified submission. The firm's own fees are agreed in writing before work begins.
-
-## Sources
-
-Every figure on this page comes from the primary sources listed below, as published at the date at the top of the page.
 
 ## Talk to the firm
 

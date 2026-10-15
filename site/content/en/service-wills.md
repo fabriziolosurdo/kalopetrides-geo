@@ -14,7 +14,7 @@ faq:
   - q: "Which law applies to my estate if I live in Cyprus but I am a German, Dutch or Polish citizen?"
     a: "Under Regulation (EU) No 650/2012, which applies in Cyprus and in all EU Member States except Denmark and Ireland, the general rule is that the law of the country where you were habitually resident at death governs your whole succession. You may instead choose, in your will, the law of a country whose nationality you hold. Which choice is better depends on your family situation and the forced-heirship rules of each law, and we go through that with you."
   - q: "Can I leave my estate to whomever I want under Cyprus law?"
-    a: "Only partly. The Wills and Succession Law, Cap. 195, reserves a part of the net estate for close relatives. Where a spouse and children survive, the freely disposable portion may not exceed one quarter of the net estate; where there are no children but a spouse or a parent survives, one half; where none of these survive, the whole estate is disposable. A choice of your national law in the will can change this result for citizens of countries with different rules."
+    a: "Only partly. The Wills and Succession Law, Cap. 195, reserves a part of the net estate for close relatives. Where the deceased leaves a child or descendant (with or without a spouse), the disposable portion may not exceed one quarter of the net estate; where the deceased leaves a spouse or a parent but no descendants, one half; otherwise the whole estate is disposable. A choice of your national law in the will can change this result for citizens of countries with different rules."
   - q: "What are the formal requirements for a valid will in Cyprus?"
     a: "Under section 23 of Cap. 195, a will must be in writing, signed by the testator at the foot or end, and the signature must be made or acknowledged in the presence of two or more witnesses present at the same time, who then sign in the presence of the testator and of each other. If the will runs to more than one sheet, each sheet must be signed or initialled. We prepare the document and arrange the execution so that these requirements are met."
   - q: "What happens if someone dies in Cyprus without a will?"
@@ -37,7 +37,7 @@ If you live in Cyprus or own property or a company here, your estate will one da
 
 **Which law applies.** Cyprus is bound by Regulation (EU) No 650/2012, the EU Succession Regulation, which applies to the successions of persons who die on or after 17 August 2015 in all EU Member States except Denmark and Ireland. Under the Regulation, the general rule is that the law of the state in which the deceased had his or her habitual residence at the time of death governs the succession as a whole. A person may instead choose, in a will, the law of a state whose nationality he or she possesses. For a German, Austrian, Dutch or Polish national living in Cyprus, this choice decides whether Cyprus law or the law of the home country applies to the whole estate, and it should be made deliberately.
 
-**Forced heirship under Cyprus law.** Where Cyprus law governs, the Wills and Succession Law, Cap. 195, limits testamentary freedom. Section 41 provides that, where the deceased leaves a spouse and a child or descendant of a child, the disposable portion of the estate may not exceed one quarter of its net value; where the deceased leaves a spouse or a parent but no child or descendant, the disposable portion may not exceed one half; where none of these survive, the whole estate is disposable. The remainder passes to the statutory heirs regardless of the will.
+**Forced heirship under Cyprus law.** Where Cyprus law governs, the Wills and Succession Law, Cap. 195, limits testamentary freedom. Section 41 provides that, where the deceased leaves a child or descendant (with or without a spouse), the disposable portion may not exceed one quarter of the net estate; where the deceased leaves a spouse or a parent but no descendants, one half; otherwise the whole estate is disposable. The remainder passes to the statutory heirs regardless of the will.
 
 **Formal validity of a will.** Section 23 of Cap. 195 requires a will to be in writing, signed by the testator at the foot or end of the document, with the signature made or acknowledged before two or more witnesses present at the same time, who attest and sign in the presence of the testator and of each other. Each sheet of a multi-page will must be signed or initialled.
 
@@ -58,13 +58,6 @@ Most of the people who ask us about wills are foreign nationals who have bought 
 - Administer the estate: collect assets, deal with banks and the Land Registry, settle liabilities and distribute to the beneficiaries.
 - Handle the recognition in Cyprus of foreign wills and grants, and apply for a European Certificate of Succession where assets lie in other EU countries.
 - Advise beneficiaries and heirs abroad on their rights in a Cyprus estate and represent them in disputes.
-
-## Sources
-
-- [Regulation (EU) No 650/2012 — EUR-Lex](https://eur-lex.europa.eu/eli/reg/2012/650/oj/eng)
-- [European e-Justice Portal — Succession](https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession_en)
-- [Wills and Succession Law, Cap. 195 — CyLaw](http://www.cylaw.org/nomoi/enop/non-ind/0_195/full.html)
-- [Administration of Estates Law, Cap. 189 — CyLaw](http://www.cylaw.org/nomoi/enop/non-ind/0_189/full.html)
 
 ## Talk to us
 

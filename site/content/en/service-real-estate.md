@@ -70,11 +70,9 @@ faq:
   - q: Is there stamp duty on a property contract in Cyprus?
     a: >-
       Not for contracts signed from 1 January 2026. The Stamp Duty Laws of 1963 to
-      2025 were repealed by Law 239(I)/2025 with effect from 1 January 2026, and
-      the Department of Lands and Surveys confirms that stamping is required only
-      where at least one party signed the contract before that date. Contracts
-      signed up to 31 December 2025 remain subject to the old stamp duty rules and
-      must be stamped before they can be deposited or used for a transfer.
+      2025 were repealed by Law 239(I)/2025 with effect from 1 January 2026.
+      Documents signed before 1 January 2026 may still need to be stamped; the
+      firm checks this case by case.
   - q: Is there an annual property tax in Cyprus?
     a: >-
       There is no national immovable property tax. The Tax Department states that
@@ -167,7 +165,7 @@ The single most important protection for a buyer in Cyprus is to deposit the sig
 
 The Department of Lands and Surveys publishes the conditions. The property must be registered in the seller's name; the contract must be deposited within six months of signing, unless the court allows a late deposit; the application is made on Form Δ.Ε.314 with the original contract, the survey plan and, for a unit, the floor plans, all signed by the parties; the fee is €50.00. For contracts signed after 12 December 2023, a Land Registry search certificate dated within five working days of the contract must be attached.
 
-Law 132(I)/2023, in force since 12 December 2023, addresses the problem that caused most buyer losses in the past: property sold while the seller's bank still held a mortgage over it. Where a mortgage is registered, the deposit is accompanied either by Form A, signed by the mortgagee, seller and buyer and stating the amount that must be paid to release the property, or by Form C, in which the buyer confirms that they proceed without that mechanism. Once the buyer pays the amount stated in Form A, the mortgagee must release the property; if it refuses, the Director of Lands and Surveys has powers to transfer the property anyway, and the buyer can seek a specific performance order. The firm advises which route is right in each case and does not let a client sign Form C without understanding what it gives up.
+Law 132(I)/2023, in force since 12 December 2023, addresses the problem that caused most buyer losses in the past: property sold while the seller's bank still held a mortgage over it. If the seller's bank has a mortgage on the property, you choose at deposit between two forms. Where a mortgage is registered, the deposit is accompanied either by Form A, signed by the mortgagee, seller and buyer and stating the amount that must be paid to release the property, or by Form C, in which the buyer confirms that they proceed without that mechanism. Once the buyer pays the amount stated in Form A, the mortgagee must release the property; if it refuses, the Director of Lands and Surveys has powers to transfer the property anyway, and the buyer can seek a specific performance order. The firm advises which route is right in each case and does not let a client sign Form C without understanding what it gives up.
 
 ### 4. Transfer and registration
 
@@ -232,7 +230,7 @@ The public fees and taxes below are those published by the Department of Lands a
 |---|---|
 | Transfer fees (buyer) | 3% up to €85,000; 5% from €85,001 to €170,000; 8% above €170,000, on the sale price or market value. No fee where VAT was paid on the same transaction; 50% reduction in the other cases where the scale applies. |
 | VAT on new property | 19% on buildings sold before first occupation where the planning application was filed after 1 May 2004. 5% for a dwelling used as a permanent primary residence within the conditions of Law 42(I)/2023 (first 130 sq m of buildable area, value up to €350,000, total value not exceeding €475,000, total buildable area not exceeding 190 sq m), with a ten-year use requirement; transitional rules where planning permission was issued or applied for by 31 October 2023. |
-| Stamp duty | Abolished for documents signed from 1 January 2026 (Law 239(I)/2025). Contracts signed by 31 December 2025 remain subject to the former Stamp Duty Laws. |
+| Stamp duty | Abolished for documents signed from 1 January 2026 (Law 239(I)/2025). Documents signed before 1 January 2026 may still need to be stamped; the firm checks this case by case. |
 | Deposit of contract of sale | €50.00; within six months of signing. |
 | Search certificate | €10.00 simple; €15.00 with encumbrances and prohibitions. |
 | Lease registration (over 15 years) | Percentage of the market value of the leasehold, minimum €100.00; certificate €20.00. |
