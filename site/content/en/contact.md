@@ -57,4 +57,4 @@ The office is in the Panayioteio Megaro building on Gladstonos Street, near the 
 
 ## Google rating
 
-Kalopetrides Law LLC has a 5.0-star Google rating (36 reviews as of October 2026).
+Kalopetrides Law LLC has a 5.0-star Google rating (as of October 2026).

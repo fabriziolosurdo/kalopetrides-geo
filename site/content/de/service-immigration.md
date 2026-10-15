@@ -3,7 +3,7 @@ key: service-immigration
 type: service
 slug: leistungen/einwanderung-aufenthalt-zypern
 title: Aufenthaltsrecht in Zypern — Kalopetrides Law LLC
-description: Aufenthaltstitel, Arbeitserlaubnis, Daueraufenthalt für Investoren, Digital-Nomad-Visum, EU-Registrierung und Einbürgerung in Zypern, erklärt von Kalopetrides Law LLC, Larnaka.
+description: "Aufenthaltstitel, Arbeitserlaubnis, Daueraufenthalt für Investoren, Digital-Nomad-Visum, EU-Registrierung und Einbürgerung in Zypern: Kalopetrides Law LLC."
 h1: Anwalt für Einwanderung und Aufenthalt in Zypern
 summary: Kalopetrides Law LLC hilft EU- und Nicht-EU-Bürgern, das Recht zu erhalten und zu behalten, in Zypern zu leben und zu arbeiten — Besucher- und Arbeitserlaubnisse, Daueraufenthalt für Investoren, Familienzusammenführung, langfristiger Aufenthalt und Einbürgerung. Die Kanzlei stellt die Akte zusammen, verhandelt mit dem Civil Registry and Migration Department und hält den Titel anschließend gültig.
 updated: 2026-10-15

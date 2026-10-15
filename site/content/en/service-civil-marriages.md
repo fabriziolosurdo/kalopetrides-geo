@@ -2,7 +2,7 @@
 key: service-civil-marriages
 type: service
 slug: services/civil-marriage-cyprus
-title: "Civil Marriage in Cyprus for Foreigners — Kalopetrides Law"
+title: "Civil Marriage in Cyprus — Kalopetrides Law LLC"
 description: "Civil marriage in Cyprus for foreign couples under the Marriage Law of 2003: notice to the municipality, documents, the 15-day rule and recognition abroad."
 h1: Civil Marriages and Partnerships in Cyprus
 summary: "Kalopetrides Law LLC assists local and foreign couples with civil marriages in Cyprus under the Marriage Law of 2003: the notice of marriage to the municipality, the documents required from each country, the timing, and the recognition of the Cyprus marriage certificate abroad. We also advise on the recognition of foreign marriages and on the property and inheritance consequences of marriage under Cyprus law."

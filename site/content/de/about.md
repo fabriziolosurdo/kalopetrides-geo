@@ -3,7 +3,7 @@ key: about
 type: page
 slug: ueber-uns
 title: Über uns — Kalopetrides Law LLC, Larnaka
-description: Kalopetrides Law LLC ist eine Rechtsanwaltskanzlei in Larnaka, Zypern, unter Leitung von Rechtsanwalt Savvas Kalopetrides. Beratung in Immobilien-, Gesellschafts-, Aufenthalts-, Bank- und Steuerrecht.
+description: "Kalopetrides Law LLC, Kanzlei in Larnaka, Zypern, unter Leitung von Savvas Kalopetrides: Immobilien-, Gesellschafts-, Aufenthalts-, Bank- und Steuerrecht."
 h1: Über Kalopetrides Law LLC
 summary: Kalopetrides Law LLC ist eine Rechtsanwaltskanzlei in Larnaka, Zypern, unter Leitung von Rechtsanwalt Savvas Kalopetrides. Wir beraten Privatpersonen, Unternehmen und Organisationen aus Zypern und dem Ausland; die laufende Gesellschaftsverwaltung übernimmt unser verbundenes Unternehmen TrustGate Corporate Services Ltd.
 updated: 2026-10-15

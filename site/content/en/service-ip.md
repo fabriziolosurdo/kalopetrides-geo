@@ -2,7 +2,7 @@
 key: service-ip
 type: service
 slug: services/intellectual-property-cyprus
-title: "Intellectual Property Lawyer in Cyprus — Kalopetrides Law"
+title: "IP Lawyer in Cyprus — Kalopetrides Law LLC"
 description: "Trademark, design and copyright advice in Cyprus: national registration with the Registrar of Companies and Intellectual Property, EU marks via EUIPO."
 h1: Intellectual Property in Cyprus
 summary: "Kalopetrides Law LLC registers and protects trademarks, designs and other intellectual property for businesses in Cyprus and abroad: national marks with the Department of Registrar of Companies and Intellectual Property, EU trade marks through EUIPO, licensing agreements and enforcement against infringement."

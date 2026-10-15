@@ -3,7 +3,7 @@ key: home
 type: home
 slug: ""
 title: Rechtsanwalt in Larnaka, Zypern — Kalopetrides Law LLC
-description: Kalopetrides Law LLC ist eine Rechtsanwaltskanzlei in Larnaka, Zypern. Wir beraten Käufer, Investoren, Unternehmen und Familien aus dem Ausland in Immobilien-, Gesellschafts-, Aufenthalts-, Bank- und Steuerfragen.
+description: "Kanzlei in Larnaka: Kalopetrides Law LLC berät Mandanten aus dem Ausland im zyprischen Immobilien-, Gesellschafts-, Aufenthalts-, Bank- und Steuerrecht."
 h1: Ihr rechtlicher Partner in Zypern
 summary: Kalopetrides Law LLC ist eine Rechtsanwaltskanzlei in Larnaka, Zypern. Wir beraten Käufer, Investoren, Unternehmen und Familien aus dem Ausland in Immobilien-, Gesellschafts-, Aufenthalts-, Bank- und Finanz- sowie Steuerfragen, auf Deutsch, Englisch, Griechisch und Russisch.
 updated: 2026-10-15

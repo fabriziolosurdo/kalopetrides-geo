@@ -3,7 +3,7 @@ key: service-banking
 type: service
 slug: leistungen/bank-und-finanzrecht-zypern
 title: Bank- und Finanzrecht in Zypern — Kalopetrides Law LLC
-description: Kontoeröffnung, Darlehens- und Sicherheitenverträge, Forderungseinzug, Insolvenz und Lizenzen bei CySEC oder Zentralbank in Zypern, erklärt für Mandanten aus dem Ausland.
+description: "Kontoeröffnung, Darlehen, Sicherheiten, Forderungseinzug, Insolvenz und Lizenzen bei CySEC oder Zentralbank in Zypern, für Mandanten aus dem Ausland."
 h1: Anwalt für Bank- und Finanzrecht in Zypern
 summary: Kalopetrides Law LLC berät Privatpersonen und Unternehmen aus dem Ausland in Bank- und Finanzfragen in Zypern, von der Kontoeröffnung und der Dokumentation eines Darlehens bis zum Forderungseinzug oder zum Antrag auf eine Lizenz bei der CySEC oder der Zentralbank Zyperns. Zypern wendet das EU-Finanzrecht in vollem Umfang an; die Aufgabe der Kanzlei ist es, diese Regeln für einen Mandanten, der nicht hier lebt, in eine klare Abfolge von Schritten, Dokumenten und Fristen zu übersetzen.
 updated: 2026-10-15
