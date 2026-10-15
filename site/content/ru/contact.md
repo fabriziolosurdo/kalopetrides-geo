@@ -3,7 +3,7 @@ key: contact
 type: page
 slug: kontakty
 title: Контакты — Kalopetrides Law LLC, Ларнака, Кипр
-description: Контакты Kalopetrides Law LLC в Ларнаке, Кипр. Gladstonos 1, офис 205. Тел. +357 24 668667, info@kalopetrideslaw.com. Пн–пт 08:00–13:00, 14:00–17:00. Консультации по видеосвязи.
+description: "Kalopetrides Law LLC, Ларнака: Gladstonos 1, офис 205. Тел. +357 24 668667, info@kalopetrideslaw.com. Пн–пт 08:00–13:00, 14:00–17:00. Видеосвязь."
 h1: Контакты Kalopetrides Law LLC
 summary: Свяжитесь с Kalopetrides Law LLC в Ларнаке по телефону, электронной почте, WhatsApp или Telegram либо запишитесь на консультацию в офисе по адресу Gladstonos 1 или по видеосвязи. Часы работы: понедельник – пятница, 08:00–13:00 и 14:00–17:00.
 updated: 2026-10-15

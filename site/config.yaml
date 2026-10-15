@@ -6,7 +6,7 @@ phone_display: +357 24 668667
 phone_e164: "+35724668667"
 # Mobile for WhatsApp/Telegram buttons, digits only with country code (e.g. "35795998888").
 # Leave empty until Fab confirms it can go on the site: with an empty value the buttons are not rendered.
-whatsapp_number: ""
+whatsapp_number: "35795998888"
 telegram_handle: ""
 address:
   building: Panayioteio Megaro
