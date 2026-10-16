@@ -10,7 +10,7 @@ updated: 2026-10-15
 nav_label: Steuerrecht
 faq:
   - q: "Wie hoch ist die Körperschaftsteuer in Zypern 2026?"
-    a: "Fünfzehn Prozent. Der Zweite Anhang des Income Tax Law, wie auf CyLaw mit den am 31. Dezember 2025 im Amtsblatt veröffentlichten Änderungen konsolidiert, bestimmt, dass eine Gesellschaft auf jeden Euro ihres steuerpflichtigen Einkommens 15 % Steuer zahlt. Fachliche Zusammenfassungen der Reform bestätigen, dass dieser Satz ab dem Steuerjahr 2026 gilt und die bisherigen 12,5 % ersetzt. Wer heute noch 12,5 % nennt, beschreibt die Rechtslage bis zum Steuerjahr 2025, nicht die geltende. Stand: Oktober 2026."
+    a: "Fünfzehn Prozent. Der Zweite Anhang des Income Tax Law, wie auf CyLaw mit den am 31. Dezember 2025 im Amtsblatt veröffentlichten Änderungen konsolidiert, bestimmt, dass eine Gesellschaft auf jeden Euro ihres steuerpflichtigen Einkommens 15 % Steuer zahlt. Die Änderung erfolgte durch die Steuerreformgesetze vom Dezember 2025 (darunter Gesetz 244(I)/2025) und ersetzt die bisherigen 12,5 %. Wer heute noch 12,5 % nennt, beschreibt die Rechtslage vor der Reform, nicht die geltende. Stand: Oktober 2026."
   - q: "Wie viel Einkommen ist für Privatpersonen in Zypern steuerfrei?"
     a: "Ab dem Steuerjahr 2026 werden die ersten 22.000 € des steuerpflichtigen Einkommens einer Privatperson mit 0 % besteuert. Darüber gelten nach dem Zweiten Anhang des Income Tax Law 20 % bis 32.000 €, 25 % bis 42.000 €, 30 % bis 72.000 € und 35 % auf jeden Euro über 72.000 €. Die Reform hat außerdem neue persönliche Abzüge für Familien unterhalb bestimmter Einkommensgrenzen eingeführt. Ob diese Sätze für Sie gelten, hängt von Ihrer steuerlichen Ansässigkeit und der Einordnung Ihrer Einkünfte ab; hier setzt die rechtliche Beratung an."
   - q: "Was ist die 60-Tage-Regel für die steuerliche Ansässigkeit in Zypern?"
@@ -42,7 +42,7 @@ sources:
     url: https://www.cylaw.org/nomoi/enop/ind/2002_1_118/section-scd3f0cde8-23fe-23ca-a6b3-9cc295389930.html
   - title: "CyLaw — Income Tax Law 118(I)/2002, konsolidiert: Index mit Änderungshistorie (37(I)/2025, 47(I)/2025, 219(I)/2025, 244(I)/2025, 17(I)/2026, 66(I)/2026, 67(I)/2026) (Griechisch)"
     url: https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/index.html
-  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Gesetz 244(I)/2025, Amtsblatt Teil I(I) Nr. 5070, 31. Dezember 2025 (Griechisch)"
+  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Gesetz 244(I)/2025, Amtsblatt Teil I(I) Nr. 5070, 31. Dezember 2025 (neue Section 20E: 8 % auf Gewinne aus Kryptowerten) (Griechisch)"
     url: https://www.cylaw.org/nomoi/arith/2025_1_244.pdf
   - title: "CyLaw — Special Contribution for the Defence (Amending) Law, Gesetz 245(I)/2025, Amtsblatt Teil I(I) Nr. 5070, 31. Dezember 2025 (Griechisch)"
     url: https://www.cylaw.org/nomoi/arith/2025_1_245.pdf
@@ -72,12 +72,8 @@ sources:
     url: https://www.cylaw.org/nomoi/enop/non-ind/1963_1_19/index.html
   - title: "Finanzministerium der Republik Zypern — Doppelbesteuerungsabkommen (amtliche Liste und Abkommenstexte) (Englisch)"
     url: https://mof.gov.cy/en/en/legislation/1-double-taxation-agreements
-  - title: "EY Global Tax News — Cyprus enacts major tax reform legislation (7. Januar 2026): Parlamentsbeschluss 22. Dezember 2025, Amtsblatt 31. Dezember 2025, 15 % ab Steuerjahr 2026 (Englisch)"
-    url: https://globaltaxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation
-  - title: "PwC Cyprus — The Cyprus Tax Reform (Zusammenfassung der am 31. Dezember 2025 veröffentlichten Gesetze) (Englisch)"
-    url: https://www.pwc.com.cy/en/services/tax-legal-services/tax-advisory-services/the-cyprus-tax-reform.html
 ---
-Kalopetrides Law LLC berät Privatpersonen und Unternehmen aus dem Ausland dazu, wie das zyprische Steuerrecht auf sie anwendbar ist, und verteidigt sie, wenn das Tax Department anderer Meinung ist: von der steuerlichen Ansässigkeit und dem Non-Dom-Status über die Körperschaftsteuer von 15 %, Dividenden und die Special Contribution for the Defence (SDC) bis zu Mehrwertsteuer, Veräußerungsgewinnen auf Immobilien und Doppelbesteuerungsabkommen. Kommt ein Bescheid, verfassen Savvas Kalopetrides und das Team den Einspruch und bringen den Fall wenn nötig vor Gericht.
+Kalopetrides Law LLC berät Privatpersonen und Unternehmen aus dem Ausland dazu, wie das zyprische Steuerrecht auf sie anwendbar ist, und verteidigt sie, wenn das Tax Department anderer Meinung ist: von der steuerlichen Ansässigkeit und dem Non-Dom-Status über die durch die Reform vom Dezember 2025 eingeführte Körperschaftsteuer von 15 %, Dividenden und die Special Contribution for the Defence (SDC) bis zu Mehrwertsteuer, Veräußerungsgewinnen auf Immobilien und Doppelbesteuerungsabkommen. Kommt ein Bescheid, verfassen Savvas Kalopetrides und das Team den Einspruch und bringen den Fall wenn nötig vor Gericht.
 
 Kalopetrides Law LLC ist eine Rechtsanwaltskanzlei, keine Steuerberatungs- oder Buchhaltungsgesellschaft. Sie führt nicht Ihre Bücher und reicht nicht Ihre Erklärungen ein; sie arbeitet mit Ihrem Buchhalter oder Wirtschaftsprüfer in Zypern oder im Ausland zusammen und übernimmt die rechtlichen Fragen: welche Regeln gelten, wie das Gesetz auszulegen ist, welche Risiken bestehen und wie mit den Behörden umzugehen ist.
 
@@ -97,13 +93,13 @@ Der konsolidierte Text enthält im Oktober 2026 die frühere Bedingung nicht meh
 
 Eine Gesellschaft ist in Zypern steuerlich ansässig, wenn ihre Leitung und Kontrolle hier ausgeübt werden oder wenn sie nach dem Companies Law in Zypern gegründet ist, sofern ein Doppelbesteuerungsabkommen nichts anderes bestimmt. Eine vollständig vom Ausland aus geführte zyprische Gesellschaft ist daher nach zyprischem Recht weiterhin hier ansässig, während der andere Staat die Ansässigkeit ebenfalls beanspruchen kann. Mehr dazu unter [Gesellschaftsrecht](/de/leistungen/gesellschaftsrecht-zypern/).
 
-### Körperschaftsteuer: 15 % ab dem Steuerjahr 2026
+### Körperschaftsteuer: 15 %
 
-Nach dem Zweiten Anhang des Income Tax Law zahlt eine Gesellschaft auf jeden Euro des steuerpflichtigen Einkommens 15 %. Der Satz von 12,5 % gehört zu den Steuerjahren bis 2025. Die Reform behält einen zusätzlichen Abzug von 20 % für qualifizierte Forschungs- und Entwicklungsaufwendungen der Jahre 2025 bis 2030 bei. Section 33 wendet den Fremdvergleichsgrundsatz auf Geschäfte zwischen nahestehenden Personen an, und Section 33Γ erlaubt Vorabverständigungen über Verrechnungspreise.
+Nach dem Zweiten Anhang des Income Tax Law zahlt eine Gesellschaft auf jeden Euro des steuerpflichtigen Einkommens 15 %. Der Satz von 12,5 % galt vor der Reform. Die Reform behält einen zusätzlichen Abzug von 20 % für qualifizierte Forschungs- und Entwicklungsaufwendungen der Jahre 2025 bis 2030 bei. Section 33 wendet den Fremdvergleichsgrundsatz auf Geschäfte zwischen nahestehenden Personen an, und Section 33C (33Γ im griechischen Text) erlaubt Vorabverständigungen über Verrechnungspreise.
 
 ### Einkommensteuer für Privatpersonen ab dem Steuerjahr 2026
 
-Der Zweite Anhang legt die Tarifstufen so fest: 0 % auf die ersten 22.000 €; 20 % von 22.000 € bis 32.000 €; 25 % von 32.000 € bis 42.000 €; 30 % von 42.000 € bis 72.000 €; 35 % auf jeden Euro über 72.000 €. Die Reform hat mit Section 14B persönliche Abzüge für Familien unterhalb bestimmter Einkommensgrenzen eingeführt sowie nach Section 20Ε einen Satz von 8 % auf Gewinne aus Kryptowerten.
+Der Zweite Anhang legt die Tarifstufen so fest: 0 % auf die ersten 22.000 €; 20 % von 22.000 € bis 32.000 €; 25 % von 32.000 € bis 42.000 €; 30 % von 42.000 € bis 72.000 €; 35 % auf jeden Euro über 72.000 €. Die Reform hat mit Section 14B persönliche Abzüge für Familien unterhalb bestimmter Einkommensgrenzen eingeführt sowie nach der durch Gesetz 244(I)/2025 eingefügten neuen Section 20E (20Ε im griechischen Text) einen Satz von 8 % auf Gewinne aus der Veräußerung von Kryptowerten.
 
 Zwei Befreiungen sind für Menschen wichtig, die zum Arbeiten nach Zypern ziehen. Section 8(23A) befreit 17 Steuerjahre lang 50 % der Vergütung aus einer Beschäftigung in Zypern, wenn die Person vor der ersten Beschäftigung hier mindestens 15 aufeinanderfolgende Jahre nicht in Zypern ansässig war, die Beschäftigung am oder nach dem 1. Januar 2022 begann und die Vergütung im Jahr 55.000 € übersteigt. Section 8(21A) befreit sieben Jahre lang 20 % der Vergütung, höchstens 8.550 €, für Beschäftigungen, die bis einschließlich 2027 beginnen.
 
@@ -111,7 +107,7 @@ Zwei Befreiungen sind für Menschen wichtig, die zum Arbeiten nach Zypern ziehen
 
 Die SDC ist eine eigene Abgabe nach dem Special Contribution for the Defence Law 117(I)/2002 auf Dividenden und Zinsen. Für Privatpersonen fällt sie nur an, wenn die Person nach dem Income Tax Law in Zypern ansässig und zugleich in Zypern domiziliert ist. Wer ein Ursprungsdomizil außerhalb Zyperns hat, ist daher von der SDC ausgenommen; das ist der sogenannte Non-Dom-Status. Nach Section 2(3) gilt als in Zypern domiziliert, wer in mindestens 17 der 20 Jahre vor dem Steuerjahr ansässig war, und zwar so lange, bis 20 Jahre ohne Ansässigkeit vergangen sind.
 
-Neu ist Section 3Δ. Wer kein zyprisches Ursprungsdomizil hat und nach der 17-von-20-Regel als domiziliert gilt, kann eine alternative Besteuerung wählen: eine pauschale SDC von 50.000 € jährlich unabhängig vom Einkommen, gezahlt als eine Rate von 250.000 € für einen Fünfjahreszeitraum. Die Wahl ist für fünf Jahre unwiderruflich, bis zum 30. Juni des ersten Jahres zu beantragen, bedarf der Annahme durch den Commissioner, ist nicht erstattungsfähig und nicht mit anderen oder ausländischen Steuern verrechenbar; sie steht für höchstens zwei Zeiträume zur Verfügung. Die Regel ist geltendes Recht, kein Entwurf.
+Neu ist Section 3D (3Δ im griechischen Text). Wer kein zyprisches Ursprungsdomizil hat und nach der 17-von-20-Regel als domiziliert gilt, kann eine alternative Besteuerung wählen: eine pauschale SDC von 50.000 € jährlich unabhängig vom Einkommen, gezahlt als eine Rate von 250.000 € für einen Fünfjahreszeitraum. Die Wahl ist für fünf Jahre unwiderruflich, bis zum 30. Juni des ersten Jahres zu beantragen, bedarf der Annahme durch den Commissioner, ist nicht erstattungsfähig und nicht mit anderen oder ausländischen Steuern verrechenbar; sie steht für höchstens zwei Zeiträume zur Verfügung. Die Regel ist geltendes Recht, kein Entwurf.
 
 ### Dividenden und Zinsen
 
@@ -121,7 +117,7 @@ Zinsen, die eine ansässige und domizilierte Privatperson erhält, unterliegen n
 
 ### Geistiges Eigentum und Abzug auf neues Kapital
 
-Section 9(1)(κ) des Income Tax Law, das IP-Regime, erlaubt, 80 % der qualifizierten Gewinne aus einem qualifizierten immateriellen Wirtschaftsgut als fiktiven Aufwand abzuziehen; die Berechnung regeln Verordnungen des Ministerrats. Section 9B gewährt einen Abzug auf neues Eigenkapital einer Gesellschaft in Höhe der Rendite zehnjähriger Staatsanleihen des Staates, in dem das Kapital investiert wird, plus fünf Prozentpunkte, begrenzt auf 80 % des mit dem neuen Kapital erzielten steuerpflichtigen Einkommens. Finanzbehörden prüfen beide Regelungen genau; die Kanzlei dokumentiert die Tatsachen hinter jedem Anspruch.
+Section 9(1)(k) (9(1)(κ) im griechischen Text) des Income Tax Law, das IP-Regime, erlaubt, 80 % der qualifizierten Gewinne aus einem qualifizierten immateriellen Wirtschaftsgut als fiktiven Aufwand abzuziehen; die Berechnung regeln Verordnungen des Ministerrats. Section 9B gewährt einen Abzug auf neues Eigenkapital einer Gesellschaft in Höhe der Rendite zehnjähriger Staatsanleihen des Staates, in dem das Kapital investiert wird, plus fünf Prozentpunkte, begrenzt auf 80 % des mit dem neuen Kapital erzielten steuerpflichtigen Einkommens. Finanzbehörden prüfen beide Regelungen genau; die Kanzlei dokumentiert die Tatsachen hinter jedem Anspruch.
 
 ### Mehrwertsteuer
 
@@ -172,7 +168,7 @@ Gesetzliche Sätze und Fristen nach den auf dieser Seite zitierten Gesetzen, Sta
 | Körperschaftsteuer | 15 % des steuerpflichtigen Einkommens | Income Tax Law, Zweiter Anhang |
 | Einkommensteuer, erste Stufe | 0 % bis 22.000 € | Income Tax Law, Zweiter Anhang |
 | SDC auf Dividenden (ansässig und domiziliert) | 5 %; 17 % Übergangssatz für Gewinne bis 2025 | SDC Law, Section 3 |
-| SDC auf Zinsen (ansässig und domiziliert) | 17 %; 3 % für bestimmte Staats- und ähnliche Anleihen | SDC Law, Section 3B |
+| SDC auf Zinsen (ansässig und domiziliert) | 17 %; 3 % für Sparbriefe und Entwicklungsanleihen Zyperns oder anderer EU-Staaten sowie börsennotierte Anleihen von Gebietskörperschaften und staatlichen Einrichtungen | SDC Law, Section 3B |
 | Alternative SDC nach fiktivem Domizil | 50.000 € jährlich, gezahlt als 250.000 € je Fünfjahreszeitraum | SDC Law, Section 3Δ |
 | Mehrwertsteuer-Regelsatz | 19 % | VAT Law, Section 17 |
 | Veräußerungsgewinnsteuer | 20 % des Gewinns | Capital Gains Tax Law, Section 4 |
@@ -181,14 +177,6 @@ Gesetzliche Sätze und Fristen nach den auf dieser Seite zitierten Gesetzen, Sta
 | Hierarchische Beschwerde an den Tax Council | Binnen 45 Tagen nach der Entscheidung | ACT Law, Section 20A |
 
 Das Honorar der Kanzlei richtet sich nach dem Umfang des Mandats und wird vor Beginn der Arbeit schriftlich vereinbart.
-
-## Häufig gestellte Fragen
-
-Die Fragen, die Mandanten aus dem Ausland am häufigsten zum zyprischen Steuerrecht stellen, werden unten beantwortet.
-
-## Quellen
-
-Sätze, Schwellen und Fristen wurden am als „Aktualisiert“ angegebenen Datum anhand der unten aufgeführten Quellen geprüft; sie ändern sich, und die Kanzlei prüft sie für jedes Mandat erneut. Titel griechischer Quellen sind inoffizielle Übersetzungen.
 
 ## Sprechen Sie mit der Kanzlei
 

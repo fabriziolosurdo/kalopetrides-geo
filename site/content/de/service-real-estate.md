@@ -78,12 +78,9 @@ faq:
     a: >-
       Nicht mehr für Verträge, die ab dem 1. Januar 2026 unterzeichnet werden.
       Die Stamp Duty Laws von 1963 bis 2025 wurden durch das Gesetz 239(I)/2025
-      mit Wirkung zum 1. Januar 2026 aufgehoben, und das Department of Lands and
-      Surveys bestätigt, dass eine Stempelung nur noch erforderlich ist, wenn
-      mindestens eine Partei den Vertrag vor diesem Datum unterzeichnet hat.
-      Verträge, die bis zum 31. Dezember 2025 unterzeichnet wurden, unterliegen
-      weiterhin den alten Regeln und müssen vor Hinterlegung oder Übertragung
-      gestempelt werden.
+      mit Wirkung zum 1. Januar 2026 aufgehoben. Dokumente, die vor dem
+      1. Januar 2026 unterzeichnet wurden, müssen möglicherweise noch gestempelt
+      werden; die Kanzlei prüft dies im Einzelfall.
   - q: Gibt es in Zypern eine jährliche Grundsteuer?
     a: >-
       Eine nationale Grundsteuer gibt es nicht. Das Tax Department erklärt, dass
@@ -179,7 +176,7 @@ Der wichtigste Schutz eines Käufers in Zypern ist die Hinterlegung des unterzei
 
 Das Department of Lands and Surveys veröffentlicht die Voraussetzungen. Die Immobilie muss auf den Namen des Verkäufers eingetragen sein; der Vertrag muss innerhalb von sechs Monaten nach Unterzeichnung hinterlegt werden, sofern das Gericht nicht eine verspätete Hinterlegung zulässt; der Antrag wird auf dem Formular Δ.Ε.314 mit dem Originalvertrag, dem Katasterplan und, bei einer Wohneinheit, den Grundrissen gestellt, alle von den Parteien unterzeichnet; die Gebühr beträgt 50,00 €. Bei Verträgen, die nach dem 12. Dezember 2023 unterzeichnet wurden, ist ein Grundbuchauszug beizufügen, der nicht älter als fünf Werktage vor Vertragsschluss ist.
 
-Das Gesetz 132(I)/2023, in Kraft seit dem 12. Dezember 2023, begegnet dem Problem, das in der Vergangenheit die meisten Käuferverluste verursacht hat: Immobilien, die verkauft wurden, während die Bank des Verkäufers noch eine Hypothek darauf hielt. Ist eine Hypothek eingetragen, wird der Hinterlegung entweder das Formular A beigefügt, unterzeichnet von Hypothekengläubiger, Verkäufer und Käufer, das den Betrag nennt, der für die Lastenfreistellung zu zahlen ist, oder das Formular C, mit dem der Käufer bestätigt, dass er ohne diesen Mechanismus fortfährt. Zahlt der Käufer den im Formular A genannten Betrag, muss der Hypothekengläubiger die Immobilie freigeben; weigert er sich, kann der Director of Lands and Surveys die Immobilie dennoch übertragen, und der Käufer kann einen Erfüllungsbeschluss beantragen. Die Kanzlei berät, welcher Weg im Einzelfall richtig ist, und lässt keinen Mandanten das Formular C unterzeichnen, ohne dass er versteht, worauf er damit verzichtet.
+Das Gesetz 132(I)/2023, in Kraft seit dem 12. Dezember 2023, begegnet dem Problem, das in der Vergangenheit die meisten Käuferverluste verursacht hat: Immobilien, die verkauft wurden, während die Bank des Verkäufers noch eine Hypothek darauf hielt. Hat die Bank des Verkäufers eine Hypothek auf der Immobilie, wählen Sie bei der Hinterlegung zwischen zwei Formularen. Ist eine Hypothek eingetragen, wird der Hinterlegung entweder das Formular A beigefügt, unterzeichnet von Hypothekengläubiger, Verkäufer und Käufer, das den Betrag nennt, der für die Lastenfreistellung zu zahlen ist, oder das Formular C, mit dem der Käufer bestätigt, dass er ohne diesen Mechanismus fortfährt. Zahlt der Käufer den im Formular A genannten Betrag, muss der Hypothekengläubiger die Immobilie freigeben; weigert er sich, kann der Director of Lands and Surveys die Immobilie dennoch übertragen, und der Käufer kann einen Erfüllungsbeschluss beantragen. Die Kanzlei berät, welcher Weg im Einzelfall richtig ist, und lässt keinen Mandanten das Formular C unterzeichnen, ohne dass er versteht, worauf er damit verzichtet.
 
 ### 4. Übertragung und Eintragung
 
@@ -246,7 +243,7 @@ Die nachstehenden öffentlichen Gebühren und Steuern sind diejenigen, die das D
 |---|---|
 | Übertragungsgebühren (Käufer) | 3 % bis 85.000 €; 5 % von 85.001 € bis 170.000 €; 8 % über 170.000 €, auf den Kaufpreis oder Verkehrswert. Keine Gebühr, wenn auf dasselbe Geschäft Mehrwertsteuer gezahlt wurde; 50 % Ermäßigung in den übrigen Fällen, in denen die Staffel gilt. |
 | Mehrwertsteuer auf Neubauten | 19 % auf Gebäude, die vor dem Erstbezug verkauft werden, wenn der Bauantrag nach dem 1. Mai 2004 gestellt wurde. 5 % für eine dauerhaft als Hauptwohnsitz genutzte Wohnung unter den Bedingungen des Gesetzes 42(I)/2023 (erste 130 m² Baufläche, Wert bis 350.000 €, Gesamtwert höchstens 475.000 €, Gesamtbaufläche höchstens 190 m²), mit zehnjähriger Nutzungspflicht; Übergangsregeln, wenn die Baugenehmigung bis zum 31. Oktober 2023 erteilt oder beantragt wurde. |
-| Stempelsteuer | Abgeschafft für Dokumente, die ab dem 1. Januar 2026 unterzeichnet werden (Gesetz 239(I)/2025). Verträge, die bis zum 31. Dezember 2025 unterzeichnet wurden, unterliegen weiterhin den früheren Stamp Duty Laws. |
+| Stempelsteuer | Abgeschafft für Dokumente, die ab dem 1. Januar 2026 unterzeichnet werden (Gesetz 239(I)/2025). Dokumente, die vor dem 1. Januar 2026 unterzeichnet wurden, müssen möglicherweise noch gestempelt werden; die Kanzlei prüft dies im Einzelfall. |
 | Hinterlegung des Kaufvertrags | 50,00 €; innerhalb von sechs Monaten nach Unterzeichnung. |
 | Grundbuchauszug (Search Certificate) | 10,00 € einfach; 15,00 € mit Belastungen und Beschränkungen. |
 | Eintragung eines Mietvertrags (über 15 Jahre) | Prozentsatz des Verkehrswerts des Mietrechts, mindestens 100,00 €; Bescheinigung 20,00 €. |

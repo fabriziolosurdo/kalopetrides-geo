@@ -16,7 +16,7 @@ faq:
   - q: Brauchen EU-Bürger in Zypern einen Aufenthaltstitel?
     a: EU-, EWR- und Schweizer Bürger brauchen keinen Titel, müssen sich aber registrieren. Wer länger als drei Monate bleibt, beantragt innerhalb von vier Monaten nach Einreise eine Registrierungsbescheinigung (Formular MEU1) und weist dafür Beschäftigung, Selbständigkeit oder ausreichende Mittel plus Krankenversicherung nach. Die Bescheinigung läuft nicht ab. Nach fünf Jahren ununterbrochenen rechtmäßigen Aufenthalts kann ein EU-Bürger eine Daueraufenthaltsbescheinigung (Formular MEU3) beantragen. Wer sich nicht registriert, riskiert ein Bußgeld.
   - q: Gibt es das Digital-Nomad-Visum für Zypern noch?
-    a: Das Programm besteht und wird vom Civil Registry and Migration Department geführt, hat aber eine Obergrenze — vom Ministerrat im März 2022 auf 500 Genehmigungen angehoben — und wurde in der Vergangenheit ausgesetzt und wieder geöffnet, wenn das Kontingent erschöpft war. Ob an einem bestimmten Tag Anträge angenommen werden, muss beim Department geklärt werden, bevor Sie darauf planen. Die Einkommensvoraussetzung ist ein monatliches Nettoeinkommen von mindestens 3.500 € aus Arbeit, die aus der Ferne für Arbeitgeber oder Kunden außerhalb Zyperns erbracht wird.
+    a: Das Programm besteht und wird vom Civil Registry and Migration Department geführt, hat aber eine Obergrenze — vom Ministerrat im März 2022 auf 500 Genehmigungen angehoben —, daher kann sich die Verfügbarkeit ändern. Ob an einem bestimmten Tag Anträge angenommen werden, muss beim Department geklärt werden, bevor Sie darauf planen. Die Einkommensvoraussetzung ist ein monatliches Nettoeinkommen von mindestens 3.500 € aus Arbeit, die aus der Ferne für Arbeitgeber oder Kunden außerhalb Zyperns erbracht wird.
   - q: Wie viele Jahre Aufenthalt brauche ich für die zyprische Staatsbürgerschaft?
     a: Nach dem Gesetz 149(I)/2023, das das Civil Registry Law geändert hat, gilt als Grundregel ein rechtmäßiger und ununterbrochener Aufenthalt in den zwölf Monaten unmittelbar vor dem Antrag (Abwesenheiten von insgesamt bis zu 90 Tagen zählen nicht) plus mindestens sieben Jahre rechtmäßigen Aufenthalts insgesamt in den zehn Jahren vor diesen zwölf Monaten. Griechischkenntnisse auf Niveau B1 des GER sind erforderlich. Hochqualifizierte Beschäftigte von Arbeitgebern, die der Ministerrat bestimmt hat, profitieren von einer kürzeren Aufenthaltsdauer.
   - q: Kann meine Familie nachkommen, wenn ich eine Arbeitserlaubnis habe?
@@ -58,8 +58,6 @@ sources:
     url: https://moi.gov.cy/moi/CRMD/crmd.nsf/All/10184B857E8C9BB1C22587D50046498D
   - title: Gesetz 149(I)/2023 zur Änderung des Civil Registry Law — Einbürgerung (cylaw.org, Griechisch)
     url: https://cylaw.org/nomoi/arith/2023_1_149.pdf
-  - title: Europäische Kommission — Zypern, neue Staatsbürgerschaftsgesetzgebung (6. März 2024, Englisch)
-    url: https://home-affairs.ec.europa.eu/news/cyprus-new-citizenship-legislation-2024-03-06_en
   - title: Asylum Service — Vorübergehender Schutz für Personen, die vor dem Krieg in der Ukraine fliehen (Englisch)
     url: https://moi.gov.cy/moi/asylum/asylumservice.nsf/All/71A7D6D56D2B4B49C22588010055092A
   - title: Rat der EU — Verlängerung des vorübergehenden Schutzes für Flüchtlinge aus der Ukraine bis 4. März 2027 (Englisch)
@@ -122,7 +120,7 @@ Auch Arbeitgeber tragen Pflichten — Personalquoten, rechtzeitige Verlängerung
 
 Das Digital Nomad Visa ist für Nicht-EU/EWR-Bürger, die aus der Ferne für einen im Ausland registrierten Arbeitgeber oder selbständig für Kunden im Ausland arbeiten. Der Antragsteller muss ein stabiles monatliches Nettoeinkommen von mindestens 3.500 € nach Steuern und Abgaben nachweisen (erhöht um 20 % für Ehegatten oder Partner und 15 % je Kind nach der Strategie des Finanzministeriums). Die erste Erlaubnis gilt ein Jahr; Verlängerungen gelten bis zu zwei Jahre und müssen mindestens einen Monat vor Ablauf beantragt werden. Ehegatte oder eingetragener Partner und minderjährige Kinder können eigene Erlaubnisse für denselben Zeitraum erhalten, dürfen aber nicht arbeiten.
 
-Zwei Vorbehalte. Das Programm hat eine Obergrenze von 500 Genehmigungen (vom Ministerrat im März 2022 festgelegt) und wurde ausgesetzt und wieder geöffnet, wenn das Kontingent erreicht war; die Verfügbarkeit muss beim Department geklärt werden. Und mehr als 183 Tage in Zypern in einem Steuerjahr machen Sie in Zypern steuerlich ansässig, sofern Sie nicht anderswo steuerlich ansässig sind.
+Zwei Vorbehalte. Das Programm hat eine Obergrenze von 500 Genehmigungen (vom Ministerrat im März 2022 festgelegt), daher muss die Verfügbarkeit vor der Antragstellung beim Department geklärt werden. Und mehr als 183 Tage in Zypern in einem Steuerjahr machen Sie nach Section 2 des Income Tax Law in Zypern steuerlich ansässig; behandelt Ihr Heimatstaat Sie ebenfalls als ansässig, entscheidet das Doppelbesteuerungsabkommen.
 
 ## EU-Bürger: Registrierung statt Aufenthaltstitel
 
@@ -159,7 +157,6 @@ Israelische Mandanten kommen meist über ein Unternehmen — eine bei der BFU re
 - **Mai 2023** — vierte Überarbeitung der Politik zum Investoren-Immigration-Permit: 300.000 € in vier Kategorien, 50.000 € Einkommen, Führungszeugnisse alle drei Jahre.
 - **Juni 2023** — überarbeitete Strategie zur Gewinnung von Unternehmen und Talenten: Mindestgehalt 2.500 € für hochqualifiziertes Personal von Gesellschaften mit ausländischer Beteiligung.
 - **Dezember 2023** — Gesetz 149(I)/2023 reformiert die Einbürgerung: 12 Monate plus sieben von zehn Jahren, Griechisch B1, beschleunigter Weg für hochqualifizierte Beschäftigte.
-- **2024–2025** — Kontingent des Digital Nomad Visa erreicht, Programm ausgesetzt und später wieder geöffnet.
 - **Juni 2025** — vorübergehender Schutz der EU für Ukrainer bis zum 4. März 2027 verlängert.
 
 ## Was wir für Sie tun
@@ -191,10 +188,6 @@ Amtliche Gebühren und von den Behörden veröffentlichte Richtwerte (geprüft O
 | Einbürgerung, beschleunigter Weg | vom Minister festgelegt | Entscheidung innerhalb von 8 Monaten |
 
 Die Fristen laufen ab vollständiger, korrekt beglaubigter Einreichung. Das Honorar der Kanzlei wird vor Beginn der Arbeit schriftlich vereinbart.
-
-## Quellen
-
-Jede Zahl auf dieser Seite stammt aus den unten aufgeführten Primärquellen, Stand des oben angegebenen Datums.
 
 ## Sprechen Sie mit der Kanzlei
 

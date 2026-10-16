@@ -41,7 +41,7 @@ Daten erhalten, soweit erforderlich, unser verbundenes Unternehmen TrustGate Cor
 - **Kontaktformular:** Das Formular wird von Web3Forms als Auftragsverarbeiter abgewickelt. Ihre Eingaben und technische Daten wie die IP-Adresse werden an Web3Forms übermittelt und an unsere E-Mail-Adresse weitergeleitet. Sie können uns stattdessen direkt an info@kalopetrideslaw.com schreiben.
 - **Karte:** Die Google-Maps-Karte auf der Kontaktseite wird erst nach Ihrem Klick geladen; erst dann verbindet sich Ihr Browser mit Google.
 - **Cookies:** Die Website verwendet keine Analyse- oder Werbe-Cookies. Der Hosting-Anbieter speichert technische Zugriffsdaten in Server-Logs aus Sicherheitsgründen.
-- **WhatsApp und Telegram:** Kontaktieren Sie uns darüber, verarbeitet der jeweilige Anbieter Ihre Daten nach seinen eigenen Bedingungen.
+- **WhatsApp:** Kontaktieren Sie uns darüber, verarbeitet der Anbieter Ihre Daten nach seinen eigenen Bedingungen.
 
 ## Speicherdauer
 

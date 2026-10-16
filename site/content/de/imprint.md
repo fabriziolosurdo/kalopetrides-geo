@@ -36,13 +36,11 @@ Zypern
 
 **Direktor und inhaltlich verantwortlich:** Savvas Kalopetrides, Rechtsanwalt
 
-**Registernummer (Registrar of Companies, Zypern):** [Registernummer — wird von der Kanzlei mitgeteilt]
-
 **Steuernummer:** 60080237P
 
 ## Berufsrechtliche Angaben
 
-Kalopetrides Law LLC ist eine in der Republik Zypern tätige Rechtsanwaltskanzlei. Savvas Kalopetrides führt die in der Republik Zypern erworbene Berufsbezeichnung Rechtsanwalt (Advocate) und ist Mitglied der Cyprus Bar Association, die das Register der praktizierenden Rechtsanwälte führt und die jährliche Zulassung erteilt.
+Kalopetrides Law LLC ist eine in der Republik Zypern tätige Rechtsanwaltskanzlei. Savvas Kalopetrides ist Rechtsanwalt (Advocate) und Mitglied der Cyprus Bar Association, die das Register der praktizierenden Rechtsanwälte führt und die jährliche Zulassung erteilt.
 
 **Kammer:** Cyprus Bar Association (Παγκύπριος Δικηγορικός Σύλλογος), Nikosia, Zypern — [www.cyprusbarassociation.org](https://www.cyprusbarassociation.org/)
 

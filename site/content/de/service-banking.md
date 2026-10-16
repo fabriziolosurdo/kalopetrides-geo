@@ -157,10 +157,6 @@ Savvas Kalopetrides und das Team arbeiten auf Deutsch, Englisch, Griechisch und 
 
 Gerichtsgebühren, Gebühren des Lands Office für die Eintragung von Hypotheken, Einreichungsgebühren des Registrar of Companies und Antragsgebühren der Aufsichtsbehörden werden von den jeweiligen Stellen festgelegt und ändern sich von Zeit zu Zeit; die Kanzlei klärt die aktuellen Beträge für jedes Mandat, bevor ein Schritt unternommen wird. Der Zeitrahmen hängt von der beteiligten Bank, Aufsichtsbehörde oder dem Gericht ab: Die Entscheidung über ein Bankkonto liegt bei der Bank, ein Lizenzantrag folgt dem Prüfplan der Aufsichtsbehörde, und ein Prozess folgt dem Gerichtskalender. Die Kanzlei gibt zu Beginn eine realistische Einschätzung für das konkrete Mandat und aktualisiert sie im Verlauf.
 
-## Quellen
-
-Die für diese Seite herangezogenen Primärquellen sind unten aufgeführt. Gesetze werden mit ihrer Nummer im Amtsblatt der Republik Zypern zitiert, EU-Verordnungen mit ihrer EUR-Lex-Referenz. Wo eine Quelle auf Griechisch vorliegt, ist der Titel eine inoffizielle Übersetzung.
-
 ## Sprechen Sie mit Kalopetrides Law LLC
 
 Wenn Sie in Zypern ein Bankkonto eröffnen, ein Darlehen dokumentieren, eine Forderung eintreiben oder eine Lizenz erhalten müssen, senden Sie eine kurze Beschreibung des Anliegens und der beteiligten Länder. Die Kanzlei sagt Ihnen, welches Regime gilt, welche Dokumente nötig sind und was der nächste Schritt ist. [Kontakt zur Kanzlei in Larnaka](/de/kontakt/) per Telefon, E-Mail oder Kontaktformular.

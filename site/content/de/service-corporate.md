@@ -12,11 +12,11 @@ faq:
   - q: "Wie lange dauert die Gründung einer Gesellschaft in Zypern?"
     a: "Der Registrar veröffentlicht keine gesetzliche Bearbeitungsfrist. In der Praxis folgt auf die Namensgenehmigung die Einreichung der Gründungsunterlagen und dann die Gründungsurkunde. Der Registrar bietet in beiden Stufen gegen Aufpreis ein beschleunigtes Verfahren an, und die Namensgenehmigung reserviert den Namen für sechs Monate. Die Vorbereitung der Unterlagen, insbesondere die Beschaffung der Due-Diligence-Dokumente zu jedem Gesellschafter und Direktor, dauert meist länger als die Bearbeitung durch den Registrar selbst. Kalopetrides Law LLC nennt Ihnen eine realistische Einschätzung, sobald die Struktur bekannt ist."
   - q: "Brauche ich einen in Zypern ansässigen Direktor?"
-    a: "Das Companies Law verlangt von jeder Private Company mindestens einen Direktor und einen Secretary; einen Wohnsitz des Direktors schreibt es nicht vor. Die Frage ist steuerlich von Bedeutung. Seit der Reform 2026 ist eine in Zypern gegründete Gesellschaft allein durch die Gründung hier steuerlich ansässig, sofern ein Doppelbesteuerungsabkommen nichts anderes bestimmt, und eine von Zypern aus geleitete und kontrollierte Gesellschaft ist auch aus diesem Grund ansässig. Wo die Direktoren leben, beeinflusst weiterhin, wie ausländische Finanzbehörden und Banken die Gesellschaft beurteilen. Die Besetzung des Boards ist daher eine Entscheidung mit Beratung, keine Formalität."
+    a: "Das Companies Law verlangt von jeder Private Company mindestens einen Direktor und einen Secretary; einen Wohnsitz des Direktors schreibt es nicht vor. Die Frage ist steuerlich von Bedeutung. Nach Section 2 des Income Tax Law ist eine in Zypern gegründete Gesellschaft allein durch die Gründung hier steuerlich ansässig, sofern ein Doppelbesteuerungsabkommen nichts anderes bestimmt, und eine von Zypern aus geleitete und kontrollierte Gesellschaft ist auch aus diesem Grund ansässig. Wo die Direktoren leben, beeinflusst weiterhin, wie ausländische Finanzbehörden und Banken die Gesellschaft beurteilen. Die Besetzung des Boards ist daher eine Entscheidung mit Beratung, keine Formalität."
   - q: "Kann eine einzelne Person eine zyprische Gesellschaft halten und führen?"
     a: "Ja. Das Companies Law Cap. 113 erlaubt, dass die Anteile einer Private Company von einer Person gehalten werden, und in einer Ein-Personen-Gesellschaft mit beschränkter Haftung kann der einzige Direktor zugleich Secretary sein. Verträge zwischen dem alleinigen Gesellschafter und der Gesellschaft müssen protokolliert oder schriftlich geschlossen werden, sofern es sich nicht um gewöhnliche Geschäfte handelt. Viele Gründer aus dem Ausland, mit denen die Kanzlei arbeitet, beginnen so und nehmen später Partner oder Investoren durch Ausgabe oder Übertragung von Anteilen auf."
   - q: "Wie hoch ist die Körperschaftsteuer in Zypern 2026?"
-    a: "Fünfzehn Prozent. Der Zweite Anhang des Income Tax Law in der Fassung der am 31. Dezember 2025 im Amtsblatt veröffentlichten Steuerreformgesetze bestimmt, dass Gesellschaften auf jeden Euro des steuerpflichtigen Einkommens 15 % Körperschaftsteuer zahlen. Die Reform gilt ab dem Steuerjahr 2026. Dasselbe Gesetzespaket hob die Stempelsteuergesetze mit Wirkung zum 1. Januar 2026 auf und schaffte die fiktive Dividendenausschüttung für Gewinne ab, die nach dem 31. Dezember 2025 erzielt werden."
+    a: "Fünfzehn Prozent. Der Zweite Anhang des Income Tax Law in der Fassung der am 31. Dezember 2025 im Amtsblatt veröffentlichten Steuerreformgesetze bestimmt, dass Gesellschaften auf jeden Euro des steuerpflichtigen Einkommens 15 % Körperschaftsteuer zahlen. Dasselbe Gesetzespaket hob die Stempelsteuergesetze mit Wirkung zum 1. Januar 2026 auf und schaffte die fiktive Dividendenausschüttung für Gewinne ab, die nach dem 31. Dezember 2025 erzielt werden."
   - q: "Was ist das UBO-Register und wann muss ich melden?"
     a: "Das Register der wirtschaftlich Berechtigten (Register of Beneficial Owners) wird vom Registrar of Companies im Rahmen der Geldwäschevorschriften geführt; es entspricht in seiner Funktion dem deutschen Transparenzregister. Eine neu gegründete Gesellschaft muss ihre wirtschaftlich Berechtigten innerhalb von 90 Tagen nach Gründung eintragen, Änderungen innerhalb von 45 Tagen nach Kenntnis melden, und jede Gesellschaft muss ihre Daten jedes Jahr zwischen dem 1. Oktober und dem 31. Dezember bestätigen. Der Registrar veröffentlicht die Sanktionen bei Verstößen. Treuhandkonstruktionen heben die Pflicht nicht auf: Das Register erfasst die natürlichen Personen, die die Gesellschaft letztlich halten oder kontrollieren."
   - q: "Wie schwierig ist die Eröffnung eines Geschäftskontos in Zypern?"
@@ -64,12 +64,12 @@ sources:
     url: https://www.cylaw.org/nomoi/arith/2025_1_245.pdf
   - title: "Zentralbank Zyperns — The Prevention of Money Laundering and Terrorist Financing Directive of 2025 (Mitteilung vom 2. Mai 2025, Englisch)"
     url: https://www.centralbank.cy/en/announcements/02-05-2025
-  - title: "EY Global Tax News — Cyprus enacts major tax reform legislation (7. Januar 2026, Englisch)"
-    url: https://globaltaxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation
+  - title: "CyLaw — Income Tax (Amending) (No. 4) Law of 2025, Gesetz 244(I)/2025, Amtsblatt Teil I(I) Nr. 5070, 31. Dezember 2025 (Griechisch)"
+    url: https://www.cylaw.org/nomoi/arith/2025_1_244.pdf
 ---
 Kalopetrides Law LLC gründet und betreut zyprische Gesellschaften für Gründer und Investoren aus dem Ausland. Die Kanzlei übernimmt die rechtliche Seite von der Namensgenehmigung bis zur Gründungsurkunde, registriert die Gesellschaft bei der Steuerverwaltung und im Register der wirtschaftlich Berechtigten, bereitet die Unterlagen für die Kontoeröffnung vor und entwirft die Gesellschaftervereinbarungen, Anteilsübertragungen und Handelsverträge, die die Gesellschaft im laufenden Betrieb braucht. Eingetragener Sitz, Company Secretary und Treuhanddienste kommen vom verbundenen Unternehmen der Kanzlei, TrustGate Corporate Services Ltd, sodass ein Team sowohl die Rechtsarbeit als auch die laufende Verwaltung abdeckt.
 
-Das zyprische Gesellschaftsrecht folgt dem englischen Common Law und ist im Companies Law, Cap. 113, kodifiziert; der Registrar of Companies, das zyprische Pendant zum Handelsregister, führt seine Akten auf Griechisch. Seit dem 1. Januar 2026 beträgt die Körperschaftsteuer 15 %, die Stempelsteuer ist aufgehoben, und eine in Zypern gegründete Gesellschaft ist allein durch die Gründung hier steuerlich ansässig. Diese Seite erklärt, wie das Verfahren abläuft und was ein Unternehmer aus Deutschland, Österreich, der Schweiz, den Niederlanden, Polen oder Israel erwarten sollte.
+Das zyprische Gesellschaftsrecht folgt dem englischen Common Law und ist im Companies Law, Cap. 113, kodifiziert; der Registrar of Companies, das zyprische Pendant zum Handelsregister, führt seine Akten auf Griechisch. Nach der Steuerreform vom Dezember 2025 beträgt die Körperschaftsteuer 15 %, die Stempelsteuer ist seit dem 1. Januar 2026 aufgehoben, und eine in Zypern gegründete Gesellschaft ist allein durch die Gründung hier steuerlich ansässig. Diese Seite erklärt, wie das Verfahren abläuft und was ein Unternehmer aus Deutschland, Österreich, der Schweiz, den Niederlanden, Polen oder Israel erwarten sollte.
 
 ## So läuft es in Zypern ab
 
@@ -81,7 +81,7 @@ Der gewünschte Name wird beim Registrar of Companies eingereicht, der ihn gegen
 
 ### Schritt 2 — Einreichung der Gründungsunterlagen
 
-Der Antrag wird über das elektronische System des Registrars oder in Papierform eingereicht. Er besteht aus:
+Der Antrag wird über das elektronische System des Registrars oder in Papierform eingereicht. Er besteht aus drei kurzen Formularen sowie dem Gesellschaftsvertrag und der Satzung (Memorandum and Articles of Association):
 
 - Formular HE1, einer eidesstattlichen Erklärung, die der mit der Gründung beauftragte Rechtsanwalt vor Gericht abgibt. Nur ein Rechtsanwalt kann diese Erklärung abgeben.
 - Memorandum und Articles of Association, dem Gegenstück zu Gesellschaftsvertrag und Satzung, unterzeichnet auf Griechisch. Eine beglaubigte Übersetzung kann für eine amtliche Übersetzungsakte zusätzlich eingereicht werden.
@@ -109,7 +109,7 @@ Die Anleitung des Registrars nennt, was auf die Urkunde folgt:
 - Eintragung der wirtschaftlich Berechtigten im Register of Beneficial Owners innerhalb von neunzig Tagen nach Gründung.
 - Ein Annual Return, der jedes Kalenderjahr mit einer Kopie des Jahresabschlusses beim Registrar eingereicht wird, sowie geprüfte Jahresabschlüsse mit der Steuererklärung beim Tax Department.
 
-Die jährliche Gesellschaftsabgabe von 350 €, die ältere Ratgeber noch erwähnen, wurde ab 2024 durch das Companies (Amendment) Law 25(I)/2024 abgeschafft, wie der Registrar mitgeteilt hat.
+Die jährliche Gesellschaftsabgabe, die ältere Ratgeber noch erwähnen, wurde ab 2024 durch das Companies (Amendment) Law 25(I)/2024 abgeschafft, wie der Registrar mitgeteilt hat.
 
 ## Das Register der wirtschaftlich Berechtigten
 
@@ -132,7 +132,7 @@ Die Richtlinie von 2025 hat die Banken auf einen risikobasierten Ansatz umgestel
 
 Die am 31. Dezember 2025 im Amtsblatt veröffentlichten Steuerreformgesetze haben die Lage für alle verändert, die 2026 gründen:
 
-- **Körperschaftsteuer 15 %.** Der Zweite Anhang des Income Tax Law bestimmt nun, dass Gesellschaften auf jeden Euro des steuerpflichtigen Einkommens 15 % Körperschaftsteuer zahlen; ab dem Steuerjahr 2026 ersetzt dieser Satz die bisherigen 12,5 %.
+- **Körperschaftsteuer 15 %.** Der Zweite Anhang des Income Tax Law bestimmt nun, dass Gesellschaften auf jeden Euro des steuerpflichtigen Einkommens 15 % Körperschaftsteuer zahlen; dieser Satz ersetzt die bisherigen 12,5 %.
 - **Steuerliche Ansässigkeit durch Gründung.** Section 2 des Income Tax Law behandelt eine Gesellschaft als in Zypern ansässig, wenn ihre Leitung und Kontrolle hier ausgeübt werden oder wenn sie nach dem Companies Law in Zypern gegründet ist, sofern ein Doppelbesteuerungsabkommen nichts anderes bestimmt. Eine Gesellschaft, die ihren eingetragenen Sitz nach Zypern verlegt, gilt als hier gegründet. Für einen Gründer mit Wohnsitz in Deutschland oder Österreich kann der Wohnsitzstaat die Ansässigkeit nach seinen eigenen Regeln weiterhin beanspruchen; dann entscheidet die Kollisionsregel des Abkommens.
 - **Stempelsteuer aufgehoben.** Das Gesetz 239(I)/2025 hob die Stempelsteuergesetze mit Wirkung zum 1. Januar 2026 auf, sodass Anteilsübertragungsurkunden, Darlehensverträge und Handelsverträge nicht mehr gestempelt werden müssen.
 - **Fiktive Ausschüttung abgeschafft.** Nach den Änderungen zur Special Contribution for the Defence gelten die Regeln zur fiktiven Dividendenausschüttung nicht mehr für Gewinne, die nach dem 31. Dezember 2025 erzielt werden.
@@ -205,14 +205,6 @@ Die Kanzlei nennt ihr Honorar nach einem ersten Gespräch, sobald die Struktur u
 | Stempelsteuer auf Verträge und Übertragungen | Aufgehoben zum 1. Januar 2026 |
 
 Die Namensgenehmigung reserviert den Namen für sechs Monate; die Steuerregistrierung muss innerhalb von sechzig Tagen nach Gründung erfolgen, die UBO-Meldung innerhalb von neunzig. Der Registrar veröffentlicht keine Standardbearbeitungszeit, und das Bankkonto richtet sich nach dem Zeitplan der Bank.
-
-## Häufig gestellte Fragen
-
-Die Fragen, die Gründer aus dem Ausland am häufigsten stellen, werden unten beantwortet.
-
-## Quellen
-
-Beträge und Fristen sind diejenigen, die der Registrar of Companies, CyLaw und die Zentralbank Zyperns am als „Aktualisiert“ angegebenen Datum veröffentlicht haben; sie ändern sich, und die Kanzlei prüft sie für jedes Mandat erneut. Die Primärquellen sind unten aufgeführt.
 
 ## Sprechen Sie mit der Kanzlei
 
