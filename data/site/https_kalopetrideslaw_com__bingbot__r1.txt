@@ -1,0 +1,20 @@
+# GET https://kalopetrideslaw.com/
+# UA bingbot: Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+# fetched 2026-10-05T22:32:31.524791Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 202 
+server: nginx
+date: Mon, 05 Oct 2026 22:32:31 GMT
+content-type: text/html
+content-length: 169
+sg-captcha: challenge
+x-robots-tag: noindex
+set-cookie: nevercache-b39818=Y;Max-Age=-1
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+cache-control: no-store,no-cache,max-age=0
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2F&y=ipc:160.79.106.130:1791239551.509"></meta></head></html>
+<<<CURL status=202 bytes=169 final=https://kalopetrideslaw.com/ redirects=0>>>

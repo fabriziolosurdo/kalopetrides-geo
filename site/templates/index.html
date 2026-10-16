@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="phead">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">{{ t.breadcrumb_home }}</a> › <span>{{ page.nav_label }}</span></nav>
+    <h1 class="h1">{{ page.h1 }}</h1>
+    <p class="lead">{{ page.summary }}</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap">
+    {% if page.key == 'services-index' %}
+    <div class="cards cards--3">
+      {% for s in services_primary %}
+      <a class="card" href="{{ s.url }}"><h2 class="h3">{{ s.nav_label }}</h2><p>{{ s.summary }}</p><span class="card__more">{{ t.learn_more }} →</span></a>
+      {% endfor %}
+    </div>
+    {% if services_secondary %}
+    <h2 class="h2 mt">{{ t.more_services }}</h2>
+    <div class="cards cards--4">
+      {% for s in services_secondary %}
+      <a class="card card--sm" href="{{ s.url }}"><h3>{{ s.nav_label }}</h3><p>{{ s.summary }}</p></a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% else %}
+    <div class="people people--index">
+      {% for p in persons %}
+      <a class="person" href="{{ p.url }}">
+        {% if p.person and p.person.image %}<img src="{{ p.person.image }}" alt="{{ p.person.name }}" width="400" height="500" loading="lazy">{% endif %}
+        <h2 class="h3">{{ p.person.name }}</h2>
+        <p>{{ p.person.jobTitle }}</p>
+        <p class="small">{{ p.summary }}</p>
+        <span class="card__more">{{ t.read_profile }} →</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

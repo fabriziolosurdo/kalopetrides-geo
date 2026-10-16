@@ -1,0 +1,297 @@
+# GET https://kalopetrideslaw.com/services-overview
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:34:57.383000Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:34:57 GMT
+content-type: text/html
+content-length: 30324
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: default-src 'self'; script-src 'self' 'sha256-qOhFsq0QMV2REqNwk5hGH5bZE9SkX6gt6yeyKdYPv+U='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.web3forms.com; frame-src https://maps.google.com https://www.google.com; form-action 'self' https://api.web3forms.com; base-uri 'self'; object-src 'none'; frame-ancestors 'self'
+last-modified: Sat, 13 Jun 2026 17:28:12 GMT
+etag: "7674-65425eaea2300"
+accept-ranges: bytes
+vary: Accept-Encoding
+cache-control: no-cache, must-revalidate
+expires: Mon, 05 Oct 2026 22:34:57 GMT
+x-httpd-modphp: 1
+host-header: 6b7412fb82ca5edfd0917e3957f05d89
+x-proxy-cache: MISS
+x-proxy-cache-info: 0 NC:000000 UP:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
+<title>Our Services — Kalopetrides Law LLC</title>
+<meta name="description" content="Real estate, banking & finance, corporate & commercial, immigration, tax, wills & probate, intellectual property, litigation and civil marriages — full-service legal expertise in Cyprus.">
+<link rel="canonical" href="https://kalopetrideslaw.com/services-overview">
+<meta property="og:title" content="Our Services — Kalopetrides Law LLC">
+<meta property="og:description" content="Real estate, banking & finance, corporate & commercial, immigration, tax, wills & probate, intellectual property, litigation and civil marriages — full-service legal expertise in Cyprus.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kalopetrideslaw.com/services-overview">
+<meta property="og:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:site_name" content="Kalopetrides Law LLC">
+<meta property="og:locale" content="en">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-600-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="common.skip">Skip to content</a>
+
+<header class="site-header header--solid">
+  <div class="container site-header__inner">
+    <a class="brand" href="index.html#welcome" aria-label="Kalopetrides Law LLC — home">
+      <img width="1000" height="300" class="logo-silver" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+      <img width="1000" height="300" class="logo-dark" src="assets/img/logo-dark.png" alt="Kalopetrides Law LLC">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+      <a href="about-us.html" data-i18n="nav.about">About Us</a>
+      <a href="services-overview.html" class="is-active" data-i18n="nav.services">Our Services</a>
+      <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+      <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+      <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--primary header-cta" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+      <div class="lang-toggle" role="group" aria-label="Language"><button type="button" class="lang-btn is-active" data-lang="en" aria-label="English" aria-pressed="true"><img src="assets/img/flag-uk.svg" alt="EN"></button><button type="button" class="lang-btn" data-lang="el" aria-label="Greek" aria-pressed="false"><img src="assets/img/flag-gr.svg" alt="EL"></button></div>
+      <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+  <a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a>
+  <a href="about-us.html" data-i18n="nav.about">About Us</a>
+  <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+  <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+  <a href="index.html#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+  <a href="index.html#team" data-i18n="nav.team">Our Team</a>
+  <a class="btn btn--primary" href="index.html#contact" data-i18n="cta.book">Book a Consultation</a>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<section class="page-hero">
+  <img width="1100" height="1100" class="page-hero__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html" data-i18n="breadcrumb.home">Home</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 6 6 6-6 6"/></svg>
+      <span data-i18n="nav.services">Our Services</span>
+    </nav>
+    <span class="eyebrow eyebrow--light" data-i18n="nav.services">Our Services</span>
+    <h1 data-i18n="services.heroTitle">Full-service legal<br>expertise in Cyprus</h1>
+    <p class="lead" data-i18n="services.heroLead">We are committed to delivering outstanding client service, unparalleled legal expertise in Cyprus, and a lasting positive impact on the community.</p>
+  </div>
+</section>
+
+<!-- Quick index -->
+<section class="section--tight" style="background:var(--paper);padding-top:clamp(2.5rem,5vw,4rem)">
+  <div class="container">
+    <div class="svc-grid" data-stagger>
+      <a class="svc-card" href="#real-estate"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-5h6v5"/><path d="M9 11h.01M15 11h.01"/></svg></span><h3 data-i18n="svc.realEstate.title">Real Estate &amp; Investment</h3><p data-i18n="svcq.realEstate.desc">Property transactions, investment strategies and regulatory compliance.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#banking"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10l9-6 9 6M5 10v9M9 10v9M15 10v9M19 10v9M3 21h18"/></svg></span><h3 data-i18n="svc.banking.title">Banking &amp; Finance</h3><p data-i18n="svcq.banking.desc">Financial transactions, loan agreements and cross-border financing.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#corporate"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18"/></svg></span><h3 data-i18n="svc.corporate.title">Corporate &amp; Commercial</h3><p data-i18n="svcq.corporate.desc">Company formation, governance, mergers and acquisitions.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#immigration"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg></span><h3 data-i18n="svc.immigration.title">Immigration Services</h3><p data-i18n="svcq.immigration.desc">Residency, work permits, investor visas and compliance.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#tax"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 17l6-6M9.5 8.5h.01M14.5 14.5h.01"/></svg></span><h3 data-i18n="svc.tax.title">Tax Advising</h3><p data-i18n="svcq.tax.desc">Strategic planning, corporate tax structuring and VAT guidance.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#wills"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l3 3v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/><path d="M14 3v4h4M8 13h8M8 17h5"/></svg></span><h3 data-i18n="svc.wills.title">Wills &amp; Probate</h3><p data-i18n="svcq.wills.desc">Drafting wills, administering estates and probate guidance.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#ip"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.2 1 2h6c0-.8.4-1.5 1-2A7 7 0 0 0 12 2z"/></svg></span><h3 data-i18n="svc.ip.title">Intellectual Property</h3><p data-i18n="svcq.ip.desc">Trademarks, patents, copyrights and IP dispute handling.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#litigation"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M7 21h10M5 7h14M7 7l-3 6a3 3 0 0 0 6 0L7 7zM17 7l-3 6a3 3 0 0 0 6 0l-3-6z"/></svg></span><h3 data-i18n="svc.litigation.title">Professional Litigation</h3><p data-i18n="svcq.litigation.desc">Commercial, corporate and civil dispute representation.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+      <a class="svc-card" href="#civil-marriages"><span class="svc-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="14" r="5"/><circle cx="15" cy="14" r="5"/><path d="M9 4l1.5 2M9 4L7.5 6M15 4l1.5 2M15 4l-1.5 2"/></svg></span><h3 data-i18n="svc.civil.title">Civil Marriages &amp; Partnerships</h3><p data-i18n="svcq.civil.desc">Civil marriages, partnerships and related legal matters.</p><span class="svc-card__more"><span data-i18n="common.readMore">Read more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+    </div>
+  </div>
+</section>
+
+<!-- Detailed sections -->
+<div style="background:var(--paper-2)">
+<section class="svc-detail" id="real-estate">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-5h6v5"/><path d="M9 11h.01M15 11h.01"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num1">01 — Practice Area</div>
+      <h2 data-i18n="svc.realEstate.title">Real Estate &amp; Investment</h2>
+      <p data-i18n="svcd.realEstate.p1">At Kalopetrides LLC, we provide comprehensive legal services tailored to the needs of clients engaged in real estate and investment activities. Whether you are an individual purchasing your first home or an international investor looking to expand your property portfolio in Cyprus, we offer expert guidance every step of the way. Our team has deep expertise in the full spectrum of real estate law — from residential and commercial property transactions, leasing agreements, and title searches, to zoning laws, construction disputes, and regulatory compliance.</p>
+      <p data-i18n="svcd.realEstate.p2">Cyprus, with its strategic location, tax benefits, and robust property market, offers an attractive environment for real estate investments. We assist clients in navigating the local regulatory landscape, ensuring that all transactions are secure and in full compliance with both Cypriot law and international standards. We also offer strategic advice on investment opportunities, joint ventures, property financing, and dispute resolution, helping you protect your assets and maximize returns.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="banking">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10l9-6 9 6M5 10v9M9 10v9M15 10v9M19 10v9M3 21h18"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num2">02 — Practice Area</div>
+      <h2 data-i18n="svc.banking.title">Banking &amp; Finance</h2>
+      <p data-i18n="svcd.banking.p1">Our Banking and Finance practice offers a comprehensive suite of services designed to meet the complex financial needs of both individuals and businesses. Whether you are seeking to finance a project, navigate the regulatory environment, or restructure your debt, our expert team has extensive experience in advising on banking laws and financial transactions in Cyprus and across the European Union.</p>
+      <p data-i18n="svcd.banking.p2">We provide guidance on a wide range of matters including loan agreements, security interests, debt collection, insolvency, and regulatory compliance with the Cyprus Securities and Exchange Commission (CySEC) and the Central Bank of Cyprus. For businesses, we specialize in facilitating cross-border transactions, mergers and acquisitions, and providing tailored financial structuring advice — safeguarding your financial interests while offering strategic solutions for both short-term and long-term goals.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="corporate">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num3">03 — Practice Area</div>
+      <h2 data-i18n="svc.corporate.title">Corporate &amp; Commercial</h2>
+      <p data-i18n="svcd.corporate.p1">Our Corporate and Commercial practice is designed to support businesses throughout their lifecycle — from formation and growth to expansion and restructuring. We provide legal services to local businesses, multinational corporations, and entrepreneurs seeking to establish or expand their operations in Cyprus and the EU.</p>
+      <p data-i18n="svcd.corporate.p2">Our expertise spans company formation, governance, mergers and acquisitions, joint ventures, and business restructuring. We assist in drafting and negotiating commercial contracts, intellectual property protection, regulatory compliance, and competition law issues. We will guide you through setting up a corporate structure that minimizes liabilities while maximizing opportunities, keeping your operations compliant with both Cypriot and EU laws.</p>
+      <p data-i18n="svcd.corporate.p3">In addition, through our affiliated company, <a href="trustgate.html" style="color:var(--gold-text);text-decoration:underline;text-underline-offset:3px">TrustGate Corporate Services Ltd</a>, we provide comprehensive corporate administration and nominee services — including nominee directors and shareholders, registered office facilities, company secretarial services, and ongoing corporate management and compliance support. This integrated structure enables us to deliver both legal and corporate services seamlessly, ensuring efficiency, confidentiality, and full regulatory compliance.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="immigration">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num4">04 — Practice Area</div>
+      <h2 data-i18n="svc.immigration.title">Immigration Services</h2>
+      <p data-i18n="svcd.immigration.p1">Cyprus, as a gateway to Europe, offers numerous opportunities for individuals and businesses looking to relocate, establish a presence, or invest. Our Immigration Services practice helps individuals and families navigate the often complex and evolving immigration laws in Cyprus. Whether you are looking to apply for a residency permit, citizenship, work visa, or investor visa, our team provides tailored advice to ensure a smooth and efficient process.</p>
+      <p data-i18n="svcd.immigration.p2">We also specialize in handling more complex immigration matters such as asylum applications, family reunification, and long-term residency. For businesses, we assist with securing work permits and compliance with local labor laws, helping employers bring skilled workers to Cyprus. With Cyprus' favorable tax regime, robust legal system, and access to the EU, we provide critical legal support for those looking to build a future here or expand their business within the European Union.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="tax">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 17l6-6M9.5 8.5h.01M14.5 14.5h.01"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num5">05 — Practice Area</div>
+      <h2 data-i18n="svc.tax.title">Tax Advising</h2>
+      <p data-i18n="svcd.tax.p1">Effective tax planning is essential for both individuals and businesses. Our Tax Advising practice provides strategic, efficient, and compliant tax solutions. We help clients optimize their tax structure and minimize liabilities through expert advice on Cypriot tax law, international tax treaties, and European Union tax regulations.</p>
+      <p data-i18n="svcd.tax.p2">Our services include advising on corporate tax, personal income tax, VAT, transfer pricing, and tax-efficient structuring of investments. We assist with the formation of tax-advantageous corporate entities in Cyprus, and our experts are well-versed in tax planning for cross-border transactions. For those in dispute with tax authorities, we provide expert representation in tax audits, appeals, and litigation — helping you achieve sustainable financial success while minimizing your tax exposure.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="wills">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l3 3v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/><path d="M14 3v4h4M8 13h8M8 17h5"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num6">06 — Practice Area</div>
+      <h2 data-i18n="svc.wills.title">Wills &amp; Probate</h2>
+      <p data-i18n="svcd.wills.p1">Planning for the future is one of the most important steps you can take to protect your assets and loved ones. Our Wills and Probate practice offers expert legal guidance in drafting wills, administering estates, and navigating the probate process under Cyprus law. We assist individuals in planning their estates in a tax-efficient manner, ensuring that your wishes are carried out and that your loved ones are cared for.</p>
+      <p data-i18n="svcd.wills.p2">Our team is skilled in managing complex estates, including cross-border inheritance issues, and can advise on the establishment of trusts to protect your assets. We also provide comprehensive probate services, helping executors and beneficiaries through the probate court process. Whether you are drafting a simple will or dealing with a multi-jurisdictional estate, our professionals provide clear, compassionate, and effective guidance.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="ip">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.2 1 2h6c0-.8.4-1.5 1-2A7 7 0 0 0 12 2z"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num7">07 — Practice Area</div>
+      <h2 data-i18n="svc.ip.title">Intellectual Property</h2>
+      <p data-i18n="svcd.ip.p1">In today's knowledge-driven economy, protecting your intellectual property is essential to safeguarding your business's competitive advantage and creative innovations. We offer a full range of IP services designed to help clients protect, manage, and enforce their intellectual property rights.</p>
+      <p data-i18n="svcd.ip.p2">We assist with the registration of trademarks, patents, copyrights, and design rights, and offer strategic advice on IP portfolio management. Our team is experienced in handling IP disputes — from infringement actions to licensing agreements — ensuring that your intellectual property is effectively enforced. We help businesses safeguard their innovations, manage cross-border licensing and distribution arrangements, and defend against IP violations both locally and internationally.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="litigation">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M7 21h10M5 7h14M7 7l-3 6a3 3 0 0 0 6 0L7 7zM17 7l-3 6a3 3 0 0 0 6 0l-3-6z"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num8">08 — Practice Area</div>
+      <h2 data-i18n="svc.litigation.title">Professional Litigation</h2>
+      <p data-i18n="svcd.litigation.p1">Our Litigation practice provides robust and strategic legal representation for clients involved in disputes. Whether you're dealing with corporate, commercial, or civil litigation, our experienced team is dedicated to achieving favorable outcomes through negotiation, mediation, and, when necessary, litigation in Cypriot courts.</p>
+      <p data-i18n="svcd.litigation.p2">We represent clients in a wide array of cases, including contract disputes, employment issues, commercial and shareholder disputes, property litigation, and debt recovery. Our litigation lawyers take a practical, solution-oriented approach, aiming to resolve disputes efficiently while protecting your interests. We also offer representation in arbitration and alternative dispute resolution (ADR) processes — and when litigation is necessary, we bring a wealth of courtroom experience to handle your case with the utmost professionalism and skill.</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="svc-detail" id="civil-marriages">
+  <div class="container"><div class="svc-detail__inner" data-reveal>
+    <div class="svc-detail__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="14" r="5"/><circle cx="15" cy="14" r="5"/><path d="M9 4l1.5 2M9 4L7.5 6M15 4l1.5 2M15 4l-1.5 2"/></svg></div>
+    <div>
+      <div class="svc-detail__num" data-i18n="svcd.num9">09 — Practice Area</div>
+      <h2 data-i18n="svc.civil.title">Civil Marriages &amp; Partnerships</h2>
+      <p data-i18n="svcd.civil.p1">We understand the importance of personal relationships and the legal aspects surrounding them. Our Civil Marriages and Partnerships practice is designed to provide expert guidance to individuals and couples seeking to formalize their relationships in Cyprus. Cyprus is known for its flexible and inclusive approach to civil marriages and partnerships, making it an attractive destination for both residents and international clients.</p>
+      <p data-i18n="svcd.civil.p2">We offer comprehensive services for individuals seeking to marry or enter into a civil partnership, ensuring all legal requirements are met for both domestic and international couples. For international clients, Cyprus offers an accessible, straightforward legal framework with no residency requirements for non-Cypriot nationals. We also assist in matters related to the recognition of foreign marriages, property rights, inheritance, and the legal implications of civil unions under Cypriot law — making your journey through the legal process smooth and your rights protected.</p>
+    </div>
+  </div></div>
+</section>
+</div>
+
+<section class="section cta-band">
+  <img width="1100" height="1100" class="cta-band__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true" loading="lazy">
+  <div class="container" data-reveal>
+    <span class="eyebrow eyebrow--center eyebrow--light" data-i18n="services.ctaEyebrow">A fresh perspective</span>
+    <h2 data-i18n="cta.ready">Ready to work with us?</h2>
+    <p data-i18n="services.ctaP">We're here to provide clear, practical legal solutions. Let's discuss your vision.</p>
+    <a class="btn btn--primary btn--lg" href="index.html#contact"><span data-i18n="cta.setAppointment">Set an appointment</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img width="1000" height="300" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+        <p data-i18n="footer.brand">A distinguished Larnaca law firm delivering strategic, results-driven legal solutions across Cyprus and the EU.</p>
+      </div>
+      <div class="footer-col"><h4 data-i18n="footer.navigate">Navigate</h4><ul>
+        <li><a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a></li>
+        <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+        <li><a href="services-overview.html" data-i18n="nav.services">Our Services</a></li>
+        <li><a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a></li>
+        <li><a href="index.html#team" data-i18n="nav.team">Our Team</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.company">Company</h4><ul>
+        <li><a href="csr.html" data-i18n="footer.csr">CSR</a></li>
+        <li><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a></li>
+        <li><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></li>
+        <li><a href="index.html#contact" data-i18n="footer.contact">Contact</a></li>
+      </ul></div>
+      <div class="footer-col"><h4 data-i18n="footer.getintouch">Get in touch</h4><address data-i18n="footer.address">
+        Gladstonos 1, Office 205<br>6023, Larnaca, Cyprus<br>
+        <a href="tel:+35724668667">+357 24668667</a><br>
+        <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>
+      </address></div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year>2026</span> Kalopetrides LLC. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="legal"><a href="csr.html" data-i18n="footer.csr">CSR</a><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></div>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" data-cookie-banner role="region" aria-label="Cookie consent">
+  <p class="cookie-banner__text" data-i18n="cookie.text">We use cookies to enhance your experience and to load embedded content such as Google Maps. See our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--on-dark" data-cookie-decline data-i18n="cookie.decline">Decline</button>
+    <button type="button" class="btn btn--primary" data-cookie-accept data-i18n="cookie.accept">Accept</button>
+  </div>
+</div>
+<script src="assets/js/i18n.js" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
+
+<<<CURL status=200 bytes=30324 final=https://kalopetrideslaw.com/services-overview redirects=0>>>

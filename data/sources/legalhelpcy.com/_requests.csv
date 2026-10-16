@@ -1,0 +1,8 @@
+utc,url,ua,status,bytes,final,file
+2026-10-08T14:51:46.354831Z,https://legalhelpcy.com/robots.txt,browser,200,2005,https://legalhelpcy.com/robots.txt,robots_txt.html
+2026-10-08T14:51:49.952986Z,https://legalhelpcy.com/,browser,200,166256,https://legalhelpcy.com/,home.html
+2026-10-08T14:51:53.136526Z,https://legalhelpcy.com/profile/kalopetrides-llc,browser,200,104007,https://legalhelpcy.com/profile/kalopetrides-llc,profile_kalopetrides_llc.html
+2026-10-08T14:52:20.885373Z,https://legalhelpcy.com/user/register,browser,ROBOTS_DISALLOW,0,,
+2026-10-08T14:53:02.031072Z,https://legalhelpcy.com/search,browser,200,175665,https://legalhelpcy.com/search,search.html
+2026-10-08T14:53:05.394592Z,https://legalhelpcy.com/for-lawyers,browser,200,69493,https://legalhelpcy.com/for-lawyers,for_lawyers.html
+2026-10-08T14:53:08.451591Z,https://legalhelpcy.com/help/add-profile,browser,200,71919,https://legalhelpcy.com/help/add-profile,help_add_profile.html

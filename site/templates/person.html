@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="phead">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">{{ t.breadcrumb_home }}</a> › {% if pages['team-index'] %}<a href="{{ pages['team-index'].url }}">{{ pages['team-index'].nav_label }}</a> › {% endif %}<span>{{ page.person.name }}</span></nav>
+  </div>
+</section>
+<div class="wrap layout layout--person">
+  <aside class="side side--person">
+    {% if page.person.image %}<img class="portrait" src="{{ page.person.image }}" alt="{{ page.person.name }}, {{ page.person.jobTitle }}" width="480" height="600">{% endif %}
+    <dl class="contact__dl">
+      {% if page.person.memberOf %}<dt>{{ t.regulated_by }}</dt><dd>{{ page.person.memberOf }}</dd>{% endif %}
+      {% if page.person.alumniOf %}<dt>Education</dt><dd>{{ page.person.alumniOf }}</dd>{% endif %}
+      <dt>{{ t.contact }}</dt><dd><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a><br><a href="tel:{{ cfg.phone_e164 }}">{{ cfg.phone_display }}</a></dd>
+    </dl>
+  </aside>
+  <article class="prose">
+    <h1 class="h1">{{ page.person.name }}</h1>
+    <p class="lead">{{ page.person.jobTitle }}</p>
+    {{ page.body_html|safe }}
+    <p class="meta">{{ t.updated }} <time datetime="{{ page.updated }}">{{ page.updated }}</time></p>
+  </article>
+</div>
+{% endblock %}

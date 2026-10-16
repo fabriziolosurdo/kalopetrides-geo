@@ -1,0 +1,340 @@
+# GET https://kalopetrideslaw.com/assets/js/main.js
+# UA browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+# fetched 2026-10-05T22:38:25.403981Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:38:25 GMT
+content-type: application/javascript
+content-length: 14863
+last-modified: Thu, 04 Jun 2026 15:24:57 GMT
+vary: Accept-Encoding
+etag: "6a2198c9-3a0f"
+expires: Tue, 05 Oct 2027 22:38:25 GMT
+cache-control: max-age=31536000
+host-header: 8441280b0c35cbc1147f8ba998a563a7
+x-proxy-cache-info: DT:1
+accept-ranges: bytes
+
+/* Kalopetrides Law LLC — interactions */
+(function () {
+  "use strict";
+  var doc = document, body = doc.body;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  /* ---------- Header scroll state ---------- */
+  var header = doc.querySelector(".site-header");
+  if (header && !header.classList.contains("header--solid")) {
+    var onScroll = function () {
+      header.classList.toggle("is-scrolled", window.scrollY > 40);
+    };
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+  }
+
+  /* inert helper: make background regions non-focusable while an overlay is open */
+  var setInert = function (els, on) {
+    els.forEach(function (el) { if (!el) return; on ? el.setAttribute("inert", "") : el.removeAttribute("inert"); });
+  };
+
+  /* ---------- Mobile nav ---------- */
+  var toggle = doc.querySelector(".menu-toggle");
+  var mobileNav = doc.querySelector(".mobile-nav");
+  if (toggle && mobileNav) {
+    var navBg = [doc.querySelector("#main"), doc.querySelector(".site-footer"), doc.querySelector("[data-cookie-banner]")];
+    var setNav = function (open) {
+      body.classList.toggle("nav-open", open);
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      setInert(navBg, open);
+    };
+    var closeNav = function () { setNav(false); };
+    toggle.addEventListener("click", function () { setNav(!body.classList.contains("nav-open")); });
+    mobileNav.querySelectorAll("a").forEach(function (a) { a.addEventListener("click", closeNav); });
+    doc.addEventListener("keydown", function (e) { if (e.key === "Escape") closeNav(); });
+  }
+
+  /* ---------- Reveal on scroll ---------- */
+  var revealEls = doc.querySelectorAll("[data-reveal],[data-stagger]");
+  if (revealEls.length) {
+    if (reduce || !("IntersectionObserver" in window)) {
+      revealEls.forEach(function (el) { el.classList.add("in"); });
+    } else {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          if (en.isIntersecting) { en.target.classList.add("in"); io.unobserve(en.target); }
+        });
+      }, { threshold: 0.12, rootMargin: "0px 0px -8% 0px" });
+      revealEls.forEach(function (el) { io.observe(el); });
+    }
+  }
+
+  /* ---------- Count-up stats ---------- */
+  var counters = doc.querySelectorAll("[data-count]");
+  if (counters.length) {
+    var runCount = function (el) {
+      var target = parseFloat(el.getAttribute("data-count"));
+      var dur = 1500, start = null;
+      var step = function (ts) {
+        if (!start) start = ts;
+        var p = Math.min((ts - start) / dur, 1);
+        var eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(target * eased).toString();
+        if (p < 1) requestAnimationFrame(step);
+        else el.textContent = target.toString();
+      };
+      requestAnimationFrame(step);
+    };
+    if (reduce || !("IntersectionObserver" in window)) {
+      counters.forEach(function (el) { el.textContent = el.getAttribute("data-count"); });
+    } else {
+      var cio = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          if (en.isIntersecting) { runCount(en.target); cio.unobserve(en.target); }
+        });
+      }, { threshold: 0.6 });
+      counters.forEach(function (el) { cio.observe(el); });
+    }
+  }
+
+  /* ---------- Testimonials carousel ---------- */
+  var carousel = doc.querySelector("[data-carousel]");
+  if (carousel) {
+    var track = carousel.querySelector(".testi__track");
+    var slides = Array.prototype.slice.call(track.children);
+    var dotsWrap = carousel.querySelector(".testi__dots");
+    var prevBtn = carousel.querySelector("[data-prev]");
+    var nextBtn = carousel.querySelector("[data-next]");
+    var index = 0, count = slides.length, timer = null, AUTO = 6500;
+
+    var dots = slides.map(function (_, i) {
+      var b = doc.createElement("button");
+      b.type = "button";
+      b.setAttribute("aria-label", "Go to testimonial " + (i + 1));
+      b.addEventListener("click", function () { go(i, true); });
+      dotsWrap.appendChild(b);
+      return b;
+    });
+
+    var render = function () {
+      track.style.transform = "translateX(" + (-index * 100) + "%)";
+      dots.forEach(function (d, i) { d.classList.toggle("is-active", i === index); });
+    };
+    var go = function (i, user) {
+      index = (i + count) % count;
+      render();
+      if (user) restart();
+    };
+    var next = function () { go(index + 1); };
+    var prev = function () { go(index - 1); };
+    var start = function () { if (!reduce) timer = setInterval(next, AUTO); };
+    var restart = function () { clearInterval(timer); start(); };
+
+    if (nextBtn) nextBtn.addEventListener("click", function () { next(); restart(); });
+    if (prevBtn) prevBtn.addEventListener("click", function () { prev(); restart(); });
+    carousel.addEventListener("mouseenter", function () { clearInterval(timer); });
+    carousel.addEventListener("mouseleave", restart);
+    // pause auto-advance while a keyboard user is focused inside (WCAG 2.2.2)
+    carousel.addEventListener("focusin", function () { clearInterval(timer); });
+    carousel.addEventListener("focusout", restart);
+
+    /* swipe */
+    var x0 = null;
+    var vp = carousel.querySelector(".testi__viewport");
+    vp.addEventListener("touchstart", function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+    vp.addEventListener("touchend", function (e) {
+      if (x0 === null) return;
+      var dx = e.changedTouches[0].clientX - x0;
+      if (Math.abs(dx) > 45) { dx < 0 ? next() : prev(); restart(); }
+      x0 = null;
+    }, { passive: true });
+
+    render(); start();
+  }
+
+  /* ---------- Team bio modal ---------- */
+  var modal = doc.querySelector("[data-modal]");
+  if (modal) {
+    var mImg = modal.querySelector("[data-m-img]");
+    var mName = modal.querySelector("[data-m-name]");
+    var mRole = modal.querySelector("[data-m-role]");
+    var mBody = modal.querySelector("[data-m-body]");
+    var lastFocus = null;
+
+    var openModal = function (card) {
+      lastFocus = card;
+      var lang = doc.documentElement.getAttribute("data-lang") || "en";
+      var roleVal = card.getAttribute("data-role");
+      var bioVal = card.getAttribute("data-bio");
+      if (lang === "el" && window.KLi18n) {
+        roleVal = window.KLi18n.t(card.getAttribute("data-role-key")) || roleVal;
+        bioVal = window.KLi18n.t(card.getAttribute("data-bio-key")) || bioVal;
+      }
+      mImg.src = card.getAttribute("data-photo");
+      mImg.alt = card.getAttribute("data-name");
+      mName.textContent = card.getAttribute("data-name");
+      mRole.textContent = roleVal;
+      mBody.innerHTML = "";
+      (bioVal || "").split("|").forEach(function (para) {
+        if (!para.trim()) return;
+        var p = doc.createElement("p"); p.textContent = para.trim(); mBody.appendChild(p);
+      });
+      modal.classList.add("is-open");
+      body.style.overflow = "hidden";
+      setInert([doc.querySelector(".site-header"), doc.querySelector(".mobile-nav"), doc.querySelector("#main"), doc.querySelector(".site-footer"), doc.querySelector("[data-cookie-banner]")], true);
+      modal.querySelector(".modal__close").focus();
+    };
+    var closeModal = function () {
+      modal.classList.remove("is-open");
+      body.style.overflow = "";
+      setInert([doc.querySelector(".site-header"), doc.querySelector(".mobile-nav"), doc.querySelector("#main"), doc.querySelector(".site-footer"), doc.querySelector("[data-cookie-banner]")], false);
+      if (lastFocus) lastFocus.focus();
+    };
+    doc.querySelectorAll("[data-member]").forEach(function (card) {
+      card.addEventListener("click", function () { openModal(card); });
+      card.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openModal(card); }
+      });
+    });
+    modal.querySelector(".modal__overlay").addEventListener("click", closeModal);
+    modal.querySelector(".modal__close").addEventListener("click", closeModal);
+    doc.addEventListener("keydown", function (e) { if (e.key === "Escape" && modal.classList.contains("is-open")) closeModal(); });
+  }
+
+  /* ---------- Active nav highlight (home anchors) ---------- */
+  var sections = doc.querySelectorAll("section[id]");
+  var navLinks = doc.querySelectorAll(".nav a[data-spy]");
+  if (sections.length && navLinks.length && "IntersectionObserver" in window) {
+    var spy = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting) {
+          var id = en.target.id;
+          navLinks.forEach(function (a) {
+            a.classList.toggle("is-active", a.getAttribute("href") === "#" + id || a.getAttribute("href").endsWith("#" + id));
+          });
+        }
+      });
+    }, { rootMargin: "-45% 0px -50% 0px" });
+    sections.forEach(function (s) { spy.observe(s); });
+  }
+
+  /* ---------- Contact form ---------- */
+  var form = doc.querySelector("[data-contact-form]");
+  if (form) {
+    var statusEl = form.querySelector(".form-status");
+    var submitBtn = form.querySelector("[type=submit]");
+    var btnLabel = submitBtn ? submitBtn.innerHTML : "";
+    // clear the invalid state once the user starts correcting a field
+    form.querySelectorAll("[name=name],[name=email],[name=message]").forEach(function (field) {
+      field.addEventListener("input", function () {
+        if (field.getAttribute("aria-invalid") === "true" && field.value.trim()) field.setAttribute("aria-invalid", "false");
+      });
+    });
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (form.querySelector("[name=website]") && form.querySelector("[name=website]").value) return; // honeypot
+      var T = function (k, en) { return (window.KLi18n && window.KLi18n.t(k)) || en; };
+
+      // Accessible client-side validation (form is novalidate)
+      var required = ["name", "email", "message"];
+      var firstBad = null;
+      required.forEach(function (n) {
+        var field = form.querySelector("[name=" + n + "]");
+        if (!field) return;
+        var val = (field.value || "").trim();
+        var bad = !val || (n === "email" && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val));
+        field.setAttribute("aria-invalid", bad ? "true" : "false");
+        if (bad && !firstBad) firstBad = field;
+      });
+      if (firstBad) {
+        statusEl.className = "form-status is-error";
+        statusEl.textContent = T("form.invalid", "Please fill in your name, a valid email, and a message.");
+        firstBad.focus();
+        statusEl.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "nearest" });
+        return;
+      }
+
+      statusEl.className = "form-status";
+      submitBtn.classList.add("is-loading");
+      submitBtn.innerHTML = '<span class="btn__spin"></span> ' + T("form.sending", "Sending…");
+
+      var data = new FormData(form);
+      fetch(form.getAttribute("action"), { method: "POST", body: data, headers: { "Accept": "application/json" } })
+        // Web3Forms returns JSON {success:true} on accept. (Legacy contact.php returned {ok:true}.)
+        // If the body isn't valid JSON (network/host failure) -> fall back to the email client below.
+        .then(function (r) { return r.text().then(function (t) { try { return JSON.parse(t); } catch (e) { return { success: false }; } }); })
+        .then(function (res) {
+          if (res && (res.success || res.ok)) {
+            statusEl.textContent = T("form.success", "Thank you — your message has been sent. A representative will reach out to you shortly.");
+            statusEl.classList.add("is-success");
+            form.reset();
+          } else {
+            throw new Error((res && res.error) || "send failed");
+          }
+        })
+        .catch(function () {
+          // Graceful fallback: open mail client with prefilled content
+          statusEl.innerHTML = T("form.errorHtml", 'We could not submit the form automatically. Please email us directly at <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>.');
+          statusEl.classList.add("is-error");
+          var subj = encodeURIComponent("Website enquiry from " + (data.get("name") || ""));
+          var body2 = encodeURIComponent(
+            "Name: " + (data.get("name") || "") + "\n" +
+            "Email: " + (data.get("email") || "") + "\n" +
+            "Company: " + (data.get("company") || "") + "\n\n" +
+            (data.get("message") || "")
+          );
+          window.location.href = "mailto:info@kalopetrideslaw.com?subject=" + subj + "&body=" + body2;
+        })
+        .finally(function () {
+          submitBtn.classList.remove("is-loading");
+          submitBtn.innerHTML = btnLabel;
+          statusEl.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "nearest" });
+        });
+    });
+  }
+
+  /* ---------- Click-to-load map (privacy: no Google request until opt-in) ---------- */
+  var mapLoad = doc.querySelector("[data-map-load]");
+  if (mapLoad) {
+    mapLoad.addEventListener("click", function () {
+      var wrap = mapLoad.closest("[data-map]");
+      var f = doc.createElement("iframe");
+      f.src = mapLoad.getAttribute("data-src");
+      f.title = mapLoad.getAttribute("data-title") || "Map";
+      f.loading = "lazy";
+      f.setAttribute("referrerpolicy", "no-referrer-when-downgrade");
+      f.setAttribute("allowfullscreen", "");
+      wrap.innerHTML = "";
+      wrap.appendChild(f);
+    });
+  }
+
+  /* ---------- Cookie consent (gates the Google Maps embed) ---------- */
+  var CONSENT_KEY = "kl_cookie_consent";
+  var getConsent = function () { try { return localStorage.getItem(CONSENT_KEY); } catch (e) { return null; } };
+  var setConsent = function (v) { try { localStorage.setItem(CONSENT_KEY, v); } catch (e) {} };
+  var loadMapNow = function () { var b = doc.querySelector("[data-map-load]"); if (b) b.click(); };
+
+  // Returning visitor who already accepted -> load the map straight away, no click needed.
+  if (getConsent() === "accepted") loadMapNow();
+
+  var cookieBanner = doc.querySelector("[data-cookie-banner]");
+  if (cookieBanner) {
+    if (!getConsent()) setTimeout(function () { cookieBanner.classList.add("is-visible"); }, 700);
+    var acceptBtn = cookieBanner.querySelector("[data-cookie-accept]");
+    var declineBtn = cookieBanner.querySelector("[data-cookie-decline]");
+    if (acceptBtn) acceptBtn.addEventListener("click", function () {
+      setConsent("accepted"); cookieBanner.classList.remove("is-visible"); loadMapNow();
+    });
+    if (declineBtn) declineBtn.addEventListener("click", function () {
+      setConsent("declined"); cookieBanner.classList.remove("is-visible");
+    });
+  }
+
+  /* ---------- Footer year ---------- */
+  var yearEl = doc.querySelector("[data-year]");
+  if (yearEl) yearEl.textContent = new Date().getFullYear();
+})();
+
+<<<CURL status=200 bytes=14863 final=https://kalopetrideslaw.com/assets/js/main.js redirects=0>>>

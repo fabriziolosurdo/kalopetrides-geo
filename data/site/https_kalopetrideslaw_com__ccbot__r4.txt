@@ -1,0 +1,629 @@
+# GET https://kalopetrideslaw.com/
+# UA ccbot: CCBot/2.0 (https://commoncrawl.org/faq/)
+# fetched 2026-10-05T22:37:04.479779Z
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Mon, 05 Oct 2026 22:37:04 GMT
+content-type: text/html
+content-length: 53801
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: default-src 'self'; script-src 'self' 'sha256-qOhFsq0QMV2REqNwk5hGH5bZE9SkX6gt6yeyKdYPv+U='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.web3forms.com; frame-src https://maps.google.com https://www.google.com; form-action 'self' https://api.web3forms.com; base-uri 'self'; object-src 'none'; frame-ancestors 'self'
+last-modified: Sat, 12 Sep 2026 12:53:04 GMT
+etag: "d229-65b48ae852c00"
+accept-ranges: bytes
+vary: Accept-Encoding
+cache-control: no-cache, must-revalidate
+expires: Mon, 05 Oct 2026 22:37:04 GMT
+x-httpd-modphp: 1
+host-header: 6b7412fb82ca5edfd0917e3957f05d89
+x-proxy-cache: MISS
+x-proxy-cache-info: 0 NC:000000 UP:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
+<title>Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus</title>
+<meta name="description" content="Kalopetrides Law LLC is a Larnaca-based law firm specializing in real estate, corporate, banking, tax, immigration and litigation across Cyprus and the EU.">
+<link rel="canonical" href="https://kalopetrideslaw.com/">
+<meta property="og:title" content="Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus">
+<meta property="og:description" content="Strategic, results-driven legal solutions across a wide range of practice areas in Cyprus.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kalopetrideslaw.com/assets/img/og-card.jpg">
+<meta property="og:url" content="https://kalopetrideslaw.com/">
+<meta property="og:site_name" content="Kalopetrides Law LLC">
+<meta property="og:locale" content="en">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/cormorant-garamond-600-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-400-n-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-600-n-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css?v=20260912-1455">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"LegalService",
+  "@id":"https://kalopetrideslaw.com/#organization",
+  "name":"Kalopetrides Law LLC",
+  "alternateName":"Savvas Kalopetrides LLC",
+  "description":"Kalopetrides Law LLC is a Larnaca-based Cyprus law firm providing expert legal services in real estate, corporate and commercial law, banking and finance, immigration, tax, wills and probate, intellectual property and litigation.",
+  "url":"https://kalopetrideslaw.com/",
+  "image":"https://kalopetrideslaw.com/assets/img/logo-silver.png",
+  "logo":"https://kalopetrideslaw.com/assets/img/logo-silver.png",
+  "telephone":"+357 24668667",
+  "email":"info@kalopetrideslaw.com",
+  "priceRange":"$$",
+  "address":{"@type":"PostalAddress","streetAddress":"Gladstonos 1, Office 205","addressLocality":"Larnaca","postalCode":"6023","addressCountry":"CY"},
+  "geo":{"@type":"GeoCoordinates","latitude":34.9174,"longitude":33.6337},
+  "hasMap":"https://maps.google.com/maps?q=Gladstonos%201%2C%20Larnaca%2C%20Cyprus",
+  "areaServed":[{"@type":"Country","name":"Cyprus"},{"@type":"Place","name":"European Union"}],
+  "knowsLanguage":["en","el"],
+  "founder":{"@type":"Person","name":"Savvas Kalopetrides","jobTitle":"Lawyer"},
+  "knowsAbout":["Real Estate Law","Corporate & Commercial Law","Banking & Finance Law","Immigration Law","Tax Law","Wills & Probate","Intellectual Property Law","Litigation","Company Formation"],
+  "openingHoursSpecification":[
+    {"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:00","closes":"13:00"},
+    {"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"14:00","closes":"17:00"}
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="common.skip">Skip to content</a>
+
+<!-- ===== Header ===== -->
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="index.html#welcome" aria-label="Kalopetrides Law LLC — home">
+      <img width="1000" height="300" class="logo-silver" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+      <img width="1000" height="300" class="logo-dark" src="assets/img/logo-dark.png" alt="Kalopetrides Law LLC">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="#welcome" data-spy data-i18n="nav.welcome">Welcome</a>
+      <a href="about-us.html" data-i18n="nav.about">About Us</a>
+      <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+      <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+      <a href="#testimonials" data-spy data-i18n="nav.testimonials">Testimonials</a>
+      <a href="#team" data-spy data-i18n="nav.team">Our Team</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--primary header-cta" href="#contact" data-i18n="cta.book">Book a Consultation</a>
+      <div class="lang-toggle" role="group" aria-label="Language"><button type="button" class="lang-btn is-active" data-lang="en" aria-label="English" aria-pressed="true"><img src="assets/img/flag-uk.svg" alt="EN"></button><button type="button" class="lang-btn" data-lang="el" aria-label="Greek" aria-pressed="false"><img src="assets/img/flag-gr.svg" alt="EL"></button></div>
+      <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===== Mobile nav ===== -->
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+  <a href="#welcome" data-i18n="nav.welcome">Welcome</a>
+  <a href="about-us.html" data-i18n="nav.about">About Us</a>
+  <a href="services-overview.html" data-i18n="nav.services">Our Services</a>
+  <a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a>
+  <a href="#testimonials" data-i18n="nav.testimonials">Testimonials</a>
+  <a href="#team" data-i18n="nav.team">Our Team</a>
+  <a class="btn btn--primary" href="#contact" data-i18n="cta.book">Book a Consultation</a>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<!-- ===== Hero ===== -->
+<section class="hero" id="welcome">
+  <span class="hero__glow" aria-hidden="true"></span>
+  <span class="hero__grain" aria-hidden="true"></span>
+  <span class="hero__lines" aria-hidden="true"></span>
+  <img width="1100" height="1100" class="hero__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true">
+  <div class="container hero__inner">
+    <span class="eyebrow eyebrow--light" data-i18n="hero.eyebrow">Established Excellence &bull; Larnaca, Cyprus</span>
+    <h1>
+      <span class="reveal-line"><span data-i18n="hero.title1">Your Trusted Legal</span></span>
+      <span class="reveal-line"><span data-i18n="hero.title2">Partner in <em>Cyprus.</em></span></span>
+    </h1>
+    <p class="lead" data-i18n="hero.lead">Our expert legal team offers strategic, results-driven solutions across real estate, corporate law, banking, tax advising and litigation — supported by modern, well-equipped offices and a genuinely personal approach.</p>
+    <div class="hero__actions">
+      <a class="btn btn--primary btn--lg" href="#contact"><span data-i18n="hero.book">Book a Consultation</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a>
+      <a class="btn btn--on-dark btn--lg" href="services-overview.html" data-i18n="hero.explore">Explore Our Services</a>
+    </div>
+  </div>
+  <span class="hero__scroll" aria-hidden="true"><span data-i18n="hero.scroll">Scroll</span><span></span></span>
+</section>
+
+<!-- ===== Stats ===== -->
+<section class="stats">
+  <div class="container">
+    <div class="stats__grid" data-stagger>
+      <div class="stat"><div class="stat__num"><span data-count="9">0</span></div><div class="stat__label" data-i18n="stats.areas">Practice Areas</div></div>
+      <div class="stat"><div class="stat__num"><span data-count="500">0</span><span class="plus">+</span></div><div class="stat__label" data-i18n="stats.clients">Clients Advised</div></div>
+      <div class="stat"><div class="stat__num">CY<span class="amp">+</span>EU</div><div class="stat__label" data-i18n="stats.reach">Local &amp; International Reach</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Practice Areas ===== -->
+<section class="section services" id="services">
+  <div class="container">
+    <div class="section-head section-head--center" data-reveal>
+      <span class="eyebrow eyebrow--center" data-i18n="svcSec.eyebrow">What We Do</span>
+      <h2 class="h-display" data-i18n="svcSec.title">Comprehensive legal expertise,<br>tailored to your goals</h2>
+    </div>
+    <div class="svc-grid" data-stagger>
+
+      <a class="svc-card" href="services-overview.html#real-estate">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-5h6v5"/><path d="M9 11h.01M15 11h.01"/></svg>
+        </span>
+        <h3 data-i18n="svc.realEstate.title">Real Estate &amp; Investment</h3>
+        <p data-i18n="svc.realEstate.desc">Expert legal guidance for property transactions, investment strategies and regulatory compliance in Cyprus.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#banking">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10l9-6 9 6M5 10v9M9 10v9M15 10v9M19 10v9M3 21h18"/></svg>
+        </span>
+        <h3 data-i18n="svc.banking.title">Banking &amp; Finance</h3>
+        <p data-i18n="svc.banking.desc">Legal expertise in financial transactions, loan agreements, regulatory compliance and cross-border financing.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#corporate">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18"/></svg>
+        </span>
+        <h3 data-i18n="svc.corporate.title">Corporate &amp; Commercial</h3>
+        <p data-i18n="svc.corporate.desc">Company formation, governance, mergers, acquisitions and regulatory compliance across Cyprus and the EU.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#immigration">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>
+        </span>
+        <h3 data-i18n="svc.immigration.title">Immigration Services</h3>
+        <p data-i18n="svc.immigration.desc">Residency, work permits, investor visas and immigration compliance for individuals and businesses.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#tax">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 17l6-6M9.5 8.5h.01M14.5 14.5h.01"/></svg>
+        </span>
+        <h3 data-i18n="svc.tax.title">Tax Advising</h3>
+        <p data-i18n="svc.tax.desc">Strategic planning, corporate tax structuring, VAT guidance and dispute resolution for financial efficiency.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#wills">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l3 3v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/><path d="M14 3v4h4M8 13h8M8 17h5"/></svg>
+        </span>
+        <h3 data-i18n="svc.wills.title">Wills &amp; Probate</h3>
+        <p data-i18n="svc.wills.desc">Drafting wills, administering estates and navigating probate to protect your assets and beneficiaries.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#ip">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.2 1 2h6c0-.8.4-1.5 1-2A7 7 0 0 0 12 2z"/></svg>
+        </span>
+        <h3 data-i18n="svc.ip.title">Intellectual Property</h3>
+        <p data-i18n="svc.ip.desc">Protection for trademarks, patents, copyrights and IP disputes to safeguard your business innovations.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#litigation">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M7 21h10M5 7h14M7 7l-3 6a3 3 0 0 0 6 0L7 7zM17 7l-3 6a3 3 0 0 0 6 0l-3-6z"/></svg>
+        </span>
+        <h3 data-i18n="svc.litigation.title">Professional Litigation</h3>
+        <p data-i18n="svc.litigation.desc">Representation in commercial, corporate and civil disputes, ensuring effective advocacy in and out of court.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+      <a class="svc-card" href="services-overview.html#civil-marriages">
+        <span class="svc-card__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="14" r="5"/><circle cx="15" cy="14" r="5"/><path d="M9 4l1.5 2M9 4L7.5 6M15 4l1.5 2M15 4l-1.5 2"/></svg>
+        </span>
+        <h3 data-i18n="svc.civil.title">Civil Marriages &amp; Partnerships</h3>
+        <p data-i18n="svc.civil.desc">Legal support for civil marriages, partnerships and related matters for local and international couples.</p>
+        <span class="svc-card__more"><span data-i18n="common.learnMore">Learn more</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== Welcome from Managing Director ===== -->
+<section class="section" id="welcome-md">
+  <div class="container">
+    <div class="split">
+      <div class="split__media" data-reveal="left">
+        <span class="frame" aria-hidden="true"></span>
+        <img width="803" height="1100" src="assets/img/office-savvas.jpg" alt="Savvas Kalopetrides, Managing Director, at work in the Larnaca office" loading="lazy">
+        <div class="split__badge">
+          <img width="512" height="512" src="assets/img/emblem.png" alt="" aria-hidden="true" loading="lazy">
+          <div><b data-i18n="md.badgeTitle">Larnaca</b><small data-i18n="md.badge">Cyprus</small></div>
+        </div>
+      </div>
+      <div data-reveal="right">
+        <span class="eyebrow" data-i18n="md.eyebrow">Welcome from our Managing Director</span>
+        <h2 class="h-display" data-i18n="md.title">Where every legal challenge is met with a tailored solution</h2>
+        <blockquote class="letter" data-i18n="md.quote">"At Kalopetrides LLC, we firmly believe that every individual and business deserves access to reliable, expert legal advice."</blockquote>
+        <p data-i18n="md.p1">We are committed to delivering high-quality counsel and support with a personalized touch, ensuring that our clients' needs are met with the utmost care and precision. Our firm combines a robust local presence with international reach, allowing us to navigate even the most complex legal landscapes with confidence.</p>
+        <p data-i18n="md.p2">Our mission is to deliver innovative legal solutions through thoughtful collaboration and meticulous attention to detail. Our experienced team is dedicated to advancing your goals, providing personalized support, and offering creative strategies that help drive your success.</p>
+        <div class="signature">
+          <div>
+            <span class="sig-name">Savvas Kalopetrides</span>
+            <small data-i18n="md.sigTitle">Founder &amp; Managing Director</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Values ===== -->
+<section class="section values">
+  <img width="1100" height="1100" class="values__emblem" src="assets/img/emblem-lg.png" alt="" aria-hidden="true" loading="lazy">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow eyebrow--light" data-i18n="values.eyebrow">Why Clients Choose Us</span>
+      <h2 class="h-display" data-i18n="values.title">A client-first firm, built on trust</h2>
+    </div>
+    <div class="values-grid" data-stagger>
+      <article class="value">
+        <div class="value__n">01</div>
+        <h3 data-i18n="value1.title">Integrity &amp; Excellence</h3>
+        <p data-i18n="value1.desc">An unwavering commitment to integrity, professionalism and the highest standards of legal advice in every matter we handle.</p>
+      </article>
+      <article class="value">
+        <div class="value__n">02</div>
+        <h3 data-i18n="value2.title">Local &amp; Global Reach</h3>
+        <p data-i18n="value2.desc">A strong presence across Cyprus combined with a network of trusted associates worldwide for seamless, cross-border support.</p>
+      </article>
+      <article class="value">
+        <div class="value__n">03</div>
+        <h3 data-i18n="value3.title">Personalized Approach</h3>
+        <p data-i18n="value3.desc">We treat each case with the utmost care and attention, offering strategic advice tailored to your specific goals and circumstances.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Trusted by ===== -->
+<section class="trusted">
+  <div class="container">
+    <p class="trusted__label" data-i18n="trusted.label">Trusted by businesses across Cyprus and beyond</p>
+    <div class="marquee">
+      <div class="marquee__track">
+        <img width="340" height="81" src="assets/img/client-dhl.png" alt="DHL Express" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-rise.png" alt="Rise Hotels" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-gig.png" alt="Gulf Insurance Group" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-jimmy.png" alt="Jimmy's Suites" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-cotton.png" alt="Cotton Colours" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-dhl.png" alt="" aria-hidden="true" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-rise.png" alt="" aria-hidden="true" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-gig.png" alt="" aria-hidden="true" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-jimmy.png" alt="" aria-hidden="true" loading="lazy">
+        <img width="340" height="81" src="assets/img/client-cotton.png" alt="" aria-hidden="true" loading="lazy">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Testimonials ===== -->
+<section class="section testi" id="testimonials">
+  <span class="testi__quotemark" aria-hidden="true">&ldquo;</span>
+  <div class="container">
+    <div class="section-head section-head--center" data-reveal>
+      <span class="eyebrow eyebrow--center" data-i18n="testi.eyebrow">Client Voices</span>
+      <h2 class="h-display" data-i18n="testi.title">Hear what our clients have to say</h2>
+      <p class="lead" data-i18n="testi.lead">Discover why clients across Cyprus and beyond choose Kalopetrides LLC.</p>
+    </div>
+
+    <div data-carousel data-reveal>
+      <div class="testi__viewport">
+        <div class="testi__track">
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg>
+            </div>
+            <p class="testi-quote" data-i18n="t1.quote">Mr. Kalopetrides provided me with excellent legal advice throughout the entire process of purchasing a property. As a German with high quality standards, I can recommend Mr. Kalopetrides without reservation.</p>
+            <div class="testi-author"><span class="avatar">TM</span><div><b>Tom Morgenstern</b><small data-i18n="t1.role">CEO of German development company</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t2.quote">His professionalism, expertise, and dedication to my case were evident from the very first consultation. If you're looking for a lawyer in Cyprus who combines legal expertise with genuine care for his clients, Savvas is the one to trust.</p>
+            <div class="testi-author"><span class="avatar">II</span><div><b>Issam Issa</b><small data-i18n="t2.role">National Customer Manager, DHL Express Lebanon</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t3.quote">I wholeheartedly recommend Mr. Savvas Kalopetrides for his outstanding professionalism and dedication. What truly sets him apart is his relentless commitment to achieving results, always on time and with exceptional efficiency.</p>
+            <div class="testi-author"><span class="avatar">JS</span><div><b>Jack Saniour</b><small data-i18n="t3.role">Rise Hotel Larnaca</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t4.quote">After several years of working with Mr. Savvas Kalopetrides, I would like to express my sincere appreciation for his professionalism, exceptional service, strong work ethic, responsiveness, and foresight. His expertise across a wide range of fields is both impressive and invaluable.</p>
+            <div class="testi-author"><span class="avatar">EB</span><div><b>Eitan Bar-on</b><small data-i18n="t4.role">CEO, E.B.O. Properties Ltd &amp; more</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t5.quote">What truly distinguishes Mr. Kalopetrides is his unwavering commitment to delivering results — always on time and with remarkable efficiency. Working with him has been a privilege, and I deeply value his expertise and reliability.</p>
+            <div class="testi-author"><span class="avatar">MI</span><div><b>Michel Issa</b><small data-i18n="t5.role">Head of Employee Benefits, Gulf Insurance Group</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t6.quote">His professionalism, which is a rare quality, consistently defines his approach. This perspective is shared by the many clients I have referred to him — each one equally impressed by his unwavering dedication, profound knowledge, and exemplary commitment to excellence.</p>
+            <div class="testi-author"><span class="avatar">SV</span><div><b>Svetlana Voitovice</b><small data-i18n="t6.role">CEO, Villavo Ltd</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t7.quote">Working with Mr. Kalopetrides is very relaxing — he's always on time, providing fast and clear solutions for our legal department and dealing professionally with every situation. He's been a great asset and added value to our company in Cyprus.</p>
+            <div class="testi-author"><span class="avatar">FD</span><div><b>Fouad Daher</b><small data-i18n="t7.role">Partner at Mediland Real Estate</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t8.quote">Savvas Kalopetrides stands out for his exceptional legal expertise, unwavering dedication to his clients, and strong professionalism. His deep knowledge, client-focused approach, and integrity consistently lead to outstanding results.</p>
+            <div class="testi-author"><span class="avatar">BM</span><div><b>Bechara Merhej</b><small data-i18n="t8.role">Jimmy's Suites Larnaca</small></div></div>
+          </div></div>
+
+          <div class="testi__slide"><div class="testi-card">
+            <div class="testi-stars" aria-label="5 out of 5 stars"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 17.8 6 20.6l1.4-6.7L2.3 9.3l6.8-.7z"/></svg></div>
+            <p class="testi-quote" data-i18n="t9.quote">Mr. Savvas is one of the best lawyers I have ever known. He is professional, friendly, cooperative, loyal and helpful — whenever you need him, you will find him. I think he is the best option for anyone seeking a competent lawyer.</p>
+            <div class="testi-author"><span class="avatar">SS</span><div><b>Sadek Salem</b><small data-i18n="t9.role">CEO, Sadek Salem Company Ltd</small></div></div>
+          </div></div>
+
+        </div>
+      </div>
+      <div class="testi__nav">
+        <button class="testi__arrow" data-prev aria-label="Previous testimonial"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+        <div class="testi__dots" aria-label="Choose testimonial"></div>
+        <button class="testi__arrow" data-next aria-label="Next testimonial"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Team ===== -->
+<section class="section team" id="team">
+  <div class="container">
+    <div class="section-head section-head--center" data-reveal>
+      <span class="eyebrow eyebrow--center" data-i18n="team.eyebrow">Our Team</span>
+      <h2 class="h-display" data-i18n="team.title">The people behind your success</h2>
+      <p class="lead" data-i18n="team.lead">With decades of combined expertise, each member is dedicated to tailored solutions and exceptional service — working collaboratively so every client receives the attention and results they deserve.</p>
+    </div>
+    <div class="team-grid" data-stagger>
+
+      <div class="member" data-member tabindex="0" role="button" aria-haspopup="dialog"
+        data-name="Savvas Kalopetrides" data-role="Founder &amp; Managing Director" data-role-key="role.md" data-bio-key="bio.savvas" data-photo="assets/img/team-savvas.jpg"
+        data-bio="Mr. Savvas Kalopetrides is the visionary founder and Managing Director of Kalopetrides LLC, a leading law firm offering expert legal counsel across a broad spectrum of sectors. He holds an LLB (Hons) in Law from the University of Reading and is an active member of the Cyprus Bar Association. He specializes in Real Estate Law, Corporate Law, Immigration, Banking and Finance, Commercial Law, Tax Advising as well as Civil and Criminal Litigation, providing sophisticated legal solutions to a wide array of clients.|Throughout his career, Mr. Kalopetrides has built a reputation for delivering unparalleled service to both domestic and international clients. His distinguished clientele includes private individuals, multinational corporations, and institutions, all of whom benefit from his strategic guidance and tailored legal services. By collaborating with prominent law firms around the world, he ensures that his clients receive effective and practical solutions aligned with their specific needs.|Known for his client-centric approach, Mr. Kalopetrides is dedicated to providing not only expert legal counsel but also a personalized experience. With a focus on building lasting relationships, he continues to be a trusted advisor, delivering innovative legal solutions that meet the complex needs of his clients.">
+        <div class="member__photo"><img width="800" height="1000" src="assets/img/team-savvas.jpg" alt="Savvas Kalopetrides" loading="lazy"></div>
+        <div class="member__info">
+          <h3>Savvas Kalopetrides</h3>
+          <span class="member__role" data-i18n="role.md">Managing Director</span>
+          <span class="member__btn"><span data-i18n="common.readBio">Read bio</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </div>
+
+
+      <div class="member" data-member tabindex="0" role="button" aria-haspopup="dialog"
+        data-name="Angelos Ioannou" data-role="Associate" data-role-key="role.associate" data-bio-key="bio.angelos" data-photo="assets/img/team-angelos.jpg"
+        data-bio="Mr. Angelos Ioannou is a distinguished external associate of the firm, specializing in Civil and Criminal Litigation, with particular expertise in real estate disputes, insurance claims, debt recovery, and general civil matters. He holds an LLB in Law from the University of Reading and is a member of the Cyprus Bar Association.|Mr. Ioannou has extensive experience in resolving a wide range of legal disputes, including conflicts between developers, purchasers, and tenants, as well as issues related to unpaid debts and insurance claims. He is adept at handling general civil litigation matters, providing expert legal counsel to clients involved in contract disputes, personal injury claims, and other civil matters.|With a thorough understanding of both civil and criminal law, Mr. Ioannou employs a strategic, client-focused approach to navigate complex legal issues and ensure favorable outcomes.">
+        <div class="member__photo"><img width="731" height="1000" src="assets/img/team-angelos.jpg" alt="Angelos Ioannou" loading="lazy"></div>
+        <div class="member__info">
+          <h3>Angelos Ioannou</h3>
+          <span class="member__role" data-i18n="role.associate">Associate</span>
+          <span class="member__btn"><span data-i18n="common.readBio">Read bio</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </div>
+
+      <div class="member" data-member tabindex="0" role="button" aria-haspopup="dialog"
+        data-name="Theodosis Kokozides" data-role="Associate" data-role-key="role.associate" data-bio-key="bio.theodosis" data-photo="assets/img/team-theodosis.jpg"
+        data-bio="Mr. Kokozides holds academic qualifications in Hospitality and Human Resources from Canterbury University and has built a strong international career through extensive professional experience in Cyprus and Germany. Having lived and worked abroad for several years, he has held key roles as Operations Manager and Administrator for multiple companies, gaining in-depth knowledge across corporate administration, real estate management, and operational oversight.|Throughout his career, he has worked closely with a wide range of companies and private clients, supporting them in identifying, reviewing, and evaluating business and real estate opportunities. His practical, hands-on approach allows him to guide clients smoothly through complex processes, ensuring clarity, efficiency, and informed decision-making at every stage.|With a strong emphasis on trust, reliability, and a client-focused philosophy, Mr. Kokozides is committed to quality, professionalism, and long-term client relationships, providing personalized support tailored to each client's needs.">
+        <div class="member__photo"><img width="800" height="1000" src="assets/img/team-theodosis.jpg" alt="Theodosis Kokozides" loading="lazy"></div>
+        <div class="member__info">
+          <h3>Theodosis Kokozides</h3>
+          <span class="member__role" data-i18n="role.associate">Associate</span>
+          <span class="member__btn"><span data-i18n="common.readBio">Read bio</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </div>
+
+      <div class="member" data-member tabindex="0" role="button" aria-haspopup="dialog"
+        data-name="Marianna Giannarou" data-role="Corporate Administrator" data-role-key="role.corporateAdmin" data-bio-key="bio.marianna" data-photo="assets/img/team-marianna.jpg"
+        data-bio="Mrs. Giannarou holds academic qualifications in Human Resource Management and Business Administration from the University of Central Lancashire Cyprus, where she graduated with distinction. She has developed extensive professional experience in corporate administration, operational management, compliance, and client relations through senior administrative and managerial roles across a range of industries in Cyprus and abroad. Having worked closely with multinational companies and international business operations across the Middle East, Africa, and Australia, she has gained valuable exposure to cross-border corporate environments, international business practices, and multicultural client relations.|Throughout her career, Mrs. Giannarou has been actively involved in overseeing corporate operations, coordinating administrative and regulatory procedures, supporting executive management, and ensuring compliance with internal policies, labour legislation, and operational requirements. Her experience includes managing international operations across African markets, handling corporate and administrative processes, coordinating recruitment and employee relations, maintaining strong relationships with clients and business partners, and supporting the smooth execution of day-to-day corporate functions in demanding business environments.|With a strong organisational and problem-solving approach, Mrs. Giannarou is recognised for her ability to manage complex administrative matters with professionalism, discretion, and efficiency. Her practical understanding of corporate procedures, combined with her client-focused philosophy and attention to detail, allows her to provide reliable support to both companies and private clients while ensuring clarity and effective coordination throughout every stage of the process.|Committed to professionalism, integrity, and long-term client relationships, Mrs. Giannarou takes pride in delivering personalised and dependable support tailored to the specific needs of each client, earning their trust through her dedication, accountability, and solution-oriented mindset.">
+        <div class="member__photo"><img width="800" height="1000" src="assets/img/team-marianna.jpg" alt="Marianna Giannarou" loading="lazy"></div>
+        <div class="member__info">
+          <h3>Marianna Giannarou</h3>
+          <span class="member__role" data-i18n="role.corporateAdmin">Corporate Administrator</span>
+          <span class="member__btn"><span data-i18n="common.readBio">Read bio</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== Contact ===== -->
+<section class="section contact" id="contact">
+  <span class="contact__glow" aria-hidden="true"></span>
+  <div class="container">
+    <div class="contact-grid">
+      <div class="contact-info" data-reveal="left">
+        <span class="eyebrow eyebrow--light" data-i18n="contact.eyebrow">Contact Us</span>
+        <h2 class="h-display" data-i18n="contact.title">We're eager to hear from you</h2>
+        <p class="lead" data-i18n="contact.lead">Let's discuss your vision. Reach out and a representative will get back to you promptly.</p>
+        <div class="info-list">
+          <div class="info-item">
+            <span class="info-item__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L16 13l5 2v4a2 2 0 0 1-2.2 2A17 17 0 0 1 2 6.2 2 2 0 0 1 4 4z"/></svg></span>
+            <div><small data-i18n="contact.phoneLabel">Phone &amp; Fax</small><a href="tel:+35724668667">+357 24668667</a> &nbsp;·&nbsp; <span>+357 24668664</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-item__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span>
+            <div><small data-i18n="contact.emailLabel">Email</small><a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a></div>
+          </div>
+          <div class="info-item">
+            <span class="info-item__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></span>
+            <div><small data-i18n="contact.officeLabel">Office</small><span data-i18n="contact.office">Gladstonos 1, Office 205, 6023 Larnaca, Cyprus</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-item__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span>
+            <div><small data-i18n="contact.hoursLabel">Office Hours</small><span data-i18n="contact.hours">Mon – Fri, 08:00 – 13:00 &nbsp;|&nbsp; 14:00 – 17:00</span></div>
+          </div>
+        </div>
+        <div class="map-embed" data-map>
+          <button type="button" class="map-embed__load" data-map-load
+            data-src="https://maps.google.com/maps?q=Gladstonos%201%2C%20Larnaca%2C%20Cyprus&z=15&output=embed"
+            data-title="Kalopetrides Law LLC location, Gladstonos 1, Larnaca">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+            <b data-i18n="contact.showMap">Show map</b>
+            <small data-i18n="contact.mapNote">Loads Google Maps (may set cookies)</small>
+          </button>
+        </div>
+      </div>
+
+      <div class="contact-card" data-reveal="right">
+        <h3 data-i18n="contact.formTitle">Send us a message</h3>
+        <p class="hint" data-i18n="contact.formHint">Fill out your information and a representative will reach out to you.</p>
+        <form data-contact-form action="https://api.web3forms.com/submit" method="post" novalidate>
+          <input type="hidden" name="access_key" value="ffeecfb8-97a1-42a8-9a01-f1b220b3e8d7">
+          <input type="hidden" name="subject" value="New enquiry — kalopetrideslaw.com">
+          <input type="hidden" name="from_name" value="Kalopetrides Law Website">
+          <input type="checkbox" name="botcheck" style="display:none !important" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <div class="form-row">
+            <div class="field">
+              <label for="name" data-i18n="form.name">Name</label>
+              <input id="name" name="name" type="text" required autocomplete="name" placeholder="Your full name" data-i18n-ph="form.namePh">
+            </div>
+            <div class="field">
+              <label for="email" data-i18n="form.email">Email</label>
+              <input id="email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+            </div>
+          </div>
+          <div class="field">
+            <label for="company" data-i18n="form.company">Company</label>
+            <input id="company" name="company" type="text" autocomplete="organization" placeholder="Company or organization" data-i18n-ph="form.companyPh">
+          </div>
+          <div class="field">
+            <label for="message" data-i18n="form.message">Your Message</label>
+            <textarea id="message" name="message" required placeholder="How can we help you?" data-i18n-ph="form.messagePh"></textarea>
+          </div>
+          <div class="field field--hp" aria-hidden="true">
+            <label for="website">Leave this field empty</label>
+            <input id="website" name="website" type="text" tabindex="-1" autocomplete="off">
+          </div>
+          <button type="submit" class="btn btn--primary btn--block btn--lg"><span data-i18n="form.submit">Submit</span>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </button>
+          <div class="form-status" role="status" aria-live="polite"></div>
+          <p class="form-note" data-i18n="form.note">By submitting, you agree to our <a href="privacy-policy.html" style="color:var(--gold-text)">Privacy Policy</a>.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img width="1000" height="300" src="assets/img/logo-silver.png" alt="Kalopetrides Law LLC">
+        <p data-i18n="footer.brand">A distinguished Larnaca law firm delivering strategic, results-driven legal solutions across Cyprus and the EU.</p>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.navigate">Navigate</h4>
+        <ul>
+          <li><a href="index.html#welcome" data-i18n="nav.welcome">Welcome</a></li>
+          <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+          <li><a href="services-overview.html" data-i18n="nav.services">Our Services</a></li>
+          <li><a href="trustgate.html" data-i18n="nav.trustgate">TrustGate</a></li>
+          <li><a href="index.html#team" data-i18n="nav.team">Our Team</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.company">Company</h4>
+        <ul>
+          <li><a href="csr.html" data-i18n="footer.csr">CSR</a></li>
+          <li><a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a></li>
+          <li><a href="imprint.html" data-i18n="footer.imprint">Imprint</a></li>
+          <li><a href="index.html#contact" data-i18n="footer.contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.getintouch">Get in touch</h4>
+        <address data-i18n="footer.address">
+          Gladstonos 1, Office 205<br>
+          6023, Larnaca, Cyprus<br>
+          <a href="tel:+35724668667">+357 24668667</a><br>
+          <a href="mailto:info@kalopetrideslaw.com">info@kalopetrideslaw.com</a>
+        </address>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year>2026</span> Kalopetrides LLC. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="legal">
+        <a href="csr.html" data-i18n="footer.csr">CSR</a>
+        <a href="privacy-policy.html" data-i18n="footer.privacy">Privacy Policy</a>
+        <a href="imprint.html" data-i18n="footer.imprint">Imprint</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== Team bio modal ===== -->
+<div class="modal" data-modal role="dialog" aria-modal="true" aria-labelledby="m-name">
+  <div class="modal__overlay"></div>
+  <div class="modal__dialog">
+    <div class="modal__head">
+      <button class="modal__close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+      <img data-m-img src="" alt="">
+      <div>
+        <h3 id="m-name" data-m-name></h3>
+        <span class="member__role" data-m-role></span>
+      </div>
+    </div>
+    <div class="modal__body" data-m-body></div>
+  </div>
+</div>
+
+<div class="cookie-banner" data-cookie-banner role="region" aria-label="Cookie consent">
+  <p class="cookie-banner__text" data-i18n="cookie.text">We use cookies to enhance your experience and to load embedded content such as Google Maps. See our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--on-dark" data-cookie-decline data-i18n="cookie.decline">Decline</button>
+    <button type="button" class="btn btn--primary" data-cookie-accept data-i18n="cookie.accept">Accept</button>
+  </div>
+</div>
+<script src="assets/js/i18n.js?v=20260912-1455" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
+
+<<<CURL status=200 bytes=53801 final=https://kalopetrideslaw.com/ redirects=0>>>

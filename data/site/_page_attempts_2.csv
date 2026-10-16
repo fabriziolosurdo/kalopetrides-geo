@@ -1,0 +1,28 @@
+url,status,bytes,title,canonical,robots_meta,x_robots_tag,sg_captcha,user_agent,file,attempt
+https://kalopetrideslaw.com/robots.txt,202,179,,,,noindex,challenge,browser,https_kalopetrideslaw_com_robots_txt__browser__try5.txt,5
+https://kalopetrideslaw.com/robots.txt,200,73,,,,,,browser,https_kalopetrideslaw_com_robots_txt__browser__try6.txt,6
+https://kalopetrideslaw.com/trustgate.html,200,16316,TrustGate Corporate Services — Kalopetrides Law LLC,https://kalopetrideslaw.com/trustgate,,,,browser,https_kalopetrideslaw_com_trustgate_html__browser__try5.txt,5
+https://kalopetrideslaw.com/trustgate,202,177,,,,noindex,challenge,browser,https_kalopetrideslaw_com_trustgate__browser__try5.txt,5
+https://kalopetrideslaw.com/trustgate,202,178,,,,noindex,challenge,browser,https_kalopetrideslaw_com_trustgate__browser__try6.txt,6
+https://kalopetrideslaw.com/trustgate,200,16316,TrustGate Corporate Services — Kalopetrides Law LLC,https://kalopetrideslaw.com/trustgate,,,,browser,https_kalopetrideslaw_com_trustgate__browser__try7.txt,7
+https://kalopetrideslaw.com/llms.txt,404,1747,Page not found — Kalopetrides Law LLC,,noindex,,,browser,https_kalopetrideslaw_com_llms_txt__browser__try5.txt,5
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,browser,https_kalopetrideslaw_com__browser__try5.txt,5
+https://kalopetrideslaw.com/about-us.html,200,13008,About Us — Kalopetrides Law LLC,https://kalopetrideslaw.com/about-us,,,,browser,https_kalopetrideslaw_com_about_us_html__browser__try5.txt,5
+https://kalopetrideslaw.com/services-overview.html,200,30324,Our Services — Kalopetrides Law LLC,https://kalopetrideslaw.com/services-overview,,,,browser,https_kalopetrideslaw_com_services_overview_html__browser__try5.txt,5
+https://kalopetrideslaw.com/csr,202,172,,,,noindex,challenge,browser,https_kalopetrideslaw_com_csr__browser__try5.txt,5
+https://kalopetrideslaw.com/csr,202,172,,,,noindex,challenge,browser,https_kalopetrideslaw_com_csr__browser__try6.txt,6
+https://kalopetrideslaw.com/csr,200,10114,Corporate Social Responsibility — Kalopetrides Law LLC,https://kalopetrideslaw.com/csr,,,,browser,https_kalopetrideslaw_com_csr__browser__try7.txt,7
+https://kalopetrideslaw.com/imprint,202,176,,,,noindex,challenge,browser,https_kalopetrideslaw_com_imprint__browser__try5.txt,5
+https://kalopetrideslaw.com/imprint,202,176,,,,noindex,challenge,browser,https_kalopetrideslaw_com_imprint__browser__try6.txt,6
+https://kalopetrideslaw.com/imprint,202,176,,,,noindex,challenge,browser,https_kalopetrideslaw_com_imprint__browser__try7.txt,7
+https://kalopetrideslaw.com/imprint,202,176,,,,noindex,challenge,browser,https_kalopetrideslaw_com_imprint__browser__try8.txt,8
+https://kalopetrideslaw.com/privacy-policy,403,75193,403 - Forbidden,,noindex,,,browser,https_kalopetrideslaw_com_privacy_policy__browser__try5.txt,5
+https://kalopetrideslaw.com/,202,169,,,,noindex,challenge,browser,https_kalopetrideslaw_com__browser__r4.txt,r4
+https://kalopetrideslaw.com/,202,169,,,,noindex,challenge,googlebot,https_kalopetrideslaw_com__googlebot__r4.txt,r4
+https://kalopetrideslaw.com/,202,169,,,,noindex,challenge,bingbot,https_kalopetrideslaw_com__bingbot__r4.txt,r4
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,gptbot,https_kalopetrideslaw_com__gptbot__r4.txt,r4
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,claudebot,https_kalopetrideslaw_com__claudebot__r4.txt,r4
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,perplexitybot,https_kalopetrideslaw_com__perplexitybot__r4.txt,r4
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,oai-searchbot,https_kalopetrideslaw_com__oai-searchbot__r4.txt,r4
+https://kalopetrideslaw.com/,202,169,,,,noindex,challenge,google-extended,https_kalopetrideslaw_com__google-extended__r4.txt,r4
+https://kalopetrideslaw.com/,200,53801,Kalopetrides Law LLC — Your Trusted Legal Partner in Cyprus,https://kalopetrideslaw.com/,,,,ccbot,https_kalopetrideslaw_com__ccbot__r4.txt,r4

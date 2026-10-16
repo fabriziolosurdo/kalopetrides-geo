@@ -1,0 +1,91 @@
+user_agent,page,result,file
+bingbot,/,202 challenge,https_kalopetrideslaw_com__bingbot.txt
+bingbot,/,202 challenge,https_kalopetrideslaw_com__bingbot__r1.txt
+bingbot,/,202 challenge,https_kalopetrideslaw_com__bingbot__r2.txt
+bingbot,/,202 challenge,https_kalopetrideslaw_com__bingbot__r3.txt
+bingbot,/,202 challenge,https_kalopetrideslaw_com__bingbot__r4.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__r1.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__r2.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__r3.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__r4.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__try1.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__try2.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__try3.txt
+browser,/,202 challenge,https_kalopetrideslaw_com__browser__try4.txt
+browser,/,200 (page served),https_kalopetrideslaw_com__browser__try5.txt
+ccbot,/,202 challenge,https_kalopetrideslaw_com__ccbot.txt
+ccbot,/,202 challenge,https_kalopetrideslaw_com__ccbot__r1.txt
+ccbot,/,202 challenge,https_kalopetrideslaw_com__ccbot__r2.txt
+ccbot,/,202 challenge,https_kalopetrideslaw_com__ccbot__r3.txt
+ccbot,/,200 (page served),https_kalopetrideslaw_com__ccbot__r4.txt
+claudebot,/,202 challenge,https_kalopetrideslaw_com__claudebot.txt
+claudebot,/,202 challenge,https_kalopetrideslaw_com__claudebot__r1.txt
+claudebot,/,202 challenge,https_kalopetrideslaw_com__claudebot__r2.txt
+claudebot,/,202 challenge,https_kalopetrideslaw_com__claudebot__r3.txt
+claudebot,/,200 (page served),https_kalopetrideslaw_com__claudebot__r4.txt
+google-extended,/,202 challenge,https_kalopetrideslaw_com__google-extended.txt
+google-extended,/,202 challenge,https_kalopetrideslaw_com__google-extended__r1.txt
+google-extended,/,202 challenge,https_kalopetrideslaw_com__google-extended__r2.txt
+google-extended,/,202 challenge,https_kalopetrideslaw_com__google-extended__r3.txt
+google-extended,/,202 challenge,https_kalopetrideslaw_com__google-extended__r4.txt
+googlebot,/,202 challenge,https_kalopetrideslaw_com__googlebot.txt
+googlebot,/,202 challenge,https_kalopetrideslaw_com__googlebot__r1.txt
+googlebot,/,202 challenge,https_kalopetrideslaw_com__googlebot__r2.txt
+googlebot,/,202 challenge,https_kalopetrideslaw_com__googlebot__r3.txt
+googlebot,/,202 challenge,https_kalopetrideslaw_com__googlebot__r4.txt
+gptbot,/,202 challenge,https_kalopetrideslaw_com__gptbot.txt
+gptbot,/,202 challenge,https_kalopetrideslaw_com__gptbot__r1.txt
+gptbot,/,202 challenge,https_kalopetrideslaw_com__gptbot__r2.txt
+gptbot,/,202 challenge,https_kalopetrideslaw_com__gptbot__r3.txt
+gptbot,/,200 (page served),https_kalopetrideslaw_com__gptbot__r4.txt
+oai-searchbot,/,200 (page served),https_kalopetrideslaw_com__oai-searchbot.txt
+oai-searchbot,/,202 challenge,https_kalopetrideslaw_com__oai-searchbot__r1.txt
+oai-searchbot,/,202 challenge,https_kalopetrideslaw_com__oai-searchbot__r2.txt
+oai-searchbot,/,202 challenge,https_kalopetrideslaw_com__oai-searchbot__r3.txt
+oai-searchbot,/,200 (page served),https_kalopetrideslaw_com__oai-searchbot__r4.txt
+perplexitybot,/,202 challenge,https_kalopetrideslaw_com__perplexitybot.txt
+perplexitybot,/,202 challenge,https_kalopetrideslaw_com__perplexitybot__r1.txt
+perplexitybot,/,202 challenge,https_kalopetrideslaw_com__perplexitybot__r2.txt
+perplexitybot,/,202 challenge,https_kalopetrideslaw_com__perplexitybot__r3.txt
+perplexitybot,/,200 (page served),https_kalopetrideslaw_com__perplexitybot__r4.txt
+bingbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__bingbot.txt
+bingbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__bingbot__r1.txt
+bingbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__bingbot__r2.txt
+bingbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__bingbot__r3.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__r1.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__r2.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__r3.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__try1.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__try2.txt
+browser,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__browser__try3.txt
+browser,/privacy-policy.html,200 (page served),https_kalopetrideslaw_com_privacy_policy_html__browser__try4.txt
+ccbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__ccbot.txt
+ccbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__ccbot__r1.txt
+ccbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__ccbot__r2.txt
+ccbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__ccbot__r3.txt
+claudebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__claudebot.txt
+claudebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__claudebot__r1.txt
+claudebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__claudebot__r2.txt
+claudebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__claudebot__r3.txt
+google-extended,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__google-extended.txt
+google-extended,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__google-extended__r1.txt
+google-extended,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__google-extended__r2.txt
+google-extended,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__google-extended__r3.txt
+googlebot,/privacy-policy.html,200 (page served),https_kalopetrideslaw_com_privacy_policy_html__googlebot.txt
+googlebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__googlebot__r1.txt
+googlebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__googlebot__r2.txt
+googlebot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__googlebot__r3.txt
+gptbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__gptbot.txt
+gptbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__gptbot__r1.txt
+gptbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__gptbot__r2.txt
+gptbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__gptbot__r3.txt
+oai-searchbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__oai-searchbot.txt
+oai-searchbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__oai-searchbot__r1.txt
+oai-searchbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__oai-searchbot__r2.txt
+oai-searchbot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__oai-searchbot__r3.txt
+perplexitybot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__perplexitybot.txt
+perplexitybot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__perplexitybot__r1.txt
+perplexitybot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__perplexitybot__r2.txt
+perplexitybot,/privacy-policy.html,202 challenge,https_kalopetrideslaw_com_privacy_policy_html__perplexitybot__r3.txt

@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="wrap hero__in">
+    <div class="hero__text">
+      {% if page.hero_eyebrow %}<p class="eyebrow">{{ page.hero_eyebrow }}</p>{% endif %}
+      <h1 class="h1">{{ page.hero_title or page.h1 }}</h1>
+      <p class="lead">{{ page.hero_text or page.summary }}</p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="{{ pages.contact.url if pages.contact else '#contact' }}">{{ page.cta_primary or t.book_consultation }}</a>
+        <a class="btn btn--ghost" href="{{ pages['services-index'].url if pages['services-index'] else '#services' }}">{{ page.cta_secondary or t.our_services }}</a>
+      </div>
+      {% if page.stats %}
+      <ul class="stats">
+        {% for s in page.stats %}<li><strong>{{ s.value }}</strong><span>{{ s.label }}</span></li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    <figure class="hero__media">
+      <img src="/assets/img/office-savvas.jpg" alt="Savvas Kalopetrides in the Larnaca office of Kalopetrides Law LLC" width="720" height="900" fetchpriority="high">
+    </figure>
+  </div>
+</section>
+
+<section class="sec" id="services">
+  <div class="wrap">
+    <p class="eyebrow">{{ t.our_services }}</p>
+    <h2 class="h2">{{ page.services_title or t.services_index_h1 }}</h2>
+    <div class="cards cards--5">
+      {% for s in services_primary %}
+      <a class="card" href="{{ s.url }}">
+        <h3>{{ s.nav_label }}</h3>
+        <p>{{ s.summary }}</p>
+        <span class="card__more">{{ t.learn_more }} →</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% if services_secondary %}
+    <p class="more-links"><span>{{ t.more_services }}:</span> {% for s in services_secondary %}<a href="{{ s.url }}">{{ s.nav_label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--alt">
+  <div class="wrap prose prose--home">
+    {{ page.body_html|safe }}
+  </div>
+</section>
+
+{% if persons %}
+<section class="sec" id="team">
+  <div class="wrap">
+    <p class="eyebrow">{{ t.our_team }}</p>
+    <h2 class="h2">{{ t.team_index_h1 }}</h2>
+    <div class="people">
+      {% for p in persons %}
+      <a class="person" href="{{ p.url }}">
+        {% if p.person and p.person.image %}<img src="{{ p.person.image }}" alt="{{ p.person.name }}" width="400" height="500" loading="lazy">{% endif %}
+        <h3>{{ p.person.name if p.person else p.h1 }}</h3>
+        <p>{{ p.person.jobTitle if p.person else '' }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec sec--alt" id="clients">
+  <div class="wrap">
+    <p class="eyebrow center">{{ t.trusted_by }}</p>
+    <ul class="logos">
+      {% for l in cfg.client_logos %}<li><img src="{{ l.file }}" alt="{{ l.alt }}" loading="lazy" height="40"></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sec" id="contact">
+  <div class="wrap">
+    <p class="eyebrow">{{ t.contact }}</p>
+    <h2 class="h2">{{ t.cta_title }}</h2>
+    {% include "_contact_block.html" %}
+  </div>
+</section>
+{% endblock %}
+{% block cta %}{% endblock %}
