@@ -3,7 +3,7 @@ key: service-corporate
 type: service
 slug: services/corporate-lawyer-cyprus
 title: "Corporate Lawyer in Cyprus — Kalopetrides Law LLC"
-description: "Cyprus company formation under Cap. 113, directors, UBO register, bank KYC, 15% corporate tax from 2026, share transfers and M&A. Larnaca firm, EN/DE/RU."
+description: "Cyprus company formation under Cap. 113, directors, UBO register, bank KYC, 15% corporate tax, share transfers and M&A. Larnaca firm, EN/DE/RU."
 h1: Corporate Lawyer in Cyprus
 summary: "Kalopetrides Law LLC forms and maintains Cyprus private limited companies for foreign entrepreneurs: name approval, incorporation under the Companies Law Cap. 113, tax and UBO registration, bank onboarding, shareholder agreements, share transfers and M&A. Registered office, nominee and secretarial services come through the affiliated TrustGate Corporate Services Ltd."
 updated: 2026-10-15

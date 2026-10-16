@@ -3,7 +3,7 @@ key: service-corporate
 type: service
 slug: leistungen/gesellschaftsrecht-zypern
 title: "Gesellschaftsrecht in Zypern — Kalopetrides Law LLC"
-description: "Gründung einer zyprischen Ltd nach Cap. 113, Direktoren, UBO-Register, Bank-KYC, 15 % Körperschaftsteuer ab 2026, Anteilsübertragung und M&A in Zypern."
+description: "Gründung einer zyprischen Ltd nach Cap. 113, Direktoren, UBO-Register, Bank-KYC, 15 % Körperschaftsteuer, Anteilsübertragung und M&A in Zypern."
 h1: Anwalt für Gesellschaftsrecht in Zypern
 summary: "Kalopetrides Law LLC gründet und betreut zyprische Private Limited Companies für Unternehmer aus dem Ausland: Namensgenehmigung, Eintragung nach dem Companies Law Cap. 113, Steuer- und UBO-Registrierung, Kontoeröffnung, Gesellschaftervereinbarungen, Anteilsübertragungen und M&A. Eingetragener Sitz, Treuhand- und Sekretariatsdienste übernimmt das verbundene Unternehmen TrustGate Corporate Services Ltd."
 updated: 2026-10-15
